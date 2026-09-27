@@ -154,7 +154,7 @@ export function generarPaginaHtml({ generadoEn, titulares, proximosActos }) {
 <body>
 <main>
   <header>
-    <h1>Noticias de la Iglesia<span class="h1-desde">desde Sevilla</span></h1>
+   <h1 style="text-align:center">Noticias de la Iglesia<span class="h1-desde">Comunidad Diaconal</span><span class="h1-desde">- Sevilla -</span></h1>
     <p class="subtitulo">Titulares ordenados cronológicamente, con enlace a la fuente original.<br>No se reproduce el contenido de las noticias.</p>
   </header>
 
