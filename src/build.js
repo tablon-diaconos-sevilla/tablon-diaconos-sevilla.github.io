@@ -11,7 +11,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { agregarTitulares } from "./agregador.js";
-import { crearFiltroDuplicados } from "./duplicados.js";
+import { crearFiltroDuplicados, ordenarPorPrioridad } from "./duplicados.js";
 import { generarPaginaHtml } from "./generador.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -48,8 +48,9 @@ function actosAnterioresVigentes(actos, ahora = new Date()) {
 }
 
 // Une los titulares nuevos con el histórico:
-// - si un titular está en ambos (misma URL o mismo titular de la misma
-//   fuente), gana la versión nueva;
+// - si un titular está en ambos (misma URL o mismo titular), gana la
+//   versión nueva; si el mismo titular viene de dos fuentes, gana la
+//   original (Archidiócesis antes que ODISUR);
 // - del histórico solo se conservan los de los últimos DIAS_HISTORICO días
 //   (los antiguos sin fecha reconocible se descartan, porque no se puede
 //   saber cuándo caducan);
@@ -59,13 +60,14 @@ function combinarConHistorico(nuevos, historico, ahora = new Date()) {
   const filtro = crearFiltroDuplicados();
   const resultado = [];
 
-  for (const t of nuevos) {
-    if (filtro.aceptar(t)) resultado.push(t);
-  }
-
-  for (const t of historico) {
+  const historicoVigente = historico.filter((t) => {
     const ms = t.fecha ? new Date(t.fecha).getTime() : NaN;
-    if (Number.isNaN(ms) || ms < limite) continue;
+    return !Number.isNaN(ms) && ms >= limite;
+  });
+
+  // Nuevos antes que histórico y, ante un mismo titular en dos fuentes, la
+  // fuente original antes que ODISUR (ver src/duplicados.js).
+  for (const t of ordenarPorPrioridad([...nuevos, ...historicoVigente])) {
     if (filtro.aceptar(t)) resultado.push(t);
   }
 
