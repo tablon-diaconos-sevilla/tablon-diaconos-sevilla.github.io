@@ -1,10 +1,64 @@
 {
-  "generadoEn": "2026-09-28T09:24:39.616Z",
+  "generadoEn": "2026-09-28T10:23:24.247Z",
   "titulares": [
+    {
+      "titulo": "Effetá Almería reúne en Padules a cerca de 90 personas en una jornada de convivencia",
+      "url": "https://odisur.es/almeria/effeta-almeria-reune-en-padules-a-cerca-de-90-personas-en-una-jornada-de-convivencia/",
+      "fecha": "2026-09-28T10:15:01.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "El Colegio San Francisco de Almería celebra una semana especial por el VIII Centenario del Tránsito",
+      "url": "https://odisur.es/almeria/el-colegio-san-francisco-de-almeria-celebra-una-semana-especial-por-el-viii-centenario-del-transito/",
+      "fecha": "2026-09-28T10:02:35.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "url": "https://www.catedraldesevilla.es/culmina-la-restauracion-de-tres-baules-historicos-de-la-catedral-de-sevilla/",
+      "titulo": "Culmina la restauración de tres baúles históricos de la Catedral de Sevilla",
+      "fecha": "2026-09-28T10:00:00.000Z",
+      "fuente": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "El Consejo Pastoral Diocesano abre el nuevo curso 2026/2027",
+      "url": "https://odisur.es/asidonia-jerez/el-consejo-pastoral-diocesano-abre-el-nuevo-curso-2026-2027/",
+      "fecha": "2026-09-28T08:40:32.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Proyecto Amor Conyugal organiza un nuevo Retiro de Matrimonios Jóvenes en la Diócesis",
+      "url": "https://odisur.es/cadiz-y-ceuta/proyecto-amor-conyugal-organiza-un-nuevo-retiro-de-matrimonios-jovenes-en-la-diocesis/",
+      "fecha": "2026-09-28T08:13:49.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Cáritas Diocesana de Almería abre su Voluntariado Joven a nuevos participantes",
+      "url": "https://odisur.es/almeria/caritas-diocesana-de-almeria-abre-su-voluntariado-joven-a-nuevos-participantes/",
+      "fecha": "2026-09-28T07:53:42.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Un ciclo de conferencias completa la exposición «Regina Maris» dedicada a la Virgen del Mar",
+      "url": "https://odisur.es/almeria/un-ciclo-de-conferencias-completa-la-exposicion-regina-maris-dedicada-a-la-virgen-del-mar/",
+      "fecha": "2026-09-28T07:43:26.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "El pintor almeriense Sarabia dona dos obras pictóricas a la Catedral",
+      "url": "https://odisur.es/almeria/el-pintor-almeriense-sarabia-dona-dos-obras-pictoricas-a-la-catedral/",
+      "fecha": "2026-09-28T07:30:45.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "La Iglesia de Huelva vuelve a alzar su voz por un trabajo decente para todas las personas",
       "url": "https://odisur.es/huelva/la-iglesia-de-huelva-vuelve-a-alzar-su-voz-por-un-trabajo-decente-para-todas-las-personas/",
       "fecha": "2026-09-28T07:04:13.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "El Estadio de La Cartuja acogerá un encuentro solidario en apoyo al pueblo de Ceuta",
+      "url": "https://odisur.es/cadiz-y-ceuta/el-estadio-de-la-cartuja-acogera-un-encuentro-solidario-en-apoyo-al-pueblo-de-ceuta/",
+      "fecha": "2026-09-28T06:43:19.000Z",
       "fuente": "ODISUR"
     },
     {
@@ -194,14 +248,5 @@
       "archivoIcs": "actos/2028-06-24-coronacion-de-la-virgen-de-los-dolores-de-guillena.ics"
     }
   ],
-  "errores": [
-    {
-      "fuente": "fuente_2",
-      "error": "catedraldesevilla.es: no se encontró ninguna noticia en la página (¿ha cambiado la maquetación?)"
-    },
-    {
-      "fuente": "fuente_3",
-      "error": "Status code 415"
-    }
-  ]
+  "errores": []
 }
