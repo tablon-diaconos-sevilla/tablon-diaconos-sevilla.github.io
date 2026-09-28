@@ -26,7 +26,37 @@ export async function obtenerProximosActos() {
     titulo: (evento.title || "").trim(),
     url: evento.url,
     fecha: evento.start_date || null,
+    // Datos extra para el botón "Añadir a mi agenda" (ver src/calendario.js).
+    fechaFin: fechaIso(evento.end_date),
+    todoElDia: Boolean(evento.all_day),
+    lugar: lugarDelEvento(evento.venue),
     fuente: FUENTE,
     esAgenda: true,
   }));
+}
+
+// La API da las fechas en hora de Madrid ("2026-10-01 10:00:00"); el build
+// se ejecuta con TZ=Europe/Madrid, así que new Date() las interpreta bien.
+function fechaIso(texto) {
+  if (!texto) return null;
+  const d = new Date(texto);
+  return Number.isNaN(d.getTime()) ? null : d.toISOString();
+}
+
+// "venue" puede venir como objeto ({ venue, address, city }) o vacío ([]).
+function lugarDelEvento(venue) {
+  if (!venue || Array.isArray(venue)) return "";
+  const partes = [venue.venue, venue.address, venue.city]
+    .map((p) => decodificarEntidades(String(p || "").trim()))
+    .filter(Boolean);
+  return [...new Set(partes)].join(", ");
+}
+
+function decodificarEntidades(texto) {
+  return texto
+    .replace(/&#8211;/g, "–")
+    .replace(/&#8217;/g, "’")
+    .replace(/&quot;/g, '"')
+    .replace(/&#0?39;/g, "'")
+    .replace(/&amp;/g, "&");
 }
