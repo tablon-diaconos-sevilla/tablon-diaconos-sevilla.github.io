@@ -41,10 +41,11 @@ function renderizarBotonesAgenda(item) {
   const google = enlaceGoogleCalendar(item);
   return `
         <span class="agenda">
-          <a class="agenda__boton" href="${escapeHtml(item.archivoIcs)}">📅 Añadir a mi agenda</a>${
+          <span class="agenda__etiqueta">Añadir a mi agenda:</span>
+          <a class="agenda__boton" href="${escapeHtml(item.archivoIcs)}">📅 iPhone</a>${
             google
               ? `
-          <a class="agenda__boton agenda__boton--secundario" href="${escapeHtml(google)}" target="_blank" rel="noopener noreferrer">Google Calendar</a>`
+          <a class="agenda__boton" href="${escapeHtml(google)}" target="_blank" rel="noopener noreferrer">📅 Android / Google</a>`
               : ""
           }
         </span>`;
@@ -162,6 +163,7 @@ export function generarPaginaHtml({ generadoEn, titulares, proximosActos }) {
     flex-basis: 100%;
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
     gap: 8px;
     margin-top: 4px;
   }
@@ -177,7 +179,11 @@ export function generarPaginaHtml({ generadoEn, titulares, proximosActos }) {
   }
   .agenda__boton:hover,
   .agenda__boton:focus-visible { background: var(--acento); color: var(--fondo); }
-  .agenda__boton--secundario { border-color: var(--borde); color: var(--texto-tenue); }
+  .agenda__etiqueta {
+    color: var(--texto-tenue);
+    font-size: 0.82rem;
+    align-self: center;
+  }
   .suscripcion {
     font-size: 0.85rem;
     color: var(--texto-tenue);
