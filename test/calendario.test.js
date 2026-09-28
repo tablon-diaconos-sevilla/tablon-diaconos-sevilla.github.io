@@ -52,7 +52,8 @@ test("la página muestra los botones solo en los próximos actos", () => {
     titulares: [{ titulo: "Noticia", url: "https://x.org/n", fecha: "2026-09-27T10:00:00Z", fuente: "X" }],
     proximosActos: asignarArchivosIcs([acto]),
   });
-  assert.equal(html.match(/Añadir a mi agenda/g).length, 1);
+  assert.equal(html.match(/📅 iPhone/g).length, 1);
+  assert.equal(html.match(/📅 Android \/ Google/g).length, 1);
   assert.match(html, /href="actos\/2026-10-17-encuentro-diaconos\.ics"/);
   assert.match(html, /webcal:\/\/tablon-diaconos-sevilla\.github\.io\/agenda\.ics/);
 });
