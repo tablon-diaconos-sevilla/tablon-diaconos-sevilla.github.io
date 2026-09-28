@@ -28,9 +28,13 @@ function renderizarItem(item) {
   return `
       <li class="titular">
         <span class="titular__fecha">${formatearFecha(item.fecha)}</span>
-        <a class="titular__enlace" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
+        ${
+          item.sinEnlace
+            ? `<span class="titular__enlace">${escapeHtml(item.titulo)}</span>`
+            : `<a class="titular__enlace" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
           ${escapeHtml(item.titulo)}
-        </a>
+        </a>`
+        }
         <span class="titular__fuente">${escapeHtml(item.fuente)}</span>${renderizarBotonesAgenda(item)}
       </li>`;
 }
@@ -218,7 +222,7 @@ export function generarPaginaHtml({ generadoEn, titulares, proximosActos }) {
   ${renderizarSeccion("Últimas noticias", titulares, "No se han encontrado titulares por ahora.")}
 
   <footer>
-    Actualizado automáticamente el ${escapeHtml(actualizado)}. Fuentes: Archidiócesis de Sevilla, ODISUR, Catedral de Sevilla.
+    Actualizado automáticamente el ${escapeHtml(actualizado)}. Fuentes: Archidiócesis de Sevilla, ODISUR, Catedral de Sevilla, Conferencia Episcopal Española y Delegación para el Clero.
   </footer>
 </main>
 </body>

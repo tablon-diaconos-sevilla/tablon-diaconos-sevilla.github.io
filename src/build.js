@@ -14,6 +14,11 @@ import { agregarTitulares } from "./agregador.js";
 import { crearFiltroDuplicados, ordenarPorPrioridad } from "./duplicados.js";
 import { generarPaginaHtml } from "./generador.js";
 import {
+  FUENTE_CLERO,
+  mezclarActos,
+  obtenerActosClero,
+} from "./fuentes/agenda-clero.js";
+import {
   asignarArchivosIcs,
   generarIcsActo,
   generarIcsSuscripcion,
@@ -109,7 +114,25 @@ async function main() {
   );
 
   if (resultado.errores.some((e) => e.fuente === "agenda")) {
-    resultado.proximosActos = actosAnterioresVigentes(historico.proximosActos);
+    // Los de la Delegación para el Clero no dependen de archisevilla.org:
+    // se vuelven a leer de data/agenda-clero.json y se mezclan de nuevo.
+    const anterioresArchi = actosAnterioresVigentes(historico.proximosActos).filter(
+      (a) => a.fuente !== FUENTE_CLERO
+    );
+    let actosClero = [];
+    try {
+      actosClero = await obtenerActosClero();
+    } catch {
+      actosClero = actosAnterioresVigentes(historico.proximosActos).filter(
+        (a) => a.fuente === FUENTE_CLERO
+      );
+    }
+    resultado.proximosActos = mezclarActos(anterioresArchi, actosClero).sort((a, b) => {
+      if (!a.fecha && !b.fecha) return 0;
+      if (!a.fecha) return 1;
+      if (!b.fecha) return -1;
+      return new Date(a.fecha) - new Date(b.fecha);
+    });
     console.error(
       `[aviso] Agenda no disponible: se mantienen ${resultado.proximosActos.length} actos de la actualización anterior.`
     );

@@ -78,6 +78,7 @@ function nombreBase(acto) {
   try {
     const partes = new URL(acto.url).pathname.split("/").filter(Boolean);
     slug = partes[partes.length - 1] || "";
+    if (!slug) slug = acto.titulo || "";
   } catch {
     slug = acto.titulo || "";
   }

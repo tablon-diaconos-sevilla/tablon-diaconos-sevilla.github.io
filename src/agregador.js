@@ -11,6 +11,7 @@ import * as odisur from "./fuentes/odisur.js";
 import * as catedral from "./fuentes/catedral.js";
 import * as agenda from "./fuentes/agenda.js";
 import * as cee from "./fuentes/cee.js";
+import * as agendaClero from "./fuentes/agenda-clero.js";
 import { quitarDuplicados } from "./duplicados.js";
 
 const FUENTES_NOTICIAS = [archisevilla, odisur, catedral, cee];
@@ -48,6 +49,7 @@ function ordenarPorFechaDesc(titulares) {
 export async function agregarTitulares({
   fuentesNoticias = FUENTES_NOTICIAS,
   fuenteAgenda = agenda,
+  fuenteClero = agendaClero,
   incluirAgenda = true,
 } = {}) {
   const resultadosNoticias = await Promise.allSettled(
@@ -74,6 +76,17 @@ export async function agregarTitulares({
       proximosActos = await fuenteAgenda.obtenerProximosActos();
     } catch (error) {
       errores.push({ fuente: "agenda", error: error.message || String(error) });
+    }
+
+    // Agenda anual de la Delegación para el Clero (data/agenda-clero.json),
+    // mezclada con la de Archisevilla sin repetir actos.
+    if (fuenteClero) {
+      try {
+        const actosClero = await fuenteClero.obtenerActosClero();
+        proximosActos = agendaClero.mezclarActos(proximosActos, actosClero);
+      } catch (error) {
+        errores.push({ fuente: "agenda-clero", error: error.message || String(error) });
+      }
     }
   }
 
