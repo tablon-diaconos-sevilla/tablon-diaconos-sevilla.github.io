@@ -30,7 +30,7 @@ test("agrega, ordena cronológicamente y quita duplicados por URL", async () => 
     },
   };
 
-  const resultado = await agregarTitulares({ fuentesNoticias, fuenteAgenda });
+  const resultado = await agregarTitulares({ fuentesNoticias, fuenteAgenda, fuenteClero: null });
 
   assert.equal(resultado.errores.length, 0);
   assert.equal(resultado.titulares.length, 4); // 2 archisevilla + 1 odisur + 1 catedral, sin el duplicado
@@ -58,7 +58,7 @@ test("recoge el error de una fuente sin tumbar el build entero", async () => {
     },
   };
 
-  const resultado = await agregarTitulares({ fuentesNoticias, fuenteAgenda });
+  const resultado = await agregarTitulares({ fuentesNoticias, fuenteAgenda, fuenteClero: null });
 
   assert.equal(resultado.titulares.length, muestraArchisevilla.length);
   assert.equal(resultado.errores.length, 1);
