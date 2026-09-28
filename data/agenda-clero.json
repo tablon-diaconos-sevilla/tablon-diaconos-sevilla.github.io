@@ -1,0 +1,97 @@
+{
+  "_nota": "Agenda de la Delegación Diocesana para el Clero, curso 2026-27, filtrada para la Comunidad Diaconal. Se edita a mano una vez al año (o si llega una corrección). Horas en hora de Madrid. Si un acto no tiene hora, poner todoElDia: true y la hora 00:00. Si un acto no tiene lugar, dejar lugar vacío.",
+  "actos": [
+    {
+      "titulo": "Misa solemne de inauguración del año académico (11:00, Seminario) y Lección inaugural (12:00, Facultad de Teología)",
+      "fecha": "2026-10-01T11:00:00+02:00",
+      "fechaFin": "2026-10-01T13:00:00+02:00",
+      "lugar": "Seminario · Facultad de Teología"
+    },
+    {
+      "titulo": "Retiro de inicio de curso del clero (dirige D. José Ángel, Arzobispo)",
+      "fecha": "2026-10-15T10:30:00+02:00",
+      "lugar": "Seminario"
+    },
+    {
+      "titulo": "Formación de la Hermandad de San Pedro ad Vincula",
+      "fecha": "2026-10-21T12:00:00+02:00",
+      "lugar": "Seminario"
+    },
+    {
+      "titulo": "Ejercicios espirituales del clero – 1.ª tanda de Noviembre (8 al 13 de noviembre)",
+      "fecha": "2026-11-08T00:00:00+01:00",
+      "fechaFin": "2026-11-13T00:00:00+01:00",
+      "todoElDia": true,
+      "lugar": "Chipiona"
+    },
+    {
+      "titulo": "Misa por los sacerdotes difuntos",
+      "fecha": "2026-11-11T13:00:00+01:00",
+      "lugar": "Capilla Real"
+    },
+    {
+      "titulo": "Misa de la Hermandad de San Pedro ad Vincula",
+      "fecha": "2026-11-18T12:00:00+01:00",
+      "lugar": "San Pedro de Sevilla"
+    },
+    {
+      "titulo": "Retiro de Adviento del clero (dirige D. Ramón Valdivia, Obispo Auxiliar)",
+      "fecha": "2026-12-03T10:30:00+01:00",
+      "lugar": "Seminario"
+    },
+    {
+      "titulo": "Eucaristía en las Bodas de Plata de ordenación episcopal de Mons. José Ángel Saiz Meneses, Arzobispo de Sevilla",
+      "fecha": "2026-12-12T11:00:00+01:00",
+      "lugar": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "Encuentro de Navidad de la Hermandad de San Pedro ad Vincula",
+      "fecha": "2026-12-16T12:00:00+01:00",
+      "lugar": "Hospital de los Venerables"
+    },
+    {
+      "titulo": "Felicitación de Navidad del clero al Sr. Arzobispo",
+      "fecha": "2026-12-24T10:20:00+01:00",
+      "lugar": "Arzobispado"
+    },
+    {
+      "titulo": "Misa de San Esteban con el Colegio Diaconal",
+      "fecha": "2026-12-26T00:00:00+01:00",
+      "todoElDia": true,
+      "lugar": ""
+    },
+    {
+      "titulo": "Ejercicios espirituales del clero – 2.ª tanda de Febrero (14 al 19 de febrero; D. José Vilaplana, Obispo Emérito de Huelva)",
+      "fecha": "2027-02-14T00:00:00+01:00",
+      "fechaFin": "2027-02-19T00:00:00+01:00",
+      "todoElDia": true,
+      "lugar": "Chipiona"
+    },
+    {
+      "titulo": "Retiro de Cuaresma del clero (dirige D. Teodoro, Obispo Auxiliar)",
+      "fecha": "2027-02-18T10:30:00+01:00",
+      "lugar": "Seminario"
+    },
+    {
+      "titulo": "Misa Crismal",
+      "fecha": "2027-03-23T11:30:00+01:00",
+      "lugar": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "Celebración de San Juan de Ávila (Bodas de Oro y de Plata sacerdotales)",
+      "fecha": "2027-05-06T12:00:00+02:00",
+      "lugar": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "Retiro de Jesucristo Sumo y Eterno Sacerdote",
+      "fecha": "2027-05-20T10:30:00+02:00",
+      "lugar": "Seminario"
+    },
+    {
+      "titulo": "Solemnidad del Corpus Christi",
+      "fecha": "2027-05-27T00:00:00+02:00",
+      "todoElDia": true,
+      "lugar": "Catedral de Sevilla"
+    }
+  ]
+}
