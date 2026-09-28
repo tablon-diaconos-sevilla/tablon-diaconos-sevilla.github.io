@@ -7,12 +7,17 @@
 // Netlify/Vercel). No funciona en un sandbox sin acceso a internet — para
 // eso está `npm test`, que usa datos de muestra.
 
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { agregarTitulares } from "./agregador.js";
 import { crearFiltroDuplicados, ordenarPorPrioridad } from "./duplicados.js";
 import { generarPaginaHtml } from "./generador.js";
+import {
+  asignarArchivosIcs,
+  generarIcsActo,
+  generarIcsSuscripcion,
+} from "./calendario.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const RAIZ = path.resolve(__dirname, "..");
@@ -112,6 +117,22 @@ async function main() {
 
   await mkdir(DATA_DIR, { recursive: true });
   await mkdir(PUBLIC_DIR, { recursive: true });
+
+  // "Añadir a mi agenda": un .ics por acto + el calendario suscribible.
+  // La carpeta public/actos se rehace entera en cada build.
+  resultado.proximosActos = asignarArchivosIcs(resultado.proximosActos);
+  const actosDir = path.join(PUBLIC_DIR, "actos");
+  await rm(actosDir, { recursive: true, force: true });
+  await mkdir(actosDir, { recursive: true });
+  for (const acto of resultado.proximosActos) {
+    if (!acto.archivoIcs) continue;
+    await writeFile(path.join(PUBLIC_DIR, acto.archivoIcs), generarIcsActo(acto), "utf8");
+  }
+  await writeFile(
+    path.join(PUBLIC_DIR, "agenda.ics"),
+    generarIcsSuscripcion(resultado.proximosActos),
+    "utf8"
+  );
 
   await writeFile(
     DATOS_JSON,

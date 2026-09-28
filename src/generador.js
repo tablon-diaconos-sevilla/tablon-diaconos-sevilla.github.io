@@ -2,6 +2,8 @@
 // imagen), con enlace a la fuente original. No reproduce contenido de las
 // fuentes, solo el titular y el enlace.
 
+import { enlaceGoogleCalendar, enlaceSuscripcion } from "./calendario.js";
+
 function escapeHtml(texto = "") {
   return texto
     .replace(/&/g, "&amp;")
@@ -29,11 +31,26 @@ function renderizarItem(item) {
         <a class="titular__enlace" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
           ${escapeHtml(item.titulo)}
         </a>
-        <span class="titular__fuente">${escapeHtml(item.fuente)}</span>
+        <span class="titular__fuente">${escapeHtml(item.fuente)}</span>${renderizarBotonesAgenda(item)}
       </li>`;
 }
 
-function renderizarSeccion(titulo, items, mensajeVacio) {
+// Botones "Añadir a mi agenda" (solo en los próximos actos con fecha).
+function renderizarBotonesAgenda(item) {
+  if (!item.esAgenda || !item.archivoIcs) return "";
+  const google = enlaceGoogleCalendar(item);
+  return `
+        <span class="agenda">
+          <a class="agenda__boton" href="${escapeHtml(item.archivoIcs)}">📅 Añadir a mi agenda</a>${
+            google
+              ? `
+          <a class="agenda__boton agenda__boton--secundario" href="${escapeHtml(google)}" target="_blank" rel="noopener noreferrer">Google Calendar</a>`
+              : ""
+          }
+        </span>`;
+}
+
+function renderizarSeccion(titulo, items, mensajeVacio, pie = "") {
   if (!items.length) {
     return `<section>
       <h2>${escapeHtml(titulo)}</h2>
@@ -41,7 +58,7 @@ function renderizarSeccion(titulo, items, mensajeVacio) {
     </section>`;
   }
   return `<section>
-      <h2>${escapeHtml(titulo)}</h2>
+      <h2>${escapeHtml(titulo)}</h2>${pie}
       <ul class="lista-titulares">${items.map(renderizarItem).join("")}
       </ul>
     </section>`;
@@ -141,6 +158,32 @@ export function generarPaginaHtml({ generadoEn, titulares, proximosActos }) {
     font-style: italic;
     white-space: nowrap;
   }
+  .agenda {
+    flex-basis: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 4px;
+  }
+  .agenda__boton {
+    display: inline-block;
+    padding: 5px 12px;
+    border: 1px solid var(--acento);
+    border-radius: 999px;
+    color: var(--acento);
+    font-size: 0.82rem;
+    text-decoration: none;
+    line-height: 1.4;
+  }
+  .agenda__boton:hover,
+  .agenda__boton:focus-visible { background: var(--acento); color: var(--fondo); }
+  .agenda__boton--secundario { border-color: var(--borde); color: var(--texto-tenue); }
+  .suscripcion {
+    font-size: 0.85rem;
+    color: var(--texto-tenue);
+    margin: -4px 0 8px;
+  }
+  .suscripcion a { color: var(--acento); }
   .vacio { color: var(--texto-tenue); font-style: italic; }
   footer {
     margin-top: 48px;
@@ -158,7 +201,13 @@ export function generarPaginaHtml({ generadoEn, titulares, proximosActos }) {
     <p class="subtitulo">Titulares ordenados cronológicamente, con enlace a la fuente original.<br>No se reproduce el contenido de las noticias.</p>
   </header>
 
-  ${renderizarSeccion("Próximos actos", proximosActos, "No hay actos próximos publicados por ahora.")}
+  ${renderizarSeccion(
+    "Próximos actos",
+    proximosActos,
+    "No hay actos próximos publicados por ahora.",
+    `
+      <p class="suscripcion">¿Quieres recibirlos todos en tu móvil? <a href="${escapeHtml(enlaceSuscripcion())}">Suscríbete al calendario de actos</a> (una sola vez; se actualiza solo).</p>`
+  )}
 
   ${renderizarSeccion("Últimas noticias", titulares, "No se han encontrado titulares por ahora.")}
 
