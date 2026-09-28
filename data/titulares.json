@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-28T03:22:10.322Z",
+  "generadoEn": "2026-09-28T03:45:29.475Z",
   "titulares": [
     {
       "titulo": "Granada late en sus calles con su Patrona",
@@ -103,57 +103,89 @@
       "titulo": "Apertura del curso académico en la Facultad de Teología",
       "url": "https://www.archisevilla.org/evento/apertura-del-curso-academico-en-la-facultad-de-teologia-2/",
       "fecha": "2026-10-01T08:00:00.000Z",
+      "fechaFin": "2026-10-01T11:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Facultad de Teología San Isidoro de Sevilla",
       "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-01-apertura-del-curso-academico-en-la-facultad-de-teologia-2.ics"
     },
     {
       "titulo": "Apertura de curso cofrade en Sevilla",
       "url": "https://www.archisevilla.org/evento/apertura-de-curso-cofrade-en-sevilla/",
       "fecha": "2026-10-01T18:30:00.000Z",
+      "fechaFin": "2026-10-01T20:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Consejo de Hermandades y Cofradías de Sevilla",
       "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-01-apertura-de-curso-cofrade-en-sevilla.ics"
     },
     {
       "titulo": "Coronación de la Virgen de las Angustias, en Utrera",
       "url": "https://www.archisevilla.org/evento/coronacion-de-la-virgen-de-las-angustias-en-utrera/",
       "fecha": "2026-10-03T17:00:00.000Z",
+      "fechaFin": "2026-10-03T18:30:00.000Z",
+      "todoElDia": false,
+      "lugar": "Utrera",
       "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-03-coronacion-de-la-virgen-de-las-angustias-en-utrera.ics"
     },
     {
       "titulo": "Coronación canónica de Ntra. Sra. del Amparo",
       "url": "https://www.archisevilla.org/evento/coronacion-canonica-de-ntra-sra-del-amparo/",
       "fecha": "2026-11-07T23:00:00.000Z",
+      "fechaFin": "2026-11-08T22:59:59.000Z",
+      "todoElDia": true,
+      "lugar": "",
       "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-11-08-coronacion-canonica-de-ntra-sra-del-amparo.ics"
     },
     {
       "titulo": "Coronación canónica de la Virgen de Guaditoca",
       "url": "https://www.archisevilla.org/evento/coronacion-canonica-de-la-virgen-de-guaditoca/",
       "fecha": "2027-07-02T22:00:00.000Z",
+      "fechaFin": "2027-07-03T21:59:59.000Z",
+      "todoElDia": true,
+      "lugar": "Paseo del Palacio, Guadalcanal",
       "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true
+      "esAgenda": true,
+      "archivoIcs": "actos/2027-07-03-coronacion-canonica-de-la-virgen-de-guaditoca.ics"
     },
     {
       "titulo": "Coronación de la Virgen de Los Remedios, de Los Palacios",
       "url": "https://www.archisevilla.org/evento/coronacion-de-la-virgen-de-los-remedios-de-los-palacios/",
       "fecha": "2027-10-22T22:00:00.000Z",
+      "fechaFin": "2027-10-23T21:59:59.000Z",
+      "todoElDia": true,
+      "lugar": "Los Palacios y Villafranca",
       "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true
+      "esAgenda": true,
+      "archivoIcs": "actos/2027-10-23-coronacion-de-la-virgen-de-los-remedios-de-los-palacios.ics"
     },
     {
       "titulo": "Coronación canónica de la Virgen de las Nieves de Olivares",
       "url": "https://www.archisevilla.org/evento/coronacion-canonica-de-la-virgen-de-las-nieves-de-olivares/",
       "fecha": "2028-04-28T22:00:00.000Z",
+      "fechaFin": "2028-04-29T21:59:59.000Z",
+      "todoElDia": true,
+      "lugar": "Olivares (Sevilla)",
       "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true
+      "esAgenda": true,
+      "archivoIcs": "actos/2028-04-29-coronacion-canonica-de-la-virgen-de-las-nieves-de-olivares.ics"
     },
     {
       "titulo": "Coronación de la Virgen de los Dolores de Guillena",
       "url": "https://www.archisevilla.org/evento/coronacion-de-la-virgen-de-los-dolores-de-guillena/",
       "fecha": "2028-06-24T18:30:00.000Z",
+      "fechaFin": "2028-06-24T19:30:00.000Z",
+      "todoElDia": false,
+      "lugar": "Plaza de España, Guillena (Sevilla)",
       "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true
+      "esAgenda": true,
+      "archivoIcs": "actos/2028-06-24-coronacion-de-la-virgen-de-los-dolores-de-guillena.ics"
     }
   ],
   "errores": []

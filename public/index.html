@@ -86,6 +86,32 @@
     font-style: italic;
     white-space: nowrap;
   }
+  .agenda {
+    flex-basis: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 4px;
+  }
+  .agenda__boton {
+    display: inline-block;
+    padding: 5px 12px;
+    border: 1px solid var(--acento);
+    border-radius: 999px;
+    color: var(--acento);
+    font-size: 0.82rem;
+    text-decoration: none;
+    line-height: 1.4;
+  }
+  .agenda__boton:hover,
+  .agenda__boton:focus-visible { background: var(--acento); color: var(--fondo); }
+  .agenda__boton--secundario { border-color: var(--borde); color: var(--texto-tenue); }
+  .suscripcion {
+    font-size: 0.85rem;
+    color: var(--texto-tenue);
+    margin: -4px 0 8px;
+  }
+  .suscripcion a { color: var(--acento); }
   .vacio { color: var(--texto-tenue); font-style: italic; }
   footer {
     margin-top: 48px;
@@ -105,6 +131,7 @@
 
   <section>
       <h2>Próximos actos</h2>
+      <p class="suscripcion">¿Quieres recibirlos todos en tu móvil? <a href="webcal://tablon-diaconos-sevilla.github.io/agenda.ics">Suscríbete al calendario de actos</a> (una sola vez; se actualiza solo).</p>
       <ul class="lista-titulares">
       <li class="titular">
         <span class="titular__fecha">01 de octubre de 2026</span>
@@ -112,6 +139,10 @@
           Apertura del curso académico en la Facultad de Teología
         </a>
         <span class="titular__fuente">Agenda — Archidiócesis de Sevilla</span>
+        <span class="agenda">
+          <a class="agenda__boton" href="actos/2026-10-01-apertura-del-curso-academico-en-la-facultad-de-teologia-2.ics">📅 Añadir a mi agenda</a>
+          <a class="agenda__boton agenda__boton--secundario" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Apertura+del+curso+acad%C3%A9mico+en+la+Facultad+de+Teolog%C3%ADa&amp;dates=20261001T080000Z%2F20261001T110000Z&amp;details=M%C3%A1s+informaci%C3%B3n%3A+https%3A%2F%2Fwww.archisevilla.org%2Fevento%2Fapertura-del-curso-academico-en-la-facultad-de-teologia-2%2F&amp;ctz=Europe%2FMadrid&amp;location=Facultad+de+Teolog%C3%ADa+San+Isidoro+de+Sevilla" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+        </span>
       </li>
       <li class="titular">
         <span class="titular__fecha">01 de octubre de 2026</span>
@@ -119,6 +150,10 @@
           Apertura de curso cofrade en Sevilla
         </a>
         <span class="titular__fuente">Agenda — Archidiócesis de Sevilla</span>
+        <span class="agenda">
+          <a class="agenda__boton" href="actos/2026-10-01-apertura-de-curso-cofrade-en-sevilla.ics">📅 Añadir a mi agenda</a>
+          <a class="agenda__boton agenda__boton--secundario" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Apertura+de+curso+cofrade+en+Sevilla&amp;dates=20261001T183000Z%2F20261001T200000Z&amp;details=M%C3%A1s+informaci%C3%B3n%3A+https%3A%2F%2Fwww.archisevilla.org%2Fevento%2Fapertura-de-curso-cofrade-en-sevilla%2F&amp;ctz=Europe%2FMadrid&amp;location=Consejo+de+Hermandades+y+Cofrad%C3%ADas+de+Sevilla" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+        </span>
       </li>
       <li class="titular">
         <span class="titular__fecha">03 de octubre de 2026</span>
@@ -126,6 +161,10 @@
           Coronación de la Virgen de las Angustias, en Utrera
         </a>
         <span class="titular__fuente">Agenda — Archidiócesis de Sevilla</span>
+        <span class="agenda">
+          <a class="agenda__boton" href="actos/2026-10-03-coronacion-de-la-virgen-de-las-angustias-en-utrera.ics">📅 Añadir a mi agenda</a>
+          <a class="agenda__boton agenda__boton--secundario" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Coronaci%C3%B3n+de+la+Virgen+de+las+Angustias%2C+en+Utrera&amp;dates=20261003T170000Z%2F20261003T183000Z&amp;details=M%C3%A1s+informaci%C3%B3n%3A+https%3A%2F%2Fwww.archisevilla.org%2Fevento%2Fcoronacion-de-la-virgen-de-las-angustias-en-utrera%2F&amp;ctz=Europe%2FMadrid&amp;location=Utrera" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+        </span>
       </li>
       <li class="titular">
         <span class="titular__fecha">08 de noviembre de 2026</span>
@@ -133,6 +172,10 @@
           Coronación canónica de Ntra. Sra. del Amparo
         </a>
         <span class="titular__fuente">Agenda — Archidiócesis de Sevilla</span>
+        <span class="agenda">
+          <a class="agenda__boton" href="actos/2026-11-08-coronacion-canonica-de-ntra-sra-del-amparo.ics">📅 Añadir a mi agenda</a>
+          <a class="agenda__boton agenda__boton--secundario" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Coronaci%C3%B3n+can%C3%B3nica+de+Ntra.+Sra.+del+Amparo&amp;dates=20261108%2F20261109&amp;details=M%C3%A1s+informaci%C3%B3n%3A+https%3A%2F%2Fwww.archisevilla.org%2Fevento%2Fcoronacion-canonica-de-ntra-sra-del-amparo%2F&amp;ctz=Europe%2FMadrid" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+        </span>
       </li>
       <li class="titular">
         <span class="titular__fecha">03 de julio de 2027</span>
@@ -140,6 +183,10 @@
           Coronación canónica de la Virgen de Guaditoca
         </a>
         <span class="titular__fuente">Agenda — Archidiócesis de Sevilla</span>
+        <span class="agenda">
+          <a class="agenda__boton" href="actos/2027-07-03-coronacion-canonica-de-la-virgen-de-guaditoca.ics">📅 Añadir a mi agenda</a>
+          <a class="agenda__boton agenda__boton--secundario" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Coronaci%C3%B3n+can%C3%B3nica+de+la+Virgen+de+Guaditoca&amp;dates=20270703%2F20270704&amp;details=M%C3%A1s+informaci%C3%B3n%3A+https%3A%2F%2Fwww.archisevilla.org%2Fevento%2Fcoronacion-canonica-de-la-virgen-de-guaditoca%2F&amp;ctz=Europe%2FMadrid&amp;location=Paseo+del+Palacio%2C+Guadalcanal" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+        </span>
       </li>
       <li class="titular">
         <span class="titular__fecha">23 de octubre de 2027</span>
@@ -147,6 +194,10 @@
           Coronación de la Virgen de Los Remedios, de Los Palacios
         </a>
         <span class="titular__fuente">Agenda — Archidiócesis de Sevilla</span>
+        <span class="agenda">
+          <a class="agenda__boton" href="actos/2027-10-23-coronacion-de-la-virgen-de-los-remedios-de-los-palacios.ics">📅 Añadir a mi agenda</a>
+          <a class="agenda__boton agenda__boton--secundario" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Coronaci%C3%B3n+de+la+Virgen+de+Los+Remedios%2C+de+Los+Palacios&amp;dates=20271023%2F20271024&amp;details=M%C3%A1s+informaci%C3%B3n%3A+https%3A%2F%2Fwww.archisevilla.org%2Fevento%2Fcoronacion-de-la-virgen-de-los-remedios-de-los-palacios%2F&amp;ctz=Europe%2FMadrid&amp;location=Los+Palacios+y+Villafranca" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+        </span>
       </li>
       <li class="titular">
         <span class="titular__fecha">29 de abril de 2028</span>
@@ -154,6 +205,10 @@
           Coronación canónica de la Virgen de las Nieves de Olivares
         </a>
         <span class="titular__fuente">Agenda — Archidiócesis de Sevilla</span>
+        <span class="agenda">
+          <a class="agenda__boton" href="actos/2028-04-29-coronacion-canonica-de-la-virgen-de-las-nieves-de-olivares.ics">📅 Añadir a mi agenda</a>
+          <a class="agenda__boton agenda__boton--secundario" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Coronaci%C3%B3n+can%C3%B3nica+de+la+Virgen+de+las+Nieves+de+Olivares&amp;dates=20280429%2F20280430&amp;details=M%C3%A1s+informaci%C3%B3n%3A+https%3A%2F%2Fwww.archisevilla.org%2Fevento%2Fcoronacion-canonica-de-la-virgen-de-las-nieves-de-olivares%2F&amp;ctz=Europe%2FMadrid&amp;location=Olivares+%28Sevilla%29" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+        </span>
       </li>
       <li class="titular">
         <span class="titular__fecha">24 de junio de 2028</span>
@@ -161,6 +216,10 @@
           Coronación de la Virgen de los Dolores de Guillena
         </a>
         <span class="titular__fuente">Agenda — Archidiócesis de Sevilla</span>
+        <span class="agenda">
+          <a class="agenda__boton" href="actos/2028-06-24-coronacion-de-la-virgen-de-los-dolores-de-guillena.ics">📅 Añadir a mi agenda</a>
+          <a class="agenda__boton agenda__boton--secundario" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Coronaci%C3%B3n+de+la+Virgen+de+los+Dolores+de+Guillena&amp;dates=20280624T183000Z%2F20280624T193000Z&amp;details=M%C3%A1s+informaci%C3%B3n%3A+https%3A%2F%2Fwww.archisevilla.org%2Fevento%2Fcoronacion-de-la-virgen-de-los-dolores-de-guillena%2F&amp;ctz=Europe%2FMadrid&amp;location=Plaza+de+Espa%C3%B1a%2C+Guillena+%28Sevilla%29" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+        </span>
       </li>
       </ul>
     </section>
@@ -284,7 +343,7 @@
     </section>
 
   <footer>
-    Actualizado automáticamente el 28 de septiembre de 2026 a las 5:22. Fuentes: Archidiócesis de Sevilla, ODISUR, Catedral de Sevilla.
+    Actualizado automáticamente el 28 de septiembre de 2026 a las 5:45. Fuentes: Archidiócesis de Sevilla, ODISUR, Catedral de Sevilla.
   </footer>
 </main>
 </body>
