@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-28T08:25:16.985Z",
+  "generadoEn": "2026-09-28T09:24:39.616Z",
   "titulares": [
     {
       "titulo": "La Iglesia de Huelva vuelve a alzar su voz por un trabajo decente para todas las personas",
@@ -86,7 +86,7 @@
       "fuente": "Archidiócesis de Sevilla"
     },
     {
-      "titulo": "Cinco nuevos ministros para la Iglesia en Sevilla: «Servid con alegría»",
+      "titulo": "Cinco nuevos ministros para la Iglesia de Sevilla: «Servid con alegría»",
       "url": "https://www.archisevilla.org/cinco-nuevos-ministros-para-la-iglesia-de-sevilla-servid-con-alegria/",
       "fecha": "2026-09-26T14:48:47.000Z",
       "fuente": "Archidiócesis de Sevilla"
@@ -194,5 +194,14 @@
       "archivoIcs": "actos/2028-06-24-coronacion-de-la-virgen-de-los-dolores-de-guillena.ics"
     }
   ],
-  "errores": []
+  "errores": [
+    {
+      "fuente": "fuente_2",
+      "error": "catedraldesevilla.es: no se encontró ninguna noticia en la página (¿ha cambiado la maquetación?)"
+    },
+    {
+      "fuente": "fuente_3",
+      "error": "Status code 415"
+    }
+  ]
 }
