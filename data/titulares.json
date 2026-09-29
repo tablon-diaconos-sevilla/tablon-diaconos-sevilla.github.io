@@ -1,6 +1,66 @@
 {
-  "generadoEn": "2026-09-29T10:22:47.324Z",
+  "generadoEn": "2026-09-29T11:21:14.423Z",
   "titulares": [
+    {
+      "titulo": "Festividad de San Miguel Arcángel, patrón de la isla de La Palma",
+      "url": "https://odisur.es/tenerife/festividad-de-san-miguel-arcangel-patron-de-la-isla-de-la-palma/",
+      "fecha": "2026-09-29T11:16:55.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "775 aniversario del Santo Escapulario y del 75 aniversario de la consagración a la Virgen del Carmen de la Villa de La Orotava",
+      "url": "https://odisur.es/tenerife/775-aniversario-del-santo-escapulario-y-del-75-aniversario-de-la-consagracion-a-la-virgen-del-carmen-de-la-villa-de-la-orotava/",
+      "fecha": "2026-09-29T11:15:50.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Celebraciones en el Monasterio de la Inmaculada Concepción en torno al 50 aniversario de la canonización de Santa Beatriz de Silva",
+      "url": "https://odisur.es/tenerife/celebraciones-en-el-monasterio-de-la-inmaculada-concepcion-en-torno-al-50-aniversario-de-la-canonizacion-de-santa-beatriz-de-silva/",
+      "fecha": "2026-09-29T11:12:19.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "3 de octubre, comienzo del curso misionero en nuestra diócesis",
+      "url": "https://odisur.es/tenerife/3-de-octubre-comienzo-del-curso-misionero-en-nuestra-diocesis/",
+      "fecha": "2026-09-29T11:11:23.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Celebración en la Catedral en el marco de la Jornada mundial del Migrante y del Refugiado",
+      "url": "https://odisur.es/tenerife/celebracion-en-la-catedral-en-el-marco-de-la-jornada-mundial-del-migrante-y-del-refugiado/",
+      "fecha": "2026-09-29T11:07:54.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Día grande en Tacoronte con la celebración de la Octava del Cristo. “Dios nos da siempre otra oportunidad, para Él no hay nadie descartado”",
+      "url": "https://odisur.es/tenerife/dia-grande-en-tacoronte-con-la-celebracion-de-la-octava-del-cristo-dios-nos-da-siempre-otra-oportunidad-para-el-no-hay-nadie-descartado/",
+      "fecha": "2026-09-29T11:07:13.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Emotiva jornada en Los Llanos de Aridane con la reposición de las Cruces de Mayo salvadas de la erupción del volcán Tajogaite",
+      "url": "https://odisur.es/tenerife/emotiva-jornada-en-los-llanos-de-aridane-con-la-reposicion-de-las-cruces-de-mayo-salvadas-de-la-erupcion-del-volcan-tajogaite/",
+      "fecha": "2026-09-29T11:06:38.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "El profesorado de Religión de nuestra diócesis comienza el curso apostando por la formación y por el acompañamiento integral del alumnado",
+      "url": "https://odisur.es/tenerife/el-profesorado-de-religion-de-nuestra-diocesis-comienza-el-curso-apostando-por-la-formacion-y-por-el-acompanamiento-integral-del-alumnado/",
+      "fecha": "2026-09-29T11:05:29.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Primer encuentro del curso de Agentes de Pastoral con Jóvenes",
+      "url": "https://odisur.es/tenerife/primer-encuentro-del-curso-de-agentes-de-pastoral-con-jovenes/",
+      "fecha": "2026-09-29T11:04:45.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Luis Miguel Martell, superior general de los Hermanos de Cruz Blanca: “La compasión y la misericordia nunca las recibirás de una máquina”",
+      "url": "https://odisur.es/tenerife/luis-miguel-martell-superior-general-de-los-hermanos-de-cruz-blanca-la-compasion-y-la-misericordia-nunca-las-recibiras-de-una-maquina/",
+      "fecha": "2026-09-29T11:03:21.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "La Iglesia en Sevilla celebró la Jornada Mundial del Migrante y del Refugiado bajo el lema «Incluso uno solo de estos pequeños»",
       "url": "https://www.archisevilla.org/la-iglesia-en-sevilla-celebro-la-jornada-mundial-del-migrante-y-del-refugiado-bajo-el-lema-incluso-uno-solo-de-estos-pequenos/",
@@ -436,16 +496,15 @@
       "archivoIcs": "actos/2026-11-18-clero-hermandad-san-pedro-ad-vincula-2.ics"
     },
     {
-      "titulo": "Retiro de Adviento del clero (dirige D. Ramón Valdivia, Obispo Auxiliar)",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-12-03-retiro-de-adviento-del-clero-dirige-d-ramon-valdivia-obispo-",
-      "sinEnlace": true,
+      "titulo": "CLERO | Retiro de adviento",
+      "url": "https://www.archisevilla.org/evento/clero-retiro-de-adviento/",
       "fecha": "2026-12-03T09:30:00.000Z",
-      "fechaFin": null,
+      "fechaFin": "2026-12-03T13:00:00.000Z",
       "todoElDia": false,
       "lugar": "Seminario",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-12-03-retiro-de-adviento-del-clero-dirige-d-ramon-valdivia-obispo-auxiliar.ics"
+      "archivoIcs": "actos/2026-12-03-clero-retiro-de-adviento.ics"
     },
     {
       "titulo": "Eucaristía en las Bodas de Plata de ordenación episcopal de Mons. José Ángel Saiz Meneses, Arzobispo de Sevilla",
