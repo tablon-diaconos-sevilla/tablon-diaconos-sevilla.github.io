@@ -111,10 +111,10 @@ export function generarPaginaHtml({ generadoEn, titulares, proximosActos }) {
   }
   main { max-width: 720px; margin: 0 auto; }
   header { margin-bottom: 32px; text-align: center; position: relative; }
-  .logo { position: absolute; left: 0; top: 0; height: 70px; width: auto; }
+  .logo { position: absolute; left: 24px; top: 0; height: 70px; width: auto; }
   @media (max-width: 600px) {
     header { padding: 0 52px; }
-    .logo { height: 48px; }
+    .logo { height: 48px; left: 12px; }
   }
   h1 {
     font-size: 1.7rem;
