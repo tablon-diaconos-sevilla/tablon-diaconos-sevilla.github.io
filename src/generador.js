@@ -110,7 +110,12 @@ export function generarPaginaHtml({ generadoEn, titulares, proximosActos }) {
     line-height: 1.5;
   }
   main { max-width: 720px; margin: 0 auto; }
-  header { margin-bottom: 32px; text-align: center; }
+  header { margin-bottom: 32px; text-align: center; position: relative; }
+  .logo { position: absolute; left: 0; top: 0; height: 70px; width: auto; }
+  @media (max-width: 600px) {
+    header { padding: 0 52px; }
+    .logo { height: 48px; }
+  }
   h1 {
     font-size: 1.7rem;
     font-weight: bold;
@@ -207,6 +212,7 @@ export function generarPaginaHtml({ generadoEn, titulares, proximosActos }) {
 <body>
 <main>
   <header>
+  <img src="logo.png" class="logo" alt="Diáconos de Sevilla">
   <h1 style="text-align:center">Noticias de la Iglesia<span class="h1-desde" style="font-weight:normal;font-size:1.4rem">Comunidad Diaconal</span><span class="h1-desde" style="font-weight:normal;font-size:1.4rem">- Sevilla -</span></h1>
     <p class="subtitulo">Titulares ordenados cronológicamente, con enlace a la fuente original.<br>No se reproduce el contenido de las noticias.</p>
   </header>
