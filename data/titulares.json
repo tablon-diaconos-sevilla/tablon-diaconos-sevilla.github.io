@@ -1,6 +1,12 @@
 {
-  "generadoEn": "2026-09-29T09:23:41.898Z",
+  "generadoEn": "2026-09-29T10:22:47.324Z",
   "titulares": [
+    {
+      "titulo": "La Iglesia en Sevilla celebró la Jornada Mundial del Migrante y del Refugiado bajo el lema «Incluso uno solo de estos pequeños»",
+      "url": "https://www.archisevilla.org/la-iglesia-en-sevilla-celebro-la-jornada-mundial-del-migrante-y-del-refugiado-bajo-el-lema-incluso-uno-solo-de-estos-pequenos/",
+      "fecha": "2026-09-29T10:00:00.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
     {
       "url": "https://www.catedraldesevilla.es/via-sacra-2027-incorpora-un-nuevo-recorrido-y-una-nueva-ubicacion-para-el-monumento/",
       "titulo": "Vía Sacra 2027 incorpora un nuevo recorrido y una nueva ubicación para el Monumento",
@@ -24,6 +30,12 @@
       "url": "https://www.archisevilla.org/el-oficio-de-archivero/",
       "fecha": "2026-09-29T08:00:25.000Z",
       "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Salus Infirmorum presenta al Administrador Apostólico de Cádiz y Ceuta su memoria anual y el plan pastoral para el curso 2026/2027",
+      "url": "https://odisur.es/cadiz-y-ceuta/salus-infirmorum-presenta-al-administrador-apostolico-de-cadiz-y-ceuta-su-memoria-anual-y-el-plan-pastoral-para-el-curso-2026-2027/",
+      "fecha": "2026-09-29T07:49:38.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "El Centro de Noche Saiz Meneses es una realidad",
@@ -276,18 +288,6 @@
       "url": "https://odisur.es/cadiz-y-ceuta/mons-valdivia-llama-a-reconocer-que-todos-somos-peregrinos-todos-somos-migrantes/",
       "fecha": "2026-09-27T12:13:37.000Z",
       "fuente": "ODISUR"
-    },
-    {
-      "url": "https://www.catedraldesevilla.es/la-catedral-de-sevilla-celebra-el-dia-mundial-del-turismo-redisenando-la-experiencia-del-visitante-desde-la-fe-y-la-accesibilidad-cultural/",
-      "titulo": "LA CATEDRAL DE SEVILLA CELEBRA EL DÍA MUNDIAL DEL TURISMO REDISEÑANDO LA EXPERIENCIA DEL VISITANTE DESDE LA FE Y LA ACCESIBILIDAD CULTURAL",
-      "fecha": "2026-09-27T10:00:00.000Z",
-      "fuente": "Catedral de Sevilla"
-    },
-    {
-      "titulo": "Celebrada en Castro del Río la Peregrinación de Hermandades de la Vera Cruz",
-      "url": "https://odisur.es/cordoba/celebrada-en-castro-del-rio-la-peregrinacion-de-hermandades-de-la-vera-cruz-2/",
-      "fecha": "2026-09-27T09:56:11.000Z",
-      "fuente": "ODISUR"
     }
   ],
   "proximosActos": [
@@ -325,6 +325,17 @@
       "archivoIcs": "actos/2026-10-03-coronacion-de-la-virgen-de-las-angustias-en-utrera.ics"
     },
     {
+      "titulo": "CLERO | Misa sacerdotes difuntos",
+      "url": "https://www.archisevilla.org/evento/clero-misa-sacerdotes-difuntos/",
+      "fecha": "2026-10-11T11:00:00.000Z",
+      "fechaFin": "2026-10-11T12:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Capilla Real de la Catedral de Sevilla, Plaza Virgen de los Reyes, Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-11-clero-misa-sacerdotes-difuntos.ics"
+    },
+    {
       "titulo": "CLERO | Retiro de inicio de curso",
       "url": "https://www.archisevilla.org/evento/clero-retiro-de-inicio-de-curso/",
       "fecha": "2026-10-15T08:30:00.000Z",
@@ -347,6 +358,17 @@
       "archivoIcs": "actos/2026-10-21-clero-hermandad-san-pedro-ad-vincula.ics"
     },
     {
+      "titulo": "Consejo de Presbiterio",
+      "url": "https://www.archisevilla.org/evento/consejo-de-presbiterio-3/",
+      "fecha": "2026-11-05T09:30:00.000Z",
+      "fechaFin": "2026-11-05T13:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Casa de Ejercicios &#8216;Betania’",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-11-05-consejo-de-presbiterio-3.ics"
+    },
+    {
       "titulo": "Coronación canónica de Ntra. Sra. del Amparo",
       "url": "https://www.archisevilla.org/evento/coronacion-canonica-de-ntra-sra-del-amparo/",
       "fecha": "2026-11-07T23:00:00.000Z",
@@ -358,16 +380,37 @@
       "archivoIcs": "actos/2026-11-08-coronacion-canonica-de-ntra-sra-del-amparo.ics"
     },
     {
-      "titulo": "Ejercicios espirituales del clero – 1.ª tanda de Noviembre (8 al 13 de noviembre)",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-11-08-ejercicios-espirituales-del-clero-1-tanda-de-noviembre-8-al-",
-      "sinEnlace": true,
+      "titulo": "CLERO | Ejercicios Espirituales",
+      "url": "https://www.archisevilla.org/evento/clero-ejercicios-espirituales/",
       "fecha": "2026-11-07T23:00:00.000Z",
-      "fechaFin": "2026-11-12T23:00:00.000Z",
+      "fechaFin": "2026-11-13T22:59:59.000Z",
       "todoElDia": true,
       "lugar": "Chipiona",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-11-08-ejercicios-espirituales-del-clero-1-tanda-de-noviembre-8-al-13-de-noviembre.ics"
+      "archivoIcs": "actos/2026-11-08-clero-ejercicios-espirituales.ics"
+    },
+    {
+      "titulo": "CLERO | Encuentro de sacerdotes del Quinquenio",
+      "url": "https://www.archisevilla.org/evento/clero-encuentro-de-sacerdotes-del-quinquenio/",
+      "fecha": "2026-11-09T09:00:00.000Z",
+      "fechaFin": "2026-11-09T12:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Seminario Metropolitano de Sevilla, C/ Arzobispo Juan José Asenjo, 1, Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-11-09-clero-encuentro-de-sacerdotes-del-quinquenio.ics"
+    },
+    {
+      "titulo": "CLERO | Consejo de arciprestes",
+      "url": "https://www.archisevilla.org/evento/clero-consejo-de-arciprestes/",
+      "fecha": "2026-11-11T09:30:00.000Z",
+      "fechaFin": "2026-11-11T13:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Arzobispado de Sevilla, plaza Virgen de los Reyes, s/n, Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-11-11-clero-consejo-de-arciprestes.ics"
     },
     {
       "titulo": "Misa por los sacerdotes difuntos",
@@ -463,16 +506,15 @@
       "archivoIcs": "actos/2027-01-13-clero-hermandad-san-pedro-ad-vincula-4.ics"
     },
     {
-      "titulo": "Ejercicios espirituales del clero – 2.ª tanda de Febrero (14 al 19 de febrero; D. José Vilaplana, Obispo Emérito de Huelva)",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2027-02-14-ejercicios-espirituales-del-clero-2-tanda-de-febrero-14-al-1",
-      "sinEnlace": true,
+      "titulo": "CLERO | Ejercicios Espirituales",
+      "url": "https://www.archisevilla.org/evento/clero-ejercicios-espirituales-2/",
       "fecha": "2027-02-13T23:00:00.000Z",
-      "fechaFin": "2027-02-18T23:00:00.000Z",
+      "fechaFin": "2027-02-19T22:59:59.000Z",
       "todoElDia": true,
       "lugar": "Chipiona",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2027-02-14-ejercicios-espirituales-del-clero-2-tanda-de-febrero-14-al-19-de-febrero-d-jose-.ics"
+      "archivoIcs": "actos/2027-02-14-clero-ejercicios-espirituales-2.ics"
     },
     {
       "titulo": "Retiro de Cuaresma del clero (dirige D. Teodoro, Obispo Auxiliar)",
