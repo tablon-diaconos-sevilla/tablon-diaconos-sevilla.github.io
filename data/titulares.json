@@ -1,11 +1,17 @@
 {
-  "generadoEn": "2026-09-29T08:24:12.801Z",
+  "generadoEn": "2026-09-29T09:23:41.898Z",
   "titulares": [
     {
       "url": "https://www.catedraldesevilla.es/via-sacra-2027-incorpora-un-nuevo-recorrido-y-una-nueva-ubicacion-para-el-monumento/",
       "titulo": "Vía Sacra 2027 incorpora un nuevo recorrido y una nueva ubicación para el Monumento",
       "fecha": "2026-09-29T10:00:00.000Z",
       "fuente": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "Catorce nuevos seminaristas toman sus cruces e inician su formación en la Archidiócesis de Sevilla",
+      "url": "https://www.archisevilla.org/catorce-nuevos-seminaristas-toman-sus-cruces-e-inician-su-formacion-en-la-archidiocesis-de-sevilla/",
+      "fecha": "2026-09-29T09:00:28.000Z",
+      "fuente": "Archidiócesis de Sevilla"
     },
     {
       "titulo": "La Catedral de Sevilla retoma en octubre sus visitas pedagógicas para centros educativos",
@@ -319,28 +325,26 @@
       "archivoIcs": "actos/2026-10-03-coronacion-de-la-virgen-de-las-angustias-en-utrera.ics"
     },
     {
-      "titulo": "Retiro de inicio de curso del clero (dirige D. José Ángel, Arzobispo)",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-10-15-retiro-de-inicio-de-curso-del-clero-dirige-d-jose-angel-arzo",
-      "sinEnlace": true,
+      "titulo": "CLERO | Retiro de inicio de curso",
+      "url": "https://www.archisevilla.org/evento/clero-retiro-de-inicio-de-curso/",
       "fecha": "2026-10-15T08:30:00.000Z",
-      "fechaFin": null,
+      "fechaFin": "2026-10-15T11:00:00.000Z",
       "todoElDia": false,
       "lugar": "Seminario",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-10-15-retiro-de-inicio-de-curso-del-clero-dirige-d-jose-angel-arzobispo.ics"
+      "archivoIcs": "actos/2026-10-15-clero-retiro-de-inicio-de-curso.ics"
     },
     {
-      "titulo": "Formación de la Hermandad de San Pedro ad Vincula",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-10-21-formacion-de-la-hermandad-de-san-pedro-ad-vincula",
-      "sinEnlace": true,
+      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
+      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula/",
       "fecha": "2026-10-21T10:00:00.000Z",
-      "fechaFin": null,
+      "fechaFin": "2026-10-21T12:00:00.000Z",
       "todoElDia": false,
       "lugar": "Seminario",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-10-21-formacion-de-la-hermandad-de-san-pedro-ad-vincula.ics"
+      "archivoIcs": "actos/2026-10-21-clero-hermandad-san-pedro-ad-vincula.ics"
     },
     {
       "titulo": "Coronación canónica de Ntra. Sra. del Amparo",
@@ -378,16 +382,15 @@
       "archivoIcs": "actos/2026-11-11-misa-por-los-sacerdotes-difuntos.ics"
     },
     {
-      "titulo": "Misa de la Hermandad de San Pedro ad Vincula",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-11-18-misa-de-la-hermandad-de-san-pedro-ad-vincula",
-      "sinEnlace": true,
+      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
+      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-2/",
       "fecha": "2026-11-18T11:00:00.000Z",
-      "fechaFin": null,
+      "fechaFin": "2026-11-18T16:00:00.000Z",
       "todoElDia": false,
       "lugar": "San Pedro de Sevilla",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-11-18-misa-de-la-hermandad-de-san-pedro-ad-vincula.ics"
+      "archivoIcs": "actos/2026-11-18-clero-hermandad-san-pedro-ad-vincula-2.ics"
     },
     {
       "titulo": "Retiro de Adviento del clero (dirige D. Ramón Valdivia, Obispo Auxiliar)",
@@ -414,16 +417,15 @@
       "archivoIcs": "actos/2026-12-12-eucaristia-en-las-bodas-de-plata-de-ordenacion-episcopal-de-mons-jose-angel-saiz.ics"
     },
     {
-      "titulo": "Encuentro de Navidad de la Hermandad de San Pedro ad Vincula",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-12-16-encuentro-de-navidad-de-la-hermandad-de-san-pedro-ad-vincula",
-      "sinEnlace": true,
+      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
+      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-3/",
       "fecha": "2026-12-16T11:00:00.000Z",
-      "fechaFin": null,
+      "fechaFin": "2026-12-16T13:00:00.000Z",
       "todoElDia": false,
       "lugar": "Hospital de los Venerables",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-12-16-encuentro-de-navidad-de-la-hermandad-de-san-pedro-ad-vincula.ics"
+      "archivoIcs": "actos/2026-12-16-clero-hermandad-san-pedro-ad-vincula-3.ics"
     },
     {
       "titulo": "Felicitación de Navidad del clero al Sr. Arzobispo",
@@ -450,6 +452,17 @@
       "archivoIcs": "actos/2026-12-26-misa-de-san-esteban-con-el-colegio-diaconal.ics"
     },
     {
+      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
+      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-4/",
+      "fecha": "2027-01-13T10:00:00.000Z",
+      "fechaFin": "2027-01-13T16:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Casa de Ejercicios &#8216;Betania’",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2027-01-13-clero-hermandad-san-pedro-ad-vincula-4.ics"
+    },
+    {
       "titulo": "Ejercicios espirituales del clero – 2.ª tanda de Febrero (14 al 19 de febrero; D. José Vilaplana, Obispo Emérito de Huelva)",
       "url": "https://tablon-diaconos-sevilla.github.io/#clero-2027-02-14-ejercicios-espirituales-del-clero-2-tanda-de-febrero-14-al-1",
       "sinEnlace": true,
@@ -472,6 +485,17 @@
       "fuente": "Delegación para el Clero",
       "esAgenda": true,
       "archivoIcs": "actos/2027-02-18-retiro-de-cuaresma-del-clero-dirige-d-teodoro-obispo-auxiliar.ics"
+    },
+    {
+      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
+      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-5/",
+      "fecha": "2027-02-24T11:00:00.000Z",
+      "fechaFin": "2027-02-24T13:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Seminario Metropolitano de Sevilla, C/ Arzobispo Juan José Asenjo, 1, Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2027-02-24-clero-hermandad-san-pedro-ad-vincula-5.ics"
     },
     {
       "titulo": "Misa Crismal",
@@ -520,6 +544,17 @@
       "fuente": "Delegación para el Clero",
       "esAgenda": true,
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
+    },
+    {
+      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
+      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-6/",
+      "fecha": "2027-06-24T09:00:00.000Z",
+      "fechaFin": "2027-06-24T12:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Capilla de San Pedro Ad Vincula (Parroquia de San Pedro)",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2027-06-24-clero-hermandad-san-pedro-ad-vincula-6.ics"
     },
     {
       "titulo": "Coronación canónica de la Virgen de Guaditoca",
