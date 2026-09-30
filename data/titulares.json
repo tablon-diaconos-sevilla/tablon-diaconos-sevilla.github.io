@@ -1,6 +1,18 @@
 {
-  "generadoEn": "2026-09-30T07:24:04.611Z",
+  "generadoEn": "2026-09-30T08:25:02.903Z",
   "titulares": [
+    {
+      "titulo": "La Parroquia de San José de Dos Hermanas celebrará el Día de la Hispanidad con una jornada de fe y comunión",
+      "url": "https://www.archisevilla.org/la-parroquia-de-san-jose-de-dos-hermanas-celebrara-el-dia-de-la-hispanidad-con-una-jornada-de-fe-y-comunion/",
+      "fecha": "2026-09-30T08:00:40.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Nueva edición del Curso de órgano litúrgico",
+      "url": "https://odisur.es/granada/nueva-edicion-del-curso-de-organo-liturgico/",
+      "fecha": "2026-09-30T07:36:11.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "“El Evangelio nos habla de hechos, no de buenas intenciones”",
       "url": "https://odisur.es/granada/arzobispo-de-granada/el-evangelio-nos-habla-de-hechos-no-de-buenas-intenciones/",
@@ -354,39 +366,20 @@
       "url": "https://odisur.es/malaga/tener-empleo-ya-no-garantiza-una-vida-digna/",
       "fecha": "2026-09-28T08:27:00.000Z",
       "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Lunes, 28 de septiembre de 2026",
-      "url": "https://odisur.es/cordoba/lunes-28-de-septiembre-de-2026/",
-      "fecha": "2026-09-28T08:20:29.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Proyecto Amor Conyugal organiza un nuevo Retiro de Matrimonios Jóvenes en la Diócesis",
-      "url": "https://odisur.es/cadiz-y-ceuta/proyecto-amor-conyugal-organiza-un-nuevo-retiro-de-matrimonios-jovenes-en-la-diocesis/",
-      "fecha": "2026-09-28T08:13:49.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Cáritas Diocesana de Almería abre su Voluntariado Joven a nuevos participantes",
-      "url": "https://odisur.es/almeria/caritas-diocesana-de-almeria-abre-su-voluntariado-joven-a-nuevos-participantes/",
-      "fecha": "2026-09-28T07:53:42.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Un ciclo de conferencias completa la exposición «Regina Maris» dedicada a la Virgen del Mar",
-      "url": "https://odisur.es/almeria/un-ciclo-de-conferencias-completa-la-exposicion-regina-maris-dedicada-a-la-virgen-del-mar/",
-      "fecha": "2026-09-28T07:43:26.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "El pintor almeriense Sarabia dona dos obras pictóricas a la Catedral",
-      "url": "https://odisur.es/almeria/el-pintor-almeriense-sarabia-dona-dos-obras-pictoricas-a-la-catedral/",
-      "fecha": "2026-09-28T07:30:45.000Z",
-      "fuente": "ODISUR"
     }
   ],
   "proximosActos": [
+    {
+      "titulo": "Noche en Blanco 2026",
+      "url": "https://www.archisevilla.org/evento/noche-en-blanco-2026/",
+      "fecha": "2026-09-30T06:00:00.000Z",
+      "fechaFin": "2026-09-30T15:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-09-30-noche-en-blanco-2026.ics"
+    },
     {
       "titulo": "Apertura del curso académico en la Facultad de Teología",
       "url": "https://www.archisevilla.org/evento/apertura-del-curso-academico-en-la-facultad-de-teologia-2/",
