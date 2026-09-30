@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-30T12:30:56.269Z",
+  "generadoEn": "2026-09-30T13:24:28.249Z",
   "titulares": [
     {
       "titulo": "La Archidiócesis de Sevilla participa en el Encuentro Nacional de delegados de Patrimonio Cultural",
@@ -30,6 +30,12 @@
       "url": "https://odisur.es/malaga/una-diocesis-mas-misionera/",
       "fecha": "2026-09-30T10:08:00.000Z",
       "fuente": "ODISUR"
+    },
+    {
+      "url": "https://www.catedraldesevilla.es/documento-del-mes-de-septiembre-de-los-archivos-historicos/",
+      "titulo": "DOCUMENTO DEL MES DE SEPTIEMBRE DE LOS ARCHIVOS HISTÓRICOS",
+      "fecha": "2026-09-30T10:00:00.000Z",
+      "fuente": "Catedral de Sevilla"
     },
     {
       "titulo": "La Facultad de Teología San Isidoro inaugura el curso académico 2026-27 el próximo 1 de octubre",
@@ -305,12 +311,6 @@
       "titulo": "Colaboración de nuestra Parroquia con la exposición «El Señor me dio. El legado de San Francisco en la Diócesis de Córdoba»",
       "url": "https://odisur.es/cordoba/colaboracion-de-nuestra-parroquia-con-la-exposicion-el-senor-me-dio-el-legado-de-san-francisco-en-la-diocesis-de-cordoba/",
       "fecha": "2026-09-28T18:19:01.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Los chicos de Cruz Blanca peregrinan a Linares en un día de camino, fe y encuentro",
-      "url": "https://odisur.es/cordoba/los-chicos-de-cruz-blanca-peregrinan-a-linares-en-un-dia-de-camino-fe-y-encuentro-2/",
-      "fecha": "2026-09-28T12:40:28.000Z",
       "fuente": "ODISUR"
     }
   ],
