@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-30T10:23:26.578Z",
+  "generadoEn": "2026-09-30T11:20:40.715Z",
   "titulares": [
     {
       "titulo": "La Facultad de Teología San Isidoro inaugura el curso académico 2026-27 el próximo 1 de octubre",
@@ -288,48 +288,6 @@
       "url": "https://odisur.es/granada/jornada-mundial-por-el-trabajo-decente-en-granada/",
       "fecha": "2026-09-28T11:36:48.000Z",
       "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La formación de los catequistas continúa con el segundo año del itinerario teológico-pastoral",
-      "url": "https://odisur.es/huelva/la-formacion-de-los-catequistas-continua-con-el-segundo-ano-del-itinerario-teologico-pastoral/",
-      "fecha": "2026-09-28T11:16:17.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Prodean celebrará su II Rastrillo Solidario en Córdoba",
-      "url": "https://odisur.es/cordoba/prodean-celebrara-su-ii-rastrillo-solidario-en-cordoba-2/",
-      "fecha": "2026-09-28T11:07:31.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Asidonia-Jerez continúa culminando las tomas de posesión de los nuevos párrocos de la Diócesis",
-      "url": "https://odisur.es/asidonia-jerez/asidonia-jerez-continua-culminando-las-tomas-de-posesion-de-los-nuevos-parrocos-de-la-diocesis/",
-      "fecha": "2026-09-28T11:03:46.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Iglesia de Asidonia-Jerez vive la Jornada Mundial del Migrante y Refugiado",
-      "url": "https://odisur.es/asidonia-jerez/la-iglesia-de-asidonia-jerez-vive-la-jornada-mundial-del-migrante-y-refugiado/",
-      "fecha": "2026-09-28T10:50:36.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Informativo diocesano, en COPE Granada con “Iglesia Noticia” (27.09.2026)",
-      "url": "https://odisur.es/granada/informativo-diocesano-en-cope-granada-con-iglesia-noticia-27-09-2026/",
-      "fecha": "2026-09-28T10:41:08.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La parroquia de Fátima acoge el concierto «Stabat Mater: María, testigo de la Redención»",
-      "url": "https://odisur.es/malaga/la-parroquia-de-fatima-acoge-el-concierto-stabat-mater-maria-testigo-de-la-redencion/",
-      "fecha": "2026-09-28T10:27:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Estreno de la 6ª temporada de The Chosen en Córdoba",
-      "url": "https://odisur.es/cordoba/estreno-de-la-6a-temporada-de-the-chosen-en-cordoba/",
-      "fecha": "2026-09-28T10:26:33.000Z",
-      "fuente": "ODISUR"
     }
   ],
   "proximosActos": [
@@ -378,6 +336,72 @@
       "archivoIcs": "actos/2026-10-03-coronacion-de-la-virgen-de-las-angustias-en-utrera.ics"
     },
     {
+      "titulo": "Medalla Pro Ecclesia Hispalense",
+      "url": "https://www.archisevilla.org/evento/medalla-pro-ecclesia-hispalense-2/",
+      "fecha": "2026-10-06T18:00:00.000Z",
+      "fechaFin": "2026-10-06T19:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Salón del Trono del Arzobispado de Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-06-medalla-pro-ecclesia-hispalense-2.ics"
+    },
+    {
+      "titulo": "Presentación de la web del Observatorio de la Piedad Popular",
+      "url": "https://www.archisevilla.org/evento/presentacion-de-la-web-del-observatorio-de-la-piedad-popular/",
+      "fecha": "2026-10-07T10:00:00.000Z",
+      "fechaFin": "2026-10-07T11:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Arzobispado de Sevilla, plaza Virgen de los Reyes, s/n, Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-07-presentacion-de-la-web-del-observatorio-de-la-piedad-popular.ics"
+    },
+    {
+      "titulo": "Vigilia de Oración por el Trabajo Decente",
+      "url": "https://www.archisevilla.org/evento/vigilia-de-oracion-por-el-trabajo-decente-3/",
+      "fecha": "2026-10-07T18:30:00.000Z",
+      "fechaFin": "2026-10-07T19:30:00.000Z",
+      "todoElDia": false,
+      "lugar": "Parroquia Nuestra Señora del Mayor Dolor",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-07-vigilia-de-oracion-por-el-trabajo-decente-3.ics"
+    },
+    {
+      "titulo": "Eucaristía de inicio de curso del profesorado cristiano",
+      "url": "https://www.archisevilla.org/evento/eucaristia-de-inicio-de-curso-del-profesorado-cristiano/",
+      "fecha": "2026-10-08T17:30:00.000Z",
+      "fechaFin": "2026-10-08T18:30:00.000Z",
+      "todoElDia": false,
+      "lugar": "Catedral de Sevilla, Avenida de la Constitución s/n, Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-08-eucaristia-de-inicio-de-curso-del-profesorado-cristiano.ics"
+    },
+    {
+      "titulo": "125 Aniversario de la Fundación Penitencial de la Hdad de San Roque",
+      "url": "https://www.archisevilla.org/evento/125-aniversario-de-la-fundacion-penitencial-de-la-hdad-de-san-roque/",
+      "fecha": "2026-10-09T18:00:00.000Z",
+      "fechaFin": "2026-10-09T19:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Parroquia de San Roque",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-09-125-aniversario-de-la-fundacion-penitencial-de-la-hdad-de-san-roque.ics"
+    },
+    {
+      "titulo": "Ordenación de un presbítero y diácono de los Sagrados Corazones (Padres Blancos)",
+      "url": "https://www.archisevilla.org/evento/ordenacion-de-un-presbitero-y-diacono-de-los-sagrados-corazones-padres-blancos/",
+      "fecha": "2026-10-10T10:00:00.000Z",
+      "fechaFin": "2026-10-10T11:30:00.000Z",
+      "todoElDia": false,
+      "lugar": "Parroquia de los Sagrados Corazones (Padres Blancos – Los Remedios), Calle de Juan Ramón Jiménez, 22, 41011 Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-10-ordenacion-de-un-presbitero-y-diacono-de-los-sagrados-corazones-padres-blancos.ics"
+    },
+    {
       "titulo": "CLERO | Misa sacerdotes difuntos",
       "url": "https://www.archisevilla.org/evento/clero-misa-sacerdotes-difuntos/",
       "fecha": "2026-10-11T11:00:00.000Z",
@@ -387,6 +411,17 @@
       "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
       "archivoIcs": "actos/2026-10-11-clero-misa-sacerdotes-difuntos.ics"
+    },
+    {
+      "titulo": "XXV Aniversario de la dedicación de la Iglesia del Buen Pastor y San Juan de la Cruz, de Sevilla",
+      "url": "https://www.archisevilla.org/evento/xxv-aniversario-de-la-dedicacion-de-la-iglesia-del-buen-pastor-y-san-juan-de-la-cruz-de-sevilla/",
+      "fecha": "2026-10-12T10:00:00.000Z",
+      "fechaFin": "2026-10-12T11:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Iglesia del Buen Pastor y San Juan de la Cruz, Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-12-xxv-aniversario-de-la-dedicacion-de-la-iglesia-del-buen-pastor-y-san-juan-de-la-.ics"
     },
     {
       "titulo": "CLERO | Retiro de inicio de curso",
@@ -400,6 +435,17 @@
       "archivoIcs": "actos/2026-10-15-clero-retiro-de-inicio-de-curso.ics"
     },
     {
+      "titulo": "Eucaristía fiesta patronal de los médicos",
+      "url": "https://www.archisevilla.org/evento/eucaristia-fiesta-patronal-de-los-medicos/",
+      "fecha": "2026-10-16T16:30:00.000Z",
+      "fechaFin": "2026-10-16T17:30:00.000Z",
+      "todoElDia": false,
+      "lugar": "Colegio de Médicos de Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-16-eucaristia-fiesta-patronal-de-los-medicos.ics"
+    },
+    {
       "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
       "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula/",
       "fecha": "2026-10-21T10:00:00.000Z",
@@ -409,6 +455,72 @@
       "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
       "archivoIcs": "actos/2026-10-21-clero-hermandad-san-pedro-ad-vincula.ics"
+    },
+    {
+      "titulo": "Reunión de obispos de la Provincia Eclesiástica de Sevilla",
+      "url": "https://www.archisevilla.org/evento/reunion-de-obispos-de-la-provincia-eclesiastica-de-sevilla/",
+      "fecha": "2026-10-22T09:00:00.000Z",
+      "fechaFin": "2026-10-22T12:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Arzobispado de Sevilla, plaza Virgen de los Reyes, s/n, Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-22-reunion-de-obispos-de-la-provincia-eclesiastica-de-sevilla.ics"
+    },
+    {
+      "titulo": "Eucaristía fiesta patronal San Juan Pablo II",
+      "url": "https://www.archisevilla.org/evento/eucaristia-fiesta-patronal-san-juan-pablo-ii/",
+      "fecha": "2026-10-22T18:00:00.000Z",
+      "fechaFin": "2026-10-22T19:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Parroquia San Juan Pablo II, Montequinto, Dos Hermanas",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-22-eucaristia-fiesta-patronal-san-juan-pablo-ii.ics"
+    },
+    {
+      "titulo": "Medalla de Oro de la Villa de Paradas a la Hdad. del Santo Entierro",
+      "url": "https://www.archisevilla.org/evento/medalla-de-oro-de-la-villa-de-paradas-a-la-hdad-del-santo-entierro/",
+      "fecha": "2026-10-24T17:00:00.000Z",
+      "fechaFin": "2026-10-24T18:30:00.000Z",
+      "todoElDia": false,
+      "lugar": "Plaza de España, Paradas",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-24-medalla-de-oro-de-la-villa-de-paradas-a-la-hdad-del-santo-entierro.ics"
+    },
+    {
+      "titulo": "Bendición Casa de Hermanos sin Hogar",
+      "url": "https://www.archisevilla.org/evento/bendicion-casa-de-hermanos-sin-hogar/",
+      "fecha": "2026-10-27T17:30:00.000Z",
+      "fechaFin": "2026-10-27T18:30:00.000Z",
+      "todoElDia": false,
+      "lugar": "Parroquia Candelaria",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-27-bendicion-casa-de-hermanos-sin-hogar.ics"
+    },
+    {
+      "titulo": "Conferencia del Cardenal Bettori",
+      "url": "https://www.archisevilla.org/evento/conferencia-del-cardenal-bettori/",
+      "fecha": "2026-10-29T11:00:00.000Z",
+      "fechaFin": "2026-10-29T12:30:00.000Z",
+      "todoElDia": false,
+      "lugar": "Facultad de Teología San Isidoro de Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-29-conferencia-del-cardenal-bettori.ics"
+    },
+    {
+      "titulo": "Misa en el Cementerio de San Fernando, Sevilla",
+      "url": "https://www.archisevilla.org/evento/misa-en-el-cementerio-de-san-fernando-sevilla/",
+      "fecha": "2026-11-02T08:00:00.000Z",
+      "fechaFin": "2026-11-02T09:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Cementerio San Fernando, Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-11-02-misa-en-el-cementerio-de-san-fernando-sevilla.ics"
     },
     {
       "titulo": "Consejo de Presbiterio",
@@ -455,17 +567,6 @@
       "archivoIcs": "actos/2026-11-09-clero-encuentro-de-sacerdotes-del-quinquenio.ics"
     },
     {
-      "titulo": "CLERO | Consejo de arciprestes",
-      "url": "https://www.archisevilla.org/evento/clero-consejo-de-arciprestes/",
-      "fecha": "2026-11-11T09:30:00.000Z",
-      "fechaFin": "2026-11-11T13:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "Arzobispado de Sevilla, plaza Virgen de los Reyes, s/n, Sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-11-11-clero-consejo-de-arciprestes.ics"
-    },
-    {
       "titulo": "Misa por los sacerdotes difuntos",
       "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-11-11-misa-por-los-sacerdotes-difuntos",
       "sinEnlace": true,
@@ -478,26 +579,28 @@
       "archivoIcs": "actos/2026-11-11-misa-por-los-sacerdotes-difuntos.ics"
     },
     {
-      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
-      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-2/",
+      "titulo": "Misa de la Hermandad de San Pedro ad Vincula",
+      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-11-18-misa-de-la-hermandad-de-san-pedro-ad-vincula",
+      "sinEnlace": true,
       "fecha": "2026-11-18T11:00:00.000Z",
-      "fechaFin": "2026-11-18T16:00:00.000Z",
+      "fechaFin": null,
       "todoElDia": false,
       "lugar": "San Pedro de Sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "fuente": "Delegación para el Clero",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-11-18-clero-hermandad-san-pedro-ad-vincula-2.ics"
+      "archivoIcs": "actos/2026-11-18-misa-de-la-hermandad-de-san-pedro-ad-vincula.ics"
     },
     {
-      "titulo": "CLERO | Retiro de adviento",
-      "url": "https://www.archisevilla.org/evento/clero-retiro-de-adviento/",
+      "titulo": "Retiro de Adviento del clero (dirige D. Ramón Valdivia, Obispo Auxiliar)",
+      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-12-03-retiro-de-adviento-del-clero-dirige-d-ramon-valdivia-obispo-",
+      "sinEnlace": true,
       "fecha": "2026-12-03T09:30:00.000Z",
-      "fechaFin": "2026-12-03T13:00:00.000Z",
+      "fechaFin": null,
       "todoElDia": false,
       "lugar": "Seminario",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "fuente": "Delegación para el Clero",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-12-03-clero-retiro-de-adviento.ics"
+      "archivoIcs": "actos/2026-12-03-retiro-de-adviento-del-clero-dirige-d-ramon-valdivia-obispo-auxiliar.ics"
     },
     {
       "titulo": "Eucaristía en las Bodas de Plata de ordenación episcopal de Mons. José Ángel Saiz Meneses, Arzobispo de Sevilla",
@@ -512,15 +615,16 @@
       "archivoIcs": "actos/2026-12-12-eucaristia-en-las-bodas-de-plata-de-ordenacion-episcopal-de-mons-jose-angel-saiz.ics"
     },
     {
-      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
-      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-3/",
+      "titulo": "Encuentro de Navidad de la Hermandad de San Pedro ad Vincula",
+      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-12-16-encuentro-de-navidad-de-la-hermandad-de-san-pedro-ad-vincula",
+      "sinEnlace": true,
       "fecha": "2026-12-16T11:00:00.000Z",
-      "fechaFin": "2026-12-16T13:00:00.000Z",
+      "fechaFin": null,
       "todoElDia": false,
       "lugar": "Hospital de los Venerables",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "fuente": "Delegación para el Clero",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-12-16-clero-hermandad-san-pedro-ad-vincula-3.ics"
+      "archivoIcs": "actos/2026-12-16-encuentro-de-navidad-de-la-hermandad-de-san-pedro-ad-vincula.ics"
     },
     {
       "titulo": "Felicitación de Navidad del clero al Sr. Arzobispo",
@@ -547,26 +651,16 @@
       "archivoIcs": "actos/2026-12-26-misa-de-san-esteban-con-el-colegio-diaconal.ics"
     },
     {
-      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
-      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-4/",
-      "fecha": "2027-01-13T10:00:00.000Z",
-      "fechaFin": "2027-01-13T16:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "Casa de Ejercicios &#8216;Betania’",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2027-01-13-clero-hermandad-san-pedro-ad-vincula-4.ics"
-    },
-    {
-      "titulo": "CLERO | Ejercicios Espirituales",
-      "url": "https://www.archisevilla.org/evento/clero-ejercicios-espirituales-2/",
+      "titulo": "Ejercicios espirituales del clero – 2.ª tanda de Febrero (14 al 19 de febrero; D. José Vilaplana, Obispo Emérito de Huelva)",
+      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2027-02-14-ejercicios-espirituales-del-clero-2-tanda-de-febrero-14-al-1",
+      "sinEnlace": true,
       "fecha": "2027-02-13T23:00:00.000Z",
-      "fechaFin": "2027-02-19T22:59:59.000Z",
+      "fechaFin": "2027-02-18T23:00:00.000Z",
       "todoElDia": true,
       "lugar": "Chipiona",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "fuente": "Delegación para el Clero",
       "esAgenda": true,
-      "archivoIcs": "actos/2027-02-14-clero-ejercicios-espirituales-2.ics"
+      "archivoIcs": "actos/2027-02-14-ejercicios-espirituales-del-clero-2-tanda-de-febrero-14-al-19-de-febrero-d-jose-.ics"
     },
     {
       "titulo": "Retiro de Cuaresma del clero (dirige D. Teodoro, Obispo Auxiliar)",
@@ -579,17 +673,6 @@
       "fuente": "Delegación para el Clero",
       "esAgenda": true,
       "archivoIcs": "actos/2027-02-18-retiro-de-cuaresma-del-clero-dirige-d-teodoro-obispo-auxiliar.ics"
-    },
-    {
-      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
-      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-5/",
-      "fecha": "2027-02-24T11:00:00.000Z",
-      "fechaFin": "2027-02-24T13:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "Seminario Metropolitano de Sevilla, C/ Arzobispo Juan José Asenjo, 1, Sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2027-02-24-clero-hermandad-san-pedro-ad-vincula-5.ics"
     },
     {
       "titulo": "Misa Crismal",
@@ -638,61 +721,6 @@
       "fuente": "Delegación para el Clero",
       "esAgenda": true,
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
-    },
-    {
-      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
-      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-6/",
-      "fecha": "2027-06-24T09:00:00.000Z",
-      "fechaFin": "2027-06-24T12:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "Capilla de San Pedro Ad Vincula (Parroquia de San Pedro)",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2027-06-24-clero-hermandad-san-pedro-ad-vincula-6.ics"
-    },
-    {
-      "titulo": "Coronación canónica de la Virgen de Guaditoca",
-      "url": "https://www.archisevilla.org/evento/coronacion-canonica-de-la-virgen-de-guaditoca/",
-      "fecha": "2027-07-02T22:00:00.000Z",
-      "fechaFin": "2027-07-03T21:59:59.000Z",
-      "todoElDia": true,
-      "lugar": "Paseo del Palacio, Guadalcanal",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2027-07-03-coronacion-canonica-de-la-virgen-de-guaditoca.ics"
-    },
-    {
-      "titulo": "Coronación de la Virgen de Los Remedios, de Los Palacios",
-      "url": "https://www.archisevilla.org/evento/coronacion-de-la-virgen-de-los-remedios-de-los-palacios/",
-      "fecha": "2027-10-22T22:00:00.000Z",
-      "fechaFin": "2027-10-23T21:59:59.000Z",
-      "todoElDia": true,
-      "lugar": "Los Palacios y Villafranca",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2027-10-23-coronacion-de-la-virgen-de-los-remedios-de-los-palacios.ics"
-    },
-    {
-      "titulo": "Coronación canónica de la Virgen de las Nieves de Olivares",
-      "url": "https://www.archisevilla.org/evento/coronacion-canonica-de-la-virgen-de-las-nieves-de-olivares/",
-      "fecha": "2028-04-28T22:00:00.000Z",
-      "fechaFin": "2028-04-29T21:59:59.000Z",
-      "todoElDia": true,
-      "lugar": "Olivares (Sevilla)",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2028-04-29-coronacion-canonica-de-la-virgen-de-las-nieves-de-olivares.ics"
-    },
-    {
-      "titulo": "Coronación de la Virgen de los Dolores de Guillena",
-      "url": "https://www.archisevilla.org/evento/coronacion-de-la-virgen-de-los-dolores-de-guillena/",
-      "fecha": "2028-06-24T18:30:00.000Z",
-      "fechaFin": "2028-06-24T19:30:00.000Z",
-      "todoElDia": false,
-      "lugar": "Plaza de España, Guillena (Sevilla)",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2028-06-24-coronacion-de-la-virgen-de-los-dolores-de-guillena.ics"
     }
   ],
   "errores": []
