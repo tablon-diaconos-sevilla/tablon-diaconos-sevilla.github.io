@@ -1,6 +1,12 @@
 {
-  "generadoEn": "2026-10-01T06:28:57.456Z",
+  "generadoEn": "2026-10-01T07:24:34.128Z",
   "titulares": [
+    {
+      "url": "https://www.catedraldesevilla.es/la-catedral-de-sevilla-continua-con-el-mantenimiento-anual-de-sus-portadas/",
+      "titulo": "La Catedral de Sevilla continúa con el mantenimiento anual de sus portadas",
+      "fecha": "2026-10-01T10:00:00.000Z",
+      "fuente": "Catedral de Sevilla"
+    },
     {
       "url": "https://www.catedraldesevilla.es/calendario-de-actos-durante-el-mes-de-octubre-en-la-catedral-2/",
       "titulo": "CALENDARIO DE ACTOS DURANTE EL MES DE OCTUBRE EN LA CATEDRAL",
@@ -329,30 +335,6 @@
       "titulo": "Salus Infirmorum presenta al Administrador Apostólico de Cádiz y Ceuta su memoria anual y el plan pastoral para el curso 2026/2027",
       "url": "https://odisur.es/cadiz-y-ceuta/salus-infirmorum-presenta-al-administrador-apostolico-de-cadiz-y-ceuta-su-memoria-anual-y-el-plan-pastoral-para-el-curso-2026-2027/",
       "fecha": "2026-09-29T07:49:38.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "El Centro de Noche Saiz Meneses es una realidad",
-      "url": "https://www.archisevilla.org/el-centro-de-noche-saiz-meneses-es-una-realidad/",
-      "fecha": "2026-09-29T07:21:43.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "La Diócesis rememora el V aniversario de la beatificación de Juan Elías Medina y 126 compañeros mártires",
-      "url": "https://odisur.es/cordoba/la-diocesis-rememora-el-v-aniversario-de-la-beatificacion-de-juan-elias-medina-y-126-companeros-martires/",
-      "fecha": "2026-09-29T07:01:09.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Diócesis celebrará la Jornada Mundial por el Trabajo Decente",
-      "url": "https://odisur.es/cordoba/la-diocesis-celebrara-la-jornada-mundial-por-el-trabajo-decente/",
-      "fecha": "2026-09-29T07:00:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Este viernes, los jóvenes tienen una cita Adoremus",
-      "url": "https://odisur.es/malaga/este-viernes-los-jovenes-tienen-una-cita-adoremus/",
-      "fecha": "2026-09-29T06:35:00.000Z",
       "fuente": "ODISUR"
     }
   ],
