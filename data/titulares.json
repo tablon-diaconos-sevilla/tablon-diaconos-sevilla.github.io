@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-30T23:19:35.528Z",
+  "generadoEn": "2026-10-01T00:31:15.496Z",
   "titulares": [
     {
       "titulo": "La Delegación para el Clero constituye su equipo al servicio de la diócesis",
@@ -352,17 +352,6 @@
   ],
   "proximosActos": [
     {
-      "titulo": "Noche en Blanco 2026",
-      "url": "https://www.archisevilla.org/evento/noche-en-blanco-2026/",
-      "fecha": "2026-09-30T06:00:00.000Z",
-      "fechaFin": "2026-09-30T15:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-09-30-noche-en-blanco-2026.ics"
-    },
-    {
       "titulo": "Apertura del curso académico en la Facultad de Teología",
       "url": "https://www.archisevilla.org/evento/apertura-del-curso-academico-en-la-facultad-de-teologia-2/",
       "fecha": "2026-10-01T09:00:00.000Z",
@@ -625,6 +614,17 @@
       "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
       "archivoIcs": "actos/2026-11-09-clero-encuentro-de-sacerdotes-del-quinquenio.ics"
+    },
+    {
+      "titulo": "CLERO | Consejo de arciprestes",
+      "url": "https://www.archisevilla.org/evento/clero-consejo-de-arciprestes/",
+      "fecha": "2026-11-11T09:30:00.000Z",
+      "fechaFin": "2026-11-11T13:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Arzobispado de Sevilla, plaza Virgen de los Reyes, s/n, Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-11-11-clero-consejo-de-arciprestes.ics"
     },
     {
       "titulo": "Misa por los sacerdotes difuntos",
