@@ -1,6 +1,12 @@
 {
-  "generadoEn": "2026-10-02T11:21:12.373Z",
+  "generadoEn": "2026-10-02T12:27:09.559Z",
   "titulares": [
+    {
+      "titulo": "El VI Paseo Ecuménico recorrerá Sevilla bajo el lema «Inmersión en el agua viva»",
+      "url": "https://www.archisevilla.org/el-vi-paseo-ecumenico-recorrera-sevilla-bajo-el-lema-inmersion-en-el-agua-viva/",
+      "fecha": "2026-10-02T12:00:47.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
     {
       "titulo": "ARCHISEVILLA 7 días. Edición del 02-10-2026",
       "url": "https://www.archisevilla.org/archisevilla-7-dias-edicion-del-02-10-2026/",
@@ -329,48 +335,6 @@
       "titulo": "Fano, premio Stella por evangelizar a través de la parroquia, la escuela y la familia",
       "url": "https://odisur.es/malaga/fano-premio-stella-por-evangelizar-a-traves-de-la-parroquia-la-escuela-y-la-familia/",
       "fecha": "2026-09-30T15:09:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "San Francisco de Arcos clausura su Año de Gracia con la dedicación de un nuevo altar",
-      "url": "https://odisur.es/asidonia-jerez/san-francisco-de-arcos-clausura-su-ano-de-gracia-con-la-dedicacion-de-un-nuevo-altar/",
-      "fecha": "2026-09-30T12:12:14.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Bornos celebra este domingo la festividad de su Patrona, la Virgen del Rosario Coronada",
-      "url": "https://odisur.es/asidonia-jerez/bornos-celebra-este-domingo-la-festividad-de-su-patrona-la-virgen-del-rosario-coronada/",
-      "fecha": "2026-09-30T12:07:10.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Archidiócesis de Sevilla participa en el Encuentro Nacional de delegados de Patrimonio Cultural",
-      "url": "https://www.archisevilla.org/la-archidiocesis-de-sevilla-participa-en-el-encuentro-nacional-de-delegados-de-patrimonio-cultural/",
-      "fecha": "2026-09-30T12:00:28.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "«El feto humano puede llegar a sufrir el dolor más que nosotros»",
-      "url": "https://odisur.es/malaga/el-feto-humano-puede-llegar-a-sufrir-el-dolor-mas-que-nosotros/",
-      "fecha": "2026-09-30T11:55:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Restaurada la puerta de San Ildefonso de la Mezquita-Catedral",
-      "url": "https://odisur.es/cordoba/restaurada-la-puerta-de-san-ildefonso-de-la-mezquita-catedral/",
-      "fecha": "2026-09-30T11:53:50.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Eucaristía diaria regresa a la Catedral",
-      "url": "https://odisur.es/granada/la-eucaristia-diaria-regresa-a-la-catedral/",
-      "fecha": "2026-09-30T11:44:10.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Constituida la Comisión Diocesana de Arte Sacro",
-      "url": "https://odisur.es/cadiz-y-ceuta/constituida-la-comision-diocesana-de-arte-sacro/",
-      "fecha": "2026-09-30T11:31:43.000Z",
       "fuente": "ODISUR"
     }
   ],
@@ -783,5 +747,14 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": []
+  "errores": [
+    {
+      "fuente": "fuente_2",
+      "error": "catedraldesevilla.es: no se encontró ninguna noticia en la página (¿ha cambiado la maquetación?)"
+    },
+    {
+      "fuente": "fuente_3",
+      "error": "Status code 415"
+    }
+  ]
 }
