@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-01T23:18:36.840Z",
+  "generadoEn": "2026-10-02T00:30:04.768Z",
   "titulares": [
     {
       "titulo": "Apertura del curso cofrade 2026/2027",
@@ -298,28 +298,6 @@
   ],
   "proximosActos": [
     {
-      "titulo": "Apertura del curso académico en la Facultad de Teología",
-      "url": "https://www.archisevilla.org/evento/apertura-del-curso-academico-en-la-facultad-de-teologia-2/",
-      "fecha": "2026-10-01T08:00:00.000Z",
-      "fechaFin": "2026-10-01T11:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "Facultad de Teología San Isidoro de Sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-10-01-apertura-del-curso-academico-en-la-facultad-de-teologia-2.ics"
-    },
-    {
-      "titulo": "Apertura de curso cofrade en Sevilla",
-      "url": "https://www.archisevilla.org/evento/apertura-de-curso-cofrade-en-sevilla/",
-      "fecha": "2026-10-01T18:30:00.000Z",
-      "fechaFin": "2026-10-01T20:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "Consejo de Hermandades y Cofradías de Sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-10-01-apertura-de-curso-cofrade-en-sevilla.ics"
-    },
-    {
       "titulo": "Coronación de la Virgen de las Angustias, en Utrera",
       "url": "https://www.archisevilla.org/evento/coronacion-de-la-virgen-de-las-angustias-en-utrera/",
       "fecha": "2026-10-03T17:00:00.000Z",
@@ -585,28 +563,26 @@
       "archivoIcs": "actos/2026-11-11-misa-por-los-sacerdotes-difuntos.ics"
     },
     {
-      "titulo": "Misa de la Hermandad de San Pedro ad Vincula",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-11-18-misa-de-la-hermandad-de-san-pedro-ad-vincula",
-      "sinEnlace": true,
+      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
+      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-2/",
       "fecha": "2026-11-18T11:00:00.000Z",
-      "fechaFin": null,
+      "fechaFin": "2026-11-18T16:00:00.000Z",
       "todoElDia": false,
       "lugar": "San Pedro de Sevilla",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-11-18-misa-de-la-hermandad-de-san-pedro-ad-vincula.ics"
+      "archivoIcs": "actos/2026-11-18-clero-hermandad-san-pedro-ad-vincula-2.ics"
     },
     {
-      "titulo": "Retiro de Adviento del clero (dirige D. Ramón Valdivia, Obispo Auxiliar)",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-12-03-retiro-de-adviento-del-clero-dirige-d-ramon-valdivia-obispo-",
-      "sinEnlace": true,
+      "titulo": "CLERO | Retiro de adviento",
+      "url": "https://www.archisevilla.org/evento/clero-retiro-de-adviento/",
       "fecha": "2026-12-03T09:30:00.000Z",
-      "fechaFin": null,
+      "fechaFin": "2026-12-03T13:00:00.000Z",
       "todoElDia": false,
       "lugar": "Seminario",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-12-03-retiro-de-adviento-del-clero-dirige-d-ramon-valdivia-obispo-auxiliar.ics"
+      "archivoIcs": "actos/2026-12-03-clero-retiro-de-adviento.ics"
     },
     {
       "titulo": "Eucaristía en las Bodas de Plata de ordenación episcopal de Mons. José Ángel Saiz Meneses, Arzobispo de Sevilla",
