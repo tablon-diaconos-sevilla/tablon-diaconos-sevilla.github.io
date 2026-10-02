@@ -1,6 +1,30 @@
 {
-  "generadoEn": "2026-10-02T07:23:39.904Z",
+  "generadoEn": "2026-10-02T08:24:35.590Z",
   "titulares": [
+    {
+      "titulo": "Centro de Noche",
+      "url": "https://www.archisevilla.org/centro-de-noche-04-10-2026/",
+      "fecha": "2026-10-02T08:00:20.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "La Parroquia de la Oliva de Dos Hermanas honra al beato Bienvenido María con la bendición de un lienzo donado por los amigonianos",
+      "url": "https://www.archisevilla.org/la-parroquia-de-la-oliva-de-dos-hermanas-honra-al-beato-bienvenido-maria-con-la-bendicion-de-un-lienzo-donado-por-los-amigonianos/",
+      "fecha": "2026-10-02T08:00:16.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Evangelio del XXVII Domingo de Tiempo Ordinario (ciclo A) en Lengua de Signos Española",
+      "url": "https://www.archisevilla.org/evangelio-del-xxvii-domingo-de-tiempo-ordinario-ciclo-a-lengua-de-signos-espanola/",
+      "fecha": "2026-10-02T08:00:02.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Invitación al Envío Diocesano de Catequistas",
+      "url": "https://odisur.es/malaga/invitacion-al-envio-diocesano-de-catequistas/",
+      "fecha": "2026-10-02T07:50:00.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "Apertura del curso cofrade 2026/2027",
       "url": "https://www.archisevilla.org/apertura-del-curso-cofrade-2026-2027/",
@@ -263,18 +287,6 @@
       "titulo": "Las parroquias de San Francisco Javier y Santa Ana y San Joaquín comienzan el curso con una convivencia festiva",
       "url": "https://odisur.es/malaga/las-parroquias-de-san-francisco-javier-y-santa-ana-y-san-joaquin-comienzan-el-curso-con-una-convivencia-festiva/",
       "fecha": "2026-09-30T08:28:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Parroquia de San José de Dos Hermanas celebrará el Día de la Hispanidad con una jornada de fe y comunión",
-      "url": "https://www.archisevilla.org/la-parroquia-de-san-jose-de-dos-hermanas-celebrara-el-dia-de-la-hispanidad-con-una-jornada-de-fe-y-comunion/",
-      "fecha": "2026-09-30T08:00:40.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "Nueva edición del Curso de órgano litúrgico",
-      "url": "https://odisur.es/granada/nueva-edicion-del-curso-de-organo-liturgico/",
-      "fecha": "2026-09-30T07:36:11.000Z",
       "fuente": "ODISUR"
     }
   ],
