@@ -1,6 +1,36 @@
 {
-  "generadoEn": "2026-10-02T12:27:09.559Z",
+  "generadoEn": "2026-10-02T13:23:23.920Z",
   "titulares": [
+    {
+      "titulo": "‘Testigos Hoy’ (CSTV) dedica su espacio del próximo domingo al arzobispo de Sevilla",
+      "url": "https://www.archisevilla.org/testigos-hoy-cstv-dedica-su-espacio-del-proximo-domingo-al-arzobispo-de-sevilla/",
+      "fecha": "2026-10-02T13:00:10.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Al Trasluz: Los Ángeles Custodios",
+      "url": "https://odisur.es/cordoba/al-trasluz-los-angeles-custodios/",
+      "fecha": "2026-10-02T12:39:56.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "El Centro de Recepción de Visitantes de la Mezquita-Catedral recibe una mención especial en los Premios Expone 2026",
+      "url": "https://odisur.es/cordoba/el-centro-de-recepcion-de-visitantes-de-la-mezquita-catedral-recibe-una-mencion-especial-en-los-premios-expone-2026/",
+      "fecha": "2026-10-02T12:33:59.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "“Mamás en acción”, en “El Espejo Granada”",
+      "url": "https://odisur.es/granada/mamas-en-accion-en-el-espejo-granada/",
+      "fecha": "2026-10-02T12:32:04.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "📖 Reseña literaria: ‘Educar para la Contemplación’, de Ricardo Sada",
+      "url": "https://odisur.es/huelva/resena-literaria-educar-para-la-contemplacion-de-ricardo-sada/",
+      "fecha": "2026-10-02T12:08:00.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "El VI Paseo Ecuménico recorrerá Sevilla bajo el lema «Inmersión en el agua viva»",
       "url": "https://www.archisevilla.org/el-vi-paseo-ecumenico-recorrera-sevilla-bajo-el-lema-inmersion-en-el-agua-viva/",
@@ -8,10 +38,40 @@
       "fuente": "Archidiócesis de Sevilla"
     },
     {
+      "titulo": "“Damos gracias a Dios por las personas que cuidan de los demás”",
+      "url": "https://odisur.es/cordoba/damos-gracias-a-dios-por-las-personas-que-cuidan-de-los-demas/",
+      "fecha": "2026-10-02T11:48:29.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Canal Málaga y 7TV entrevistan al Obispo de Málaga",
+      "url": "https://odisur.es/malaga/canal-malaga-y-7tv-entrevistan-al-obispo-de-malaga/",
+      "fecha": "2026-10-02T11:42:00.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "“Mamás en acción”",
+      "url": "https://odisur.es/granada/mamas-en-accion/",
+      "fecha": "2026-10-02T11:38:03.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "La Diócesis de Huelva inicia el itinerario de preparación de la Asamblea Diocesana",
+      "url": "https://odisur.es/huelva/la-diocesis-de-huelva-inicia-el-itinerario-de-preparacion-de-la-asamblea-diocesana/",
+      "fecha": "2026-10-02T11:19:18.000Z",
+      "fuente": "ODISUR"
+    },
+    {
       "titulo": "ARCHISEVILLA 7 días. Edición del 02-10-2026",
       "url": "https://www.archisevilla.org/archisevilla-7-dias-edicion-del-02-10-2026/",
       "fecha": "2026-10-02T10:51:28.000Z",
       "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Kike Figaredo SJ trae la danza de Camboya en solidaridad con las víctimas de minas antipersona",
+      "url": "https://odisur.es/malaga/kike-figaredo-sj-trae-la-danza-de-camboya-en-solidaridad-con-las-victimas-de-minas-antipersona/",
+      "fecha": "2026-10-02T10:48:00.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "Una diócesis más misionera",
@@ -60,6 +120,12 @@
       "url": "https://odisur.es/canarias/la-diocesis-de-canarias-y-banco-sabadell-renuevan-su-convenio-de-colaboracion/",
       "fecha": "2026-10-02T10:00:12.000Z",
       "fuente": "ODISUR"
+    },
+    {
+      "url": "https://www.catedraldesevilla.es/la-jornada-tecnica-cuadernos-de-fabrica-2025-convierte-las-restauraciones-del-ultimo-ano-en-nuevas-claves-para-la-conservacion-futura-de-la-catedral/",
+      "titulo": "La Jornada Técnica «Cuadernos de Fábrica 2025» convierte las restauraciones del último año en nuevas claves para la conservación futura de la Catedral",
+      "fecha": "2026-10-02T10:00:00.000Z",
+      "fuente": "Catedral de Sevilla"
     },
     {
       "titulo": "Mons. Mazuelos: «Ceuta vive una crisis humanitaria que nos interpela a todos»",
@@ -747,14 +813,5 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": [
-    {
-      "fuente": "fuente_2",
-      "error": "catedraldesevilla.es: no se encontró ninguna noticia en la página (¿ha cambiado la maquetación?)"
-    },
-    {
-      "fuente": "fuente_3",
-      "error": "Status code 415"
-    }
-  ]
+  "errores": []
 }
