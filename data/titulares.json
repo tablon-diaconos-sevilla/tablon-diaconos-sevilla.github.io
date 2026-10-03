@@ -1,6 +1,18 @@
 {
-  "generadoEn": "2026-10-03T07:22:05.445Z",
+  "generadoEn": "2026-10-03T08:23:25.554Z",
   "titulares": [
+    {
+      "titulo": "‘Centro de Noche’, carta dominical del arzobispo de Sevilla (04-10-2026)",
+      "url": "https://www.archisevilla.org/centro-de-noche-carta-dominical-del-arzobispo-de-sevilla-04-10-2026/",
+      "fecha": "2026-10-03T08:00:08.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "COPE ESPEJO ALMERIA: Charlamos con el nuevo Vicario de Pastoral, Juan Antonio Plaza y el nuevo plan pastoral diocesano",
+      "url": "https://odisur.es/almeria/cope-espejo-almeria-charlamos-con-el-nuevo-vicario-de-pastoral-juan-antonio-plaza-y-el-nuevo-plan-pastoral-diocesano/",
+      "fecha": "2026-10-03T06:55:49.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "El curso de Estudios Teológicos comienza en Córdoba con una reflexión sobre inteligencia artificial",
       "url": "https://odisur.es/cordoba/el-curso-de-estudios-teologicos-comienza-en-cordoba-con-una-reflexion-sobre-inteligencia-artificial/",
@@ -396,30 +408,6 @@
       "url": "https://www.archisevilla.org/la-iglesia-en-sevilla-se-suma-a-la-noche-en-blanco-2026/",
       "fecha": "2026-10-01T09:00:51.000Z",
       "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "Reto Laudato sì octubre. IA con cabeza y sensibilidad",
-      "url": "https://odisur.es/malaga/reto-laudato-si-octubre-ia-con-cabeza-y-sensibilidad/",
-      "fecha": "2026-10-01T08:18:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Jueves, 1 de octubre de 2026",
-      "url": "https://odisur.es/cordoba/jueves-1-de-octubre-de-2026/",
-      "fecha": "2026-10-01T08:00:47.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Delegación de Catequesis presenta sus cursos de formación para catequistas para el curso 26/27",
-      "url": "https://www.archisevilla.org/la-delegacion-de-catequesis-presenta-sus-cursos-de-formacion-para-catequistas-para-el-curso-26-27/",
-      "fecha": "2026-10-01T08:00:35.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "PROTESTAR, PERO POQUITO: Entre la vivienda y la propiedad",
-      "url": "https://odisur.es/almeria/protestar-pero-poquito-entre-la-vivienda-y-la-propiedad/",
-      "fecha": "2026-10-01T07:26:59.000Z",
-      "fuente": "ODISUR"
     }
   ],
   "proximosActos": [
@@ -831,5 +819,10 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": []
+  "errores": [
+    {
+      "fuente": "fuente_3",
+      "error": "Request timed out after 60000ms"
+    }
+  ]
 }
