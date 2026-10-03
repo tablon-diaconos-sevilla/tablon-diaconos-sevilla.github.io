@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-03T08:23:25.554Z",
+  "generadoEn": "2026-10-03T09:21:49.053Z",
   "titulares": [
     {
       "titulo": "‘Centro de Noche’, carta dominical del arzobispo de Sevilla (04-10-2026)",
@@ -402,12 +402,6 @@
       "url": "https://odisur.es/huelva/proyecto-amor-conyugal-inicia-el-nuevo-curso-pastoral-con-una-jornada-de-convivencia-formacion-y-oracion/",
       "fecha": "2026-10-01T09:25:30.000Z",
       "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Iglesia en Sevilla se suma a la Noche en Blanco 2026",
-      "url": "https://www.archisevilla.org/la-iglesia-en-sevilla-se-suma-a-la-noche-en-blanco-2026/",
-      "fecha": "2026-10-01T09:00:51.000Z",
-      "fuente": "Archidiócesis de Sevilla"
     }
   ],
   "proximosActos": [
@@ -819,10 +813,5 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": [
-    {
-      "fuente": "fuente_3",
-      "error": "Request timed out after 60000ms"
-    }
-  ]
+  "errores": []
 }
