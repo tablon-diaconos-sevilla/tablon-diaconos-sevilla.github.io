@@ -1,11 +1,35 @@
 {
-  "generadoEn": "2026-10-03T18:33:00.640Z",
+  "generadoEn": "2026-10-04T02:33:01.667Z",
   "titulares": [
+    {
+      "titulo": "Mons. Saiz corona a la Virgen de las Angustias, de Utrera",
+      "url": "https://www.archisevilla.org/mons-saiz-corona-a-la-virgen-de-las-angustias-de-utrera/",
+      "fecha": "2026-10-03T21:10:25.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Mons. Saiz: “La fe sale a las calles no para imponerse a nadie, sino para ofrecer un testimonio de esperanza”",
+      "url": "https://www.archisevilla.org/mons-saiz-la-fe-sale-a-las-calles-no-para-imponerse-a-nadie-sino-para-ofrecer-un-testimonio-de-esperanza/",
+      "fecha": "2026-10-03T20:58:34.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "“El Evangelio no cambia, pero tenemos que cambiar la manera de anunciarlo”",
+      "url": "https://odisur.es/malaga/el-evangelio-no-cambia-pero-tenemos-que-cambiar-la-manera-de-anunciarlo/",
+      "fecha": "2026-10-03T17:58:00.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "El Obispo preside la celebración del 50 aniversario de canonización de santa Beatriz de Silva",
       "url": "https://odisur.es/cordoba/el-obispo-preside-la-celebracion-del-50-aniversario-de-canonizacion-de-santa-beatriz-de-silva/",
       "fecha": "2026-10-03T15:15:59.000Z",
       "fuente": "ODISUR"
+    },
+    {
+      "url": "https://www.catedraldesevilla.es/la-catedral-y-el-salvador-participan-en-la-noche-en-blanco-con-dos-propuestas-de-arte-luz-y-musica/",
+      "titulo": "La Catedral y el Salvador participan en la Noche en Blanco con dos propuestas de arte, luz y música",
+      "fecha": "2026-10-03T10:00:00.000Z",
+      "fuente": "Catedral de Sevilla"
     },
     {
       "titulo": "‘Centro de Noche’, carta dominical del arzobispo de Sevilla (04-10-2026)",
@@ -300,38 +324,9 @@
       "url": "https://odisur.es/huelva/el-vii-retiro-de-emaus-para-hombres-se-celebrara-en-noviembre-en-el-seminario-diocesano-de-huelva/",
       "fecha": "2026-10-02T06:14:50.000Z",
       "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Apertura del curso cofrade 2026/2027",
-      "url": "https://www.archisevilla.org/apertura-del-curso-cofrade-2026-2027/",
-      "fecha": "2026-10-01T19:17:02.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "‘Alzad la mirada’. Conferencia de inicio del Curso Cofrade 2026-2027",
-      "url": "https://www.archisevilla.org/alzad-la-mirada-conferencia-de-inicio-del-curso-cofrade-2026-2027/",
-      "fecha": "2026-10-01T19:10:25.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "Mons. Saiz en el inicio del curso cofrade: “Una vara no concede privilegio, sino responsabilidad””",
-      "url": "https://www.archisevilla.org/mons-saiz-en-el-inicio-del-curso-cofrade-una-vara-no-concede-privilegio-sino-responsabilidad/",
-      "fecha": "2026-10-01T19:10:00.000Z",
-      "fuente": "Archidiócesis de Sevilla"
     }
   ],
   "proximosActos": [
-    {
-      "titulo": "Coronación de la Virgen de las Angustias, en Utrera",
-      "url": "https://www.archisevilla.org/evento/coronacion-de-la-virgen-de-las-angustias-en-utrera/",
-      "fecha": "2026-10-03T17:00:00.000Z",
-      "fechaFin": "2026-10-03T18:30:00.000Z",
-      "todoElDia": false,
-      "lugar": "Utrera",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-10-03-coronacion-de-la-virgen-de-las-angustias-en-utrera.ics"
-    },
     {
       "titulo": "Medalla Pro Ecclesia Hispalense",
       "url": "https://www.archisevilla.org/evento/medalla-pro-ecclesia-hispalense-2/",
@@ -621,16 +616,15 @@
       "archivoIcs": "actos/2026-12-12-eucaristia-en-las-bodas-de-plata-de-ordenacion-episcopal-de-mons-jose-angel-saiz.ics"
     },
     {
-      "titulo": "Encuentro de Navidad de la Hermandad de San Pedro ad Vincula",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-12-16-encuentro-de-navidad-de-la-hermandad-de-san-pedro-ad-vincula",
-      "sinEnlace": true,
+      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
+      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-3/",
       "fecha": "2026-12-16T11:00:00.000Z",
-      "fechaFin": null,
+      "fechaFin": "2026-12-16T13:00:00.000Z",
       "todoElDia": false,
       "lugar": "Hospital de los Venerables",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-12-16-encuentro-de-navidad-de-la-hermandad-de-san-pedro-ad-vincula.ics"
+      "archivoIcs": "actos/2026-12-16-clero-hermandad-san-pedro-ad-vincula-3.ics"
     },
     {
       "titulo": "Felicitación de Navidad del clero al Sr. Arzobispo",
