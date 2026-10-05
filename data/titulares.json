@@ -1,10 +1,28 @@
 {
-  "generadoEn": "2026-10-05T14:27:17.653Z",
+  "generadoEn": "2026-10-05T15:25:14.406Z",
   "titulares": [
+    {
+      "titulo": "La vigilia de oración por el trabajo decente se celebrará en Sevilla el 7 de octubre",
+      "url": "https://www.archisevilla.org/la-vigilia-de-oracion-por-el-trabajo-decente-se-celebrara-en-sevilla-el-7-de-octubre/",
+      "fecha": "2026-10-05T15:00:56.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "El obispo y los trabajadores de la Iglesia diocesana reciben a la Virgen de la Fuensanta en el Palacio Episcopal",
+      "url": "https://odisur.es/cartagena/el-obispo-y-los-trabajadores-de-la-iglesia-diocesana-reciben-a-la-virgen-de-la-fuensanta-en-el-palacio-episcopal/",
+      "fecha": "2026-10-05T12:47:47.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "PH Granada: oportunidades reales de reinserción para personas privadas de libertad",
       "url": "https://odisur.es/granada/ph-granada-oportunidades-reales-de-reinsercion-para-personas-privadas-de-libertad/",
       "fecha": "2026-10-05T12:45:08.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "La Parroquia de San Francisco de Arcos culmina su 60 aniversario con la dedicación de un nuevo altar",
+      "url": "https://odisur.es/asidonia-jerez/la-parroquia-de-san-francisco-de-arcos-culmina-su-60-aniversario-con-la-dedicacion-de-un-nuevo-altar/",
+      "fecha": "2026-10-05T12:44:45.000Z",
       "fuente": "ODISUR"
     },
     {
@@ -23,6 +41,12 @@
       "titulo": "Misa de inicio de Curso Centro de Magisterio Sagrado Corazón",
       "url": "https://odisur.es/cordoba/misa-de-inicio-de-curso-centro-de-magisterio-sagrado-corazon/",
       "fecha": "2026-10-05T11:40:12.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Bornos celebra la festividad de su Patrona, Nuestra Señora del Rosario Coronada",
+      "url": "https://odisur.es/asidonia-jerez/bornos-celebra-la-festividad-de-su-patrona-nuestra-senora-del-rosario-coronada/",
+      "fecha": "2026-10-05T11:37:41.000Z",
       "fuente": "ODISUR"
     },
     {
@@ -221,12 +245,6 @@
       "titulo": "“El Evangelio no cambia, pero tenemos que cambiar la manera de anunciarlo”",
       "url": "https://odisur.es/malaga/el-evangelio-no-cambia-pero-tenemos-que-cambiar-la-manera-de-anunciarlo/",
       "fecha": "2026-10-03T17:58:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "El Obispo preside la celebración del 50 aniversario de canonización de santa Beatriz de Silva",
-      "url": "https://odisur.es/cordoba/el-obispo-preside-la-celebracion-del-50-aniversario-de-canonizacion-de-santa-beatriz-de-silva/",
-      "fecha": "2026-10-03T15:15:59.000Z",
       "fuente": "ODISUR"
     }
   ],
@@ -627,14 +645,5 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": [
-    {
-      "fuente": "fuente_2",
-      "error": "catedraldesevilla.es: no se encontró ninguna noticia en la página (¿ha cambiado la maquetación?)"
-    },
-    {
-      "fuente": "fuente_3",
-      "error": "Status code 415"
-    }
-  ]
+  "errores": []
 }
