@@ -1,11 +1,23 @@
 {
-  "generadoEn": "2026-10-05T13:27:37.992Z",
+  "generadoEn": "2026-10-05T14:27:17.653Z",
   "titulares": [
+    {
+      "titulo": "PH Granada: oportunidades reales de reinserción para personas privadas de libertad",
+      "url": "https://odisur.es/granada/ph-granada-oportunidades-reales-de-reinsercion-para-personas-privadas-de-libertad/",
+      "fecha": "2026-10-05T12:45:08.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "Los nuevos diáconos ya tienen sus destinos pastorales",
       "url": "https://www.archisevilla.org/los-nuevos-diaconos-ya-tiene-sus-destinos-pastorales/",
       "fecha": "2026-10-05T12:00:07.000Z",
       "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "LOS PRADOS. El barrio de Málaga, junto a María",
+      "url": "https://odisur.es/malaga/los-prados-el-barrio-de-malaga-junto-a-maria/",
+      "fecha": "2026-10-05T11:56:00.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "Misa de inicio de Curso Centro de Magisterio Sagrado Corazón",
@@ -20,9 +32,21 @@
       "fuente": "ODISUR"
     },
     {
+      "titulo": "Asamblea de inicio de curso con la Pastoral de salud",
+      "url": "https://odisur.es/granada/asamblea-de-inicio-de-curso-con-la-pastoral-de-salud/",
+      "fecha": "2026-10-05T11:27:33.000Z",
+      "fuente": "ODISUR"
+    },
+    {
       "titulo": "La Palabra de Dios, centro del Día Diocesano del Catequista",
       "url": "https://odisur.es/almeria/la-palabra-de-dios-centro-del-dia-diocesano-del-catequista/",
       "fecha": "2026-10-05T11:16:18.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Mons. Gil abre el Año jubilar diocesano de la Virgen de la Cabeza, en Jaén",
+      "url": "https://odisur.es/granada/mons-gil-abre-el-ano-jubilar-diocesano-de-la-virgen-de-la-cabeza-en-jaen/",
+      "fecha": "2026-10-05T10:58:32.000Z",
       "fuente": "ODISUR"
     },
     {
@@ -603,5 +627,14 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": []
+  "errores": [
+    {
+      "fuente": "fuente_2",
+      "error": "catedraldesevilla.es: no se encontró ninguna noticia en la página (¿ha cambiado la maquetación?)"
+    },
+    {
+      "fuente": "fuente_3",
+      "error": "Status code 415"
+    }
+  ]
 }
