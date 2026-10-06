@@ -1,11 +1,35 @@
 {
-  "generadoEn": "2026-10-06T09:23:47.416Z",
+  "generadoEn": "2026-10-06T10:22:45.080Z",
   "titulares": [
+    {
+      "titulo": "Los Equipos de Nuestra Señora de Sevilla inauguran el curso con una jornada de formación y fraternidad",
+      "url": "https://www.archisevilla.org/los-equipos-de-nuestra-senora-de-sevilla-inauguran-el-curso-con-una-jornada-de-formacion-y-fraternidad/",
+      "fecha": "2026-10-06T10:00:09.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
     {
       "url": "https://www.catedraldesevilla.es/la-catedral-de-sevilla-participa-en-la-conmemoracion-del-30-aniversario-del-programa-de-formacion-del-iaph/",
       "titulo": "La Catedral de Sevilla participa en la conmemoración del 30 aniversario del programa de formación del IAPH",
       "fecha": "2026-10-06T10:00:00.000Z",
       "fuente": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "Campos del Río participa un año más en el Camino de Santiago Penitenciario",
+      "url": "https://odisur.es/cartagena/campos-del-rio-participa-un-ano-mas-en-el-camino-de-santiago-penitenciario/",
+      "fecha": "2026-10-06T09:30:29.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Una Luz en la Noche",
+      "url": "https://odisur.es/granada/una-luz-en-la-noche/",
+      "fecha": "2026-10-06T08:24:46.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Martes, 6 de octubre de 2026",
+      "url": "https://odisur.es/cordoba/martes-6-de-octubre-de-2026/",
+      "fecha": "2026-10-06T08:23:05.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "El éxtasis de San Francisco de Asís. Capilla de San Francisco de Asís (Catedral de Sevilla)",
@@ -354,12 +378,6 @@
       "url": "https://odisur.es/cordoba/v-aniversario-de-la-beatificacion-de-127-martires-de-la-persecucion-religiosa/",
       "fecha": "2026-10-04T11:45:14.000Z",
       "fuente": "ODISUR"
-    },
-    {
-      "url": "https://www.catedraldesevilla.es/la-catedral-de-sevilla-celebra-a-san-francisco-de-asis-y-une-arte-y-fe-a-traves-de-su-obra/",
-      "titulo": "San Francisco de Asís en el patrimonio de la Catedral",
-      "fecha": "2026-10-04T10:00:00.000Z",
-      "fuente": "Catedral de Sevilla"
     }
   ],
   "proximosActos": [
