@@ -1,11 +1,29 @@
 {
-  "generadoEn": "2026-10-07T07:24:25.597Z",
+  "generadoEn": "2026-10-07T08:25:27.076Z",
   "titulares": [
     {
       "url": "https://www.catedraldesevilla.es/la-catedral-recibe-la-donacion-de-un-retrato-de-sor-francisca-dorotea/",
       "titulo": "La Catedral recibe la donación de un retrato de Sor Francisca Dorotea",
       "fecha": "2026-10-07T10:00:00.000Z",
       "fuente": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "El COF de San Sebastián inaugura el curso el 14 de octubre con una conferencia sobre el apostolado de los laicos",
+      "url": "https://www.archisevilla.org/el-cof-de-san-sebastian-inaugura-el-curso-el-14-de-octubre-con-una-conferencia-sobre-el-apostolado-de-los-laicos/",
+      "fecha": "2026-10-07T08:00:56.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "La Ciudad de los Niños inaugura el nuevo curso bajo el lema «Una mochila cargada de esperanza»",
+      "url": "https://odisur.es/malaga/la-ciudad-de-los-ninos-inaugura-el-nuevo-curso-bajo-el-lema-una-mochila-cargada-de-esperanza/",
+      "fecha": "2026-10-07T07:08:00.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "José Luis Fernández, presidente HOAC Málaga: «Tener empleo ya no garantiza una vida digna»",
+      "url": "https://odisur.es/malaga/jose-luis-fernandez-presidente-hoac-malaga-tener-empleo-ya-no-garantiza-una-vida-digna/",
+      "fecha": "2026-10-07T06:13:00.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "Asidonia-Jerez celebra 15 años de Adoración Perpetua en el Monasterio de las Hermanas Mínimas de Jerez",
@@ -443,36 +461,6 @@
       "titulo": "Lunes, 5 de octubre de 2026",
       "url": "https://odisur.es/cordoba/lunes-5-de-octubre-de-2026/",
       "fecha": "2026-10-05T08:35:18.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "El Movimiento de Cursillos de Cristiandad de Huelva inicia el nuevo curso con su primera Ultreya",
-      "url": "https://odisur.es/huelva/el-movimiento-de-cursillos-de-cristiandad-de-huelva-inicia-el-nuevo-curso-con-su-primera-ultreya/",
-      "fecha": "2026-10-05T08:23:34.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Lectura Creyente de la Palabra inicia el curso con la formación sobre el nuevo material de trabajo",
-      "url": "https://odisur.es/huelva/la-lectura-creyente-de-la-palabra-inicia-el-curso-con-la-formacion-sobre-el-nuevo-material-de-trabajo/",
-      "fecha": "2026-10-05T08:14:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Facultad de Teología amplía su oferta formativa con nuevos títulos propios para profundizar en la fe y el servicio a la Iglesia",
-      "url": "https://www.archisevilla.org/la-facultad-de-teologia-amplia-su-oferta-formativa-con-nuevos-titulos-propios-para-profundizar-en-la-fe-y-el-servicio-a-la-iglesia/",
-      "fecha": "2026-10-05T08:00:24.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "La Librería Diocesana estará cerrada del 5 al 7 de octubre",
-      "url": "https://odisur.es/cordoba/la-libreria-diocesana-estara-cerrada-del-5-al-7-de-octubre/",
-      "fecha": "2026-10-05T07:36:27.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Fundación Corinto invita a mirar la acción social de las cofradías",
-      "url": "https://odisur.es/malaga/la-fundacion-corinto-invita-a-mirar-la-accion-social-de-las-cofradias/",
-      "fecha": "2026-10-05T07:34:00.000Z",
       "fuente": "ODISUR"
     }
   ],
