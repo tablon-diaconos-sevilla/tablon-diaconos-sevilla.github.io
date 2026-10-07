@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-07T21:23:52.109Z",
+  "generadoEn": "2026-10-07T22:20:14.663Z",
   "titulares": [
     {
       "titulo": "Rota se reúne, como cada 7 de octubre, a los pies de su Patrona",
@@ -741,10 +741,5 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": [
-    {
-      "fuente": "fuente_3",
-      "error": "Request timed out after 60000ms"
-    }
-  ]
+  "errores": []
 }
