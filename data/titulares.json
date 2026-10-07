@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-06T23:20:10.938Z",
+  "generadoEn": "2026-10-07T00:33:08.541Z",
   "titulares": [
     {
       "titulo": "Asidonia-Jerez celebra 15 años de Adoración Perpetua en el Monasterio de las Hermanas Mínimas de Jerez",
@@ -490,17 +490,6 @@
   ],
   "proximosActos": [
     {
-      "titulo": "Medalla Pro Ecclesia Hispalense",
-      "url": "https://www.archisevilla.org/evento/medalla-pro-ecclesia-hispalense-2/",
-      "fecha": "2026-10-06T18:00:00.000Z",
-      "fechaFin": "2026-10-06T19:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "Salón del Trono del Arzobispado de Sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-10-06-medalla-pro-ecclesia-hispalense-2.ics"
-    },
-    {
       "titulo": "Presentación de la web del Observatorio de la Piedad Popular",
       "url": "https://www.archisevilla.org/evento/presentacion-de-la-web-del-observatorio-de-la-piedad-popular/",
       "fecha": "2026-10-07T10:00:00.000Z",
@@ -811,6 +800,17 @@
       "fuente": "Delegación para el Clero",
       "esAgenda": true,
       "archivoIcs": "actos/2026-12-26-misa-de-san-esteban-con-el-colegio-diaconal.ics"
+    },
+    {
+      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
+      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-4/",
+      "fecha": "2027-01-13T10:00:00.000Z",
+      "fechaFin": "2027-01-13T16:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Casa de Ejercicios &#8216;Betania’",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2027-01-13-clero-hermandad-san-pedro-ad-vincula-4.ics"
     },
     {
       "titulo": "Ejercicios espirituales del clero – 2.ª tanda de Febrero (14 al 19 de febrero; D. José Vilaplana, Obispo Emérito de Huelva)",
