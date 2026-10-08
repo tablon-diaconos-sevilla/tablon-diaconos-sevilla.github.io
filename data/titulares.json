@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-08T01:23:15.318Z",
+  "generadoEn": "2026-10-08T02:21:17.661Z",
   "titulares": [
     {
       "titulo": "Se publica el calendario de cursillos de cristiandad para 2026-2027",
@@ -735,10 +735,5 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": [
-    {
-      "fuente": "fuente_3",
-      "error": "Request timed out after 60000ms"
-    }
-  ]
+  "errores": []
 }
