@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-08T16:25:46.724Z",
+  "generadoEn": "2026-10-08T17:22:04.155Z",
   "titulares": [
     {
       "titulo": "La Pastoral Familiar celebra una nueva edición del retiro Un amor que no termina",
@@ -735,14 +735,5 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": [
-    {
-      "fuente": "fuente_2",
-      "error": "catedraldesevilla.es: no se encontró ninguna noticia en la página (¿ha cambiado la maquetación?)"
-    },
-    {
-      "fuente": "fuente_3",
-      "error": "Status code 415"
-    }
-  ]
+  "errores": []
 }
