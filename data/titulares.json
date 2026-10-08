@@ -1,10 +1,22 @@
 {
-  "generadoEn": "2026-10-08T10:24:44.788Z",
+  "generadoEn": "2026-10-08T11:23:47.869Z",
   "titulares": [
+    {
+      "url": "https://www.catedraldesevilla.es/la-catedral-adquiere-una-nueva-peana-de-plata-para-la-cruz-patriarcal-del-altar-mayor/",
+      "titulo": "La Catedral adquiere una nueva peana de plata para la Cruz Patriarcal del Altar Mayor",
+      "fecha": "2026-10-08T10:00:00.000Z",
+      "fuente": "Catedral de Sevilla"
+    },
     {
       "titulo": "Santomera celebra a su patrona",
       "url": "https://odisur.es/cartagena/santomera-celebra-a-su-patrona/",
       "fecha": "2026-10-08T09:32:30.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Catequesis de Confirmación Universitarios",
+      "url": "https://odisur.es/granada/catequesis-de-confirmacion-universitarios/",
+      "fecha": "2026-10-08T09:28:18.000Z",
       "fuente": "ODISUR"
     },
     {
@@ -299,12 +311,6 @@
       "titulo": "El Equipo Sinodal Diocesano invita a trabajar en las parroquias el documento «La renovación misionera sinodal de la parroquia»",
       "url": "https://odisur.es/asidonia-jerez/el-equipo-sinodal-diocesano-invita-a-trabajar-en-las-parroquias-el-documento-la-renovacion-misionera-sinodal-de-la-parroquia/",
       "fecha": "2026-10-06T11:24:58.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "De Atenas a Jerez: San Dionisio Areopagita, el patrón que aparece en la Biblia",
-      "url": "https://odisur.es/asidonia-jerez/de-atenas-a-jerez-san-dionisio-areopagita-el-patron-que-aparece-en-la-biblia/",
-      "fecha": "2026-10-06T10:29:23.000Z",
       "fuente": "ODISUR"
     }
   ],
