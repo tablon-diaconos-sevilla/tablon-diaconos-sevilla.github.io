@@ -1,11 +1,41 @@
 {
-  "generadoEn": "2026-10-08T11:23:47.869Z",
+  "generadoEn": "2026-10-08T12:29:52.558Z",
   "titulares": [
+    {
+      "titulo": "La Parroquia del Santísimo Redentor acoge una vigilia universitaria por las vocaciones",
+      "url": "https://www.archisevilla.org/la-parroquia-del-santisimo-redentor-acoge-una-vigilia-universitaria-por-las-vocaciones/",
+      "fecha": "2026-10-08T12:00:42.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Arcos de la Frontera vivirá este sábado una jornada histórica con la Procesión Magna de once hermandades",
+      "url": "https://odisur.es/asidonia-jerez/arcos-de-la-frontera-vivira-este-sabado-una-jornada-historica-con-la-procesion-magna-de-once-hermandades/",
+      "fecha": "2026-10-08T10:11:59.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "D. Antonio Aguilar toma posesión como nuevo párroco de Olvera",
+      "url": "https://odisur.es/asidonia-jerez/d-antonio-aguilar-toma-posesion-como-nuevo-parroco-de-olvera/",
+      "fecha": "2026-10-08T10:09:15.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "url": "https://www.catedraldesevilla.es/la-catedral-adquiere-una-nueva-peana-de-plata-para-la-cruz-patriarcal-del-altar-mayor/",
       "titulo": "La Catedral adquiere una nueva peana de plata para la Cruz Patriarcal del Altar Mayor",
       "fecha": "2026-10-08T10:00:00.000Z",
       "fuente": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "El Comedor Santo Domingo hace un llamamiento a la solidaridad",
+      "url": "https://odisur.es/malaga/el-comedor-santo-domingo-hace-un-llamamiento-a-la-solidaridad/",
+      "fecha": "2026-10-08T09:45:00.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "FUENGIROLA. Oración ecuménica por la unidad y por los difuntos",
+      "url": "https://odisur.es/malaga/fuengirola-oracion-ecumenica-por-la-unidad-y-por-los-difuntos/",
+      "fecha": "2026-10-08T09:42:00.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "Santomera celebra a su patrona",
@@ -24,6 +54,18 @@
       "url": "https://www.archisevilla.org/la-guardia-civil-entrega-a-la-parroquia-de-el-viso-del-alcor-una-bula-papal-del-siglo-xvi-desaparecida-hace-decadas/",
       "fecha": "2026-10-08T09:00:27.000Z",
       "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Carta del jesuita José Alberni",
+      "url": "https://odisur.es/malaga/carta-del-jesuita-jose-alberni/",
+      "fecha": "2026-10-08T08:44:00.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "«Dios te ama como eres, pero te sueña mejor». Crónica del Camino de Santiago Penitenciario",
+      "url": "https://odisur.es/malaga/dios-te-ama-como-eres-pero-te-suena-mejor-cronica-del-camino-de-santiago-penitenciario/",
+      "fecha": "2026-10-08T08:20:00.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "Granada se reúne en torno a la Virgen del Rosario, copatrona",
@@ -240,78 +282,6 @@
       "url": "https://www.archisevilla.org/el-lebrijano-francisco-garcia-recibe-la-medalla-pro-ecclesia-hispalense/",
       "fecha": "2026-10-06T18:45:12.000Z",
       "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "Ampliación del horario para la visita a la Exposición “Kerygma. El arte de evangelizar”",
-      "url": "https://odisur.es/granada/ampliacion-del-horario-para-la-visita-a-la-exposicion-kerygma-el-arte-de-evangelizar/",
-      "fecha": "2026-10-06T12:15:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Proceso de reflexión y escucha sobre vulneración de derechos para personas sin hogar",
-      "url": "https://odisur.es/malaga/proceso-de-reflexion-y-escucha-sobre-vulneracion-de-derechos-para-personas-sin-hogar/",
-      "fecha": "2026-10-06T12:01:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Aplazada al 16 de octubre la toma de posesión del nuevo párroco de El Gastor por la alerta meteorológica",
-      "url": "https://odisur.es/asidonia-jerez/aplazada-al-16-de-octubre-la-toma-de-posesion-del-nuevo-parroco-de-el-gastor-por-la-alerta-meteorologica/",
-      "fecha": "2026-10-06T12:00:28.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "‘Diseñando nuevos mapas de Esperanza’, la gran cita del mundo educativo católico en la Catedral de Sevilla",
-      "url": "https://www.archisevilla.org/disenando-nuevos-mapas-de-esperanza-la-gran-cita-del-mundo-educativo-catolico-en-la-catedral-de-sevilla/",
-      "fecha": "2026-10-06T12:00:04.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "Concierto en Granada con el Coro de la Catedral de San Sebastián y la organista Fernández Vivas",
-      "url": "https://odisur.es/granada/concierto-en-granada-con-el-coro-de-la-catedral-de-san-sebastian-y-la-organista-fernandez-vivas/",
-      "fecha": "2026-10-06T11:42:53.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Nuevo grupo de Mutua Ayuda en el Duelo",
-      "url": "https://odisur.es/cadiz-y-ceuta/nuevo-grupo-de-mutua-ayuda-en-el-duelo/",
-      "fecha": "2026-10-06T11:37:39.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Vigilia por las vocaciones. “Palabra que llama. Iglesia que envía”",
-      "url": "https://odisur.es/tenerife/vigilia-por-las-vocaciones-palabra-que-llama-iglesia-que-envia/",
-      "fecha": "2026-10-06T11:33:25.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Aracena acogerá la XIII Jornada de Historia Dominicana de la antigua Provincia Bética",
-      "url": "https://odisur.es/huelva/aracena-acogera-la-xiii-jornada-de-historia-dominicana-de-la-antigua-provincia-betica/",
-      "fecha": "2026-10-06T11:32:57.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "V Retiro de Bartimeo",
-      "url": "https://odisur.es/tenerife/v-retiro-de-bartimeo/",
-      "fecha": "2026-10-06T11:32:50.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Ferreira nombra Alcalde Honorífico y Perpetuo a su patrón, San Francisco de Asís",
-      "url": "https://odisur.es/guadix/ferreira-nombra-alcalde-honorifico-y-perpetuo-a-su-patron-san-francisco-de-asis/",
-      "fecha": "2026-10-06T11:29:34.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Comienza su andadura un nuevo grupo de “Oración de Madres” en la parroquia de Alquife",
-      "url": "https://odisur.es/guadix/comienza-su-andadura-un-nuevo-grupo-de-oracion-de-madres-en-la-parroquia-de-alquife/",
-      "fecha": "2026-10-06T11:28:55.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "El Equipo Sinodal Diocesano invita a trabajar en las parroquias el documento «La renovación misionera sinodal de la parroquia»",
-      "url": "https://odisur.es/asidonia-jerez/el-equipo-sinodal-diocesano-invita-a-trabajar-en-las-parroquias-el-documento-la-renovacion-misionera-sinodal-de-la-parroquia/",
-      "fecha": "2026-10-06T11:24:58.000Z",
-      "fuente": "ODISUR"
     }
   ],
   "proximosActos": [
