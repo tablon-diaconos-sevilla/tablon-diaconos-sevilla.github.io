@@ -1,11 +1,29 @@
 {
-  "generadoEn": "2026-10-08T15:24:32.424Z",
+  "generadoEn": "2026-10-08T16:25:46.724Z",
   "titulares": [
     {
       "titulo": "La Pastoral Familiar celebra una nueva edición del retiro Un amor que no termina",
       "url": "https://www.archisevilla.org/la-pastoral-familiar-celebra-una-nueva-edicion-del-retiro-un-amor-que-no-termina/",
       "fecha": "2026-10-08T15:00:46.000Z",
       "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Siete claves para caminar como Iglesia diocesana: las principales orientaciones de Monseñor José Rico Pavés para el nuevo curso pastoral",
+      "url": "https://odisur.es/asidonia-jerez/siete-claves-para-caminar-como-iglesia-diocesana-las-principales-orientaciones-de-monsenor-jose-rico-paves-para-el-nuevo-curso-pastoral/",
+      "fecha": "2026-10-08T12:45:23.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Gesto público y Eucaristía por el trabajo decente",
+      "url": "https://odisur.es/cartagena/gesto-publico-y-eucaristia-por-el-trabajo-decente/",
+      "fecha": "2026-10-08T12:42:09.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "El lienzo dominico que no es «del Rosario» sino «del Patrocinio de María»",
+      "url": "https://odisur.es/malaga/el-lienzo-dominico-que-no-es-del-rosario-sino-del-patrocinio-de-maria/",
+      "fecha": "2026-10-08T12:39:00.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "La Diócesis reúne a los ministros extraordinarios de la Sagrada Comunión",
@@ -18,6 +36,12 @@
       "url": "https://www.archisevilla.org/el-nuevo-patronato-de-la-fundacion-cardenal-spinola-impulsa-una-nueva-etapa-en-la-lucha-contra-el-paro/",
       "fecha": "2026-10-08T12:30:02.000Z",
       "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Isabel, adoradora de la Adoración Perpetua de Jerez: «Estar con Jesús Sacramentado me ha salvado de la tristeza y la desesperanza»",
+      "url": "https://odisur.es/asidonia-jerez/isabel-adoradora-de-la-adoracion-perpetua-de-jerez-estar-con-jesus-sacramentado-me-ha-salvado-de-la-tristeza-y-la-desesperanza/",
+      "fecha": "2026-10-08T12:25:47.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "La comunidad clarisa de Belalcázar, en El Espejo de la Iglesia",
@@ -711,5 +735,14 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": []
+  "errores": [
+    {
+      "fuente": "fuente_2",
+      "error": "catedraldesevilla.es: no se encontró ninguna noticia en la página (¿ha cambiado la maquetación?)"
+    },
+    {
+      "fuente": "fuente_3",
+      "error": "Status code 415"
+    }
+  ]
 }
