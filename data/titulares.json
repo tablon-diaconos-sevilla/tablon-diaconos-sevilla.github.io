@@ -1,6 +1,12 @@
 {
-  "generadoEn": "2026-10-07T23:18:42.646Z",
+  "generadoEn": "2026-10-08T00:31:47.588Z",
   "titulares": [
+    {
+      "titulo": "Se publica el calendario de cursillos de cristiandad para 2026-2027",
+      "url": "https://odisur.es/malaga/se-publica-el-calendario-de-cursillos-de-cristiandad-para-2026-2027/",
+      "fecha": "2026-10-07T19:31:00.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "Rota se reúne, como cada 7 de octubre, a los pies de su Patrona",
       "url": "https://odisur.es/asidonia-jerez/rota-se-reune-como-cada-7-de-octubre-a-los-pies-de-su-patrona/",
@@ -346,28 +352,6 @@
   ],
   "proximosActos": [
     {
-      "titulo": "Presentación de la web del Observatorio de la Piedad Popular",
-      "url": "https://www.archisevilla.org/evento/presentacion-de-la-web-del-observatorio-de-la-piedad-popular/",
-      "fecha": "2026-10-07T10:00:00.000Z",
-      "fechaFin": "2026-10-07T11:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "Arzobispado de Sevilla, plaza Virgen de los Reyes, s/n, Sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-10-07-presentacion-de-la-web-del-observatorio-de-la-piedad-popular.ics"
-    },
-    {
-      "titulo": "Vigilia de Oración por el Trabajo Decente",
-      "url": "https://www.archisevilla.org/evento/vigilia-de-oracion-por-el-trabajo-decente-3/",
-      "fecha": "2026-10-07T18:30:00.000Z",
-      "fechaFin": "2026-10-07T19:30:00.000Z",
-      "todoElDia": false,
-      "lugar": "Parroquia Nuestra Señora del Mayor Dolor",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-10-07-vigilia-de-oracion-por-el-trabajo-decente-3.ics"
-    },
-    {
       "titulo": "Eucaristía de inicio de curso del profesorado cristiano",
       "url": "https://www.archisevilla.org/evento/eucaristia-de-inicio-de-curso-del-profesorado-cristiano/",
       "fecha": "2026-10-08T17:30:00.000Z",
@@ -669,16 +653,15 @@
       "archivoIcs": "actos/2027-01-13-clero-hermandad-san-pedro-ad-vincula-4.ics"
     },
     {
-      "titulo": "Ejercicios espirituales del clero – 2.ª tanda de Febrero (14 al 19 de febrero; D. José Vilaplana, Obispo Emérito de Huelva)",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2027-02-14-ejercicios-espirituales-del-clero-2-tanda-de-febrero-14-al-1",
-      "sinEnlace": true,
+      "titulo": "CLERO | Ejercicios Espirituales",
+      "url": "https://www.archisevilla.org/evento/clero-ejercicios-espirituales-2/",
       "fecha": "2027-02-13T23:00:00.000Z",
-      "fechaFin": "2027-02-18T23:00:00.000Z",
+      "fechaFin": "2027-02-19T22:59:59.000Z",
       "todoElDia": true,
       "lugar": "Chipiona",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2027-02-14-ejercicios-espirituales-del-clero-2-tanda-de-febrero-14-al-19-de-febrero-d-jose-.ics"
+      "archivoIcs": "actos/2027-02-14-clero-ejercicios-espirituales-2.ics"
     },
     {
       "titulo": "Retiro de Cuaresma del clero (dirige D. Teodoro, Obispo Auxiliar)",
@@ -691,6 +674,17 @@
       "fuente": "Delegación para el Clero",
       "esAgenda": true,
       "archivoIcs": "actos/2027-02-18-retiro-de-cuaresma-del-clero-dirige-d-teodoro-obispo-auxiliar.ics"
+    },
+    {
+      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
+      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-5/",
+      "fecha": "2027-02-24T11:00:00.000Z",
+      "fechaFin": "2027-02-24T13:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Seminario Metropolitano de Sevilla, C/ Arzobispo Juan José Asenjo, 1, Sevilla",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2027-02-24-clero-hermandad-san-pedro-ad-vincula-5.ics"
     },
     {
       "titulo": "Misa Crismal",
