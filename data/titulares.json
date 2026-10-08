@@ -1,6 +1,18 @@
 {
-  "generadoEn": "2026-10-08T18:26:08.246Z",
+  "generadoEn": "2026-10-08T19:23:01.070Z",
   "titulares": [
+    {
+      "titulo": "“El profesor cristiano está llamado a ser evangelizador”",
+      "url": "https://www.archisevilla.org/el-profesor-cristiano-esta-llamado-a-ser-evangelizador/",
+      "fecha": "2026-10-08T18:57:24.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "“El aula es tierra de misión para hacer presente a Dios”",
+      "url": "https://odisur.es/cordoba/el-aula-es-tierra-de-mision-para-hacer-presente-a-dios/",
+      "fecha": "2026-10-08T18:35:33.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "La Pastoral Familiar celebra una nueva edición del retiro Un amor que no termina",
       "url": "https://www.archisevilla.org/la-pastoral-familiar-celebra-una-nueva-edicion-del-retiro-un-amor-que-no-termina/",
@@ -342,12 +354,6 @@
       "url": "https://odisur.es/asidonia-jerez/asidonia-jerez-celebra-15-anos-de-adoracion-perpetua-en-el-monasterio-de-las-hermanas-minimas-de-jerez/",
       "fecha": "2026-10-06T20:30:02.000Z",
       "fuente": "ODISUR"
-    },
-    {
-      "titulo": "El lebrijano Francisco García recibe la medalla Pro Ecclesia Hispalense",
-      "url": "https://www.archisevilla.org/el-lebrijano-francisco-garcia-recibe-la-medalla-pro-ecclesia-hispalense/",
-      "fecha": "2026-10-06T18:45:12.000Z",
-      "fuente": "Archidiócesis de Sevilla"
     }
   ],
   "proximosActos": [
