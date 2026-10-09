@@ -1,6 +1,12 @@
 {
-  "generadoEn": "2026-10-09T09:24:18.685Z",
+  "generadoEn": "2026-10-09T10:24:25.222Z",
   "titulares": [
+    {
+      "titulo": "El Observatorio de la Piedad Popular protagoniza la programación diocesana de COPE Sevilla este fin de semana",
+      "url": "https://www.archisevilla.org/el-observatorio-de-la-piedad-popular-protagoniza-la-programacion-diocesana-de-cope-sevilla-este-fin-de-semana/",
+      "fecha": "2026-10-09T10:00:32.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
     {
       "url": "https://www.catedraldesevilla.es/el-secretario-del-dicasterio-de-las-causas-de-los-santos-visita-la-catedral-de-sevilla-y-la-biblioteca-colombina/",
       "titulo": "El secretario del Dicasterio de las Causas de los Santos visita la Catedral de Sevilla y la Biblioteca Colombina",
@@ -293,30 +299,6 @@
       "titulo": "Mons. Ramón Valdivia llama en Cádiz a recuperar la esperanza y reconstruir la unidad bajo la protección de la Virgen del Rosario",
       "url": "https://odisur.es/cadiz-y-ceuta/mons-ramon-valdivia-llama-en-cadiz-a-recuperar-la-esperanza-y-reconstruir-la-unidad-bajo-la-proteccion-de-la-virgen-del-rosario/",
       "fecha": "2026-10-07T11:32:22.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Fuente Victoria celebra a san Francisco de Asís en el Año Jubilar Franciscano",
-      "url": "https://odisur.es/almeria/fuente-victoria-celebra-a-san-francisco-de-asis-en-el-ano-jubilar-franciscano/",
-      "fecha": "2026-10-07T10:21:49.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Manos Unidas presenta a D. Antonio la memoria de 2025 y sus proyectos para el nuevo curso",
-      "url": "https://odisur.es/almeria/manos-unidas-presenta-a-d-antonio-la-memoria-de-2025-y-sus-proyectos-para-el-nuevo-curso/",
-      "fecha": "2026-10-07T10:14:55.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "url": "https://www.catedraldesevilla.es/la-catedral-recibe-la-donacion-de-un-retrato-de-sor-francisca-dorotea/",
-      "titulo": "La Catedral recibe la donación de un retrato de Sor Francisca Dorotea",
-      "fecha": "2026-10-07T10:00:00.000Z",
-      "fuente": "Catedral de Sevilla"
-    },
-    {
-      "titulo": "El Stella Maris de Huelva inaugura su capilla con una Eucaristía celebrada para la tripulación de un buque filipino",
-      "url": "https://odisur.es/huelva/el-stella-maris-de-huelva-inaugura-su-capilla-con-una-eucaristia-celebrada-para-la-tripulacion-de-un-buque-filipino/",
-      "fecha": "2026-10-07T09:28:05.000Z",
       "fuente": "ODISUR"
     }
   ],
