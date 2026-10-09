@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-08T23:21:40.823Z",
+  "generadoEn": "2026-10-09T00:35:03.138Z",
   "titulares": [
     {
       "titulo": "Inicio de curso y envío de los educadores católicos",
@@ -363,17 +363,6 @@
     }
   ],
   "proximosActos": [
-    {
-      "titulo": "Eucaristía de inicio de curso del profesorado cristiano",
-      "url": "https://www.archisevilla.org/evento/eucaristia-de-inicio-de-curso-del-profesorado-cristiano/",
-      "fecha": "2026-10-08T17:30:00.000Z",
-      "fechaFin": "2026-10-08T18:30:00.000Z",
-      "todoElDia": false,
-      "lugar": "Catedral de Sevilla, Avenida de la Constitución s/n, Sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-10-08-eucaristia-de-inicio-de-curso-del-profesorado-cristiano.ics"
-    },
     {
       "titulo": "125 Aniversario de la Fundación Penitencial de la Hdad de San Roque",
       "url": "https://www.archisevilla.org/evento/125-aniversario-de-la-fundacion-penitencial-de-la-hdad-de-san-roque/",
@@ -745,6 +734,17 @@
       "fuente": "Delegación para el Clero",
       "esAgenda": true,
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
+    },
+    {
+      "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
+      "url": "https://www.archisevilla.org/evento/clero-hermandad-san-pedro-ad-vincula-6/",
+      "fecha": "2027-06-24T09:00:00.000Z",
+      "fechaFin": "2027-06-24T12:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "Capilla de San Pedro Ad Vincula (Parroquia de San Pedro)",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2027-06-24-clero-hermandad-san-pedro-ad-vincula-6.ics"
     }
   ],
   "errores": []
