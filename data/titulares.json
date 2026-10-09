@@ -1,6 +1,18 @@
 {
-  "generadoEn": "2026-10-09T06:28:57.015Z",
+  "generadoEn": "2026-10-09T07:24:03.309Z",
   "titulares": [
+    {
+      "titulo": "María, pilar de nuestra fe y estrella de la misión",
+      "url": "https://www.archisevilla.org/maria-pilar-de-nuestra-fe-y-estrella-de-la-mision/",
+      "fecha": "2026-10-09T07:00:54.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Canal Sur emitirá la misa de este domingo desde la Parroquia de San José de Montellano",
+      "url": "https://www.archisevilla.org/canal-sur-emitira-la-misa-de-este-domingo-desde-la-parroquia-de-san-jose-de-montellano/",
+      "fecha": "2026-10-09T07:00:28.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
     {
       "titulo": "Inicio de curso y envío de los educadores católicos",
       "url": "https://www.archisevilla.org/inicio-de-curso-y-envio-de-los-educadores-catolicos/",
@@ -312,48 +324,6 @@
       "url": "https://www.archisevilla.org/el-cof-de-san-sebastian-inaugura-el-curso-el-14-de-octubre-con-una-conferencia-sobre-el-apostolado-de-los-laicos/",
       "fecha": "2026-10-07T08:00:56.000Z",
       "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "Senderismo 24 de Octubre 2026 – Pastoral Universitaria",
-      "url": "https://odisur.es/granada/senderismo-24-de-octubre-2026-pastoral-universitaria/",
-      "fecha": "2026-10-07T07:09:01.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Ciudad de los Niños inaugura el nuevo curso bajo el lema «Una mochila cargada de esperanza»",
-      "url": "https://odisur.es/malaga/la-ciudad-de-los-ninos-inaugura-el-nuevo-curso-bajo-el-lema-una-mochila-cargada-de-esperanza/",
-      "fecha": "2026-10-07T07:08:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "UDISUR Murcia 2026",
-      "url": "https://odisur.es/granada/udisur-murcia-2026/",
-      "fecha": "2026-10-07T07:07:01.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Encuentro Diocesano de Infancia 2027",
-      "url": "https://odisur.es/granada/encuentro-diocesano-de-infancia-2027/",
-      "fecha": "2026-10-07T07:02:17.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "CURSO OFICIAL DE MONITOR DE OCIO Y TIEMPO LIBRE 2027",
-      "url": "https://odisur.es/granada/curso-oficial-de-monitor-de-ocio-y-tiempo-libre-2027/",
-      "fecha": "2026-10-07T06:59:59.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Luz de la Paz de Belén 2026",
-      "url": "https://odisur.es/granada/luz-de-la-paz-de-belen-2026/",
-      "fecha": "2026-10-07T06:58:01.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "II PEJ SUR 2026 – Andújar",
-      "url": "https://odisur.es/granada/ii-pej-sur-2026-andujar/",
-      "fecha": "2026-10-07T06:56:40.000Z",
-      "fuente": "ODISUR"
     }
   ],
   "proximosActos": [
@@ -378,17 +348,6 @@
       "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
       "archivoIcs": "actos/2026-10-10-ordenacion-de-un-presbitero-y-diacono-de-los-sagrados-corazones-padres-blancos.ics"
-    },
-    {
-      "titulo": "CLERO | Misa sacerdotes difuntos",
-      "url": "https://www.archisevilla.org/evento/clero-misa-sacerdotes-difuntos/",
-      "fecha": "2026-10-11T11:00:00.000Z",
-      "fechaFin": "2026-10-11T12:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "Capilla Real de la Catedral de Sevilla, Plaza Virgen de los Reyes, Sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-10-11-clero-misa-sacerdotes-difuntos.ics"
     },
     {
       "titulo": "XXV Aniversario de la dedicación de la Iglesia del Buen Pastor y San Juan de la Cruz, de Sevilla",
@@ -556,16 +515,15 @@
       "archivoIcs": "actos/2026-11-11-clero-consejo-de-arciprestes.ics"
     },
     {
-      "titulo": "Misa por los sacerdotes difuntos",
-      "url": "https://tablon-diaconos-sevilla.github.io/#clero-2026-11-11-misa-por-los-sacerdotes-difuntos",
-      "sinEnlace": true,
+      "titulo": "CLERO | Misa sacerdotes difuntos",
+      "url": "https://www.archisevilla.org/evento/clero-misa-sacerdotes-difuntos/",
       "fecha": "2026-11-11T12:00:00.000Z",
-      "fechaFin": null,
+      "fechaFin": "2026-11-11T13:00:00.000Z",
       "todoElDia": false,
       "lugar": "Capilla Real",
-      "fuente": "Delegación para el Clero",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
-      "archivoIcs": "actos/2026-11-11-misa-por-los-sacerdotes-difuntos.ics"
+      "archivoIcs": "actos/2026-11-11-clero-misa-sacerdotes-difuntos.ics"
     },
     {
       "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
