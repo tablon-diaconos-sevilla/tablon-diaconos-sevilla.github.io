@@ -1,11 +1,23 @@
 {
-  "generadoEn": "2026-10-10T09:21:18.754Z",
+  "generadoEn": "2026-10-10T10:20:37.010Z",
   "titulares": [
+    {
+      "titulo": "‘María, pilar de nuestra fe y estrella de la misión’, carta dominical del arzobispo de Sevilla (11-10-2026)",
+      "url": "https://www.archisevilla.org/maria-pilar-de-nuestra-fe-y-estrella-de-la-mision-carta-dominical-del-arzobispo-de-sevilla-11-10-2026/",
+      "fecha": "2026-10-10T10:00:46.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
     {
       "url": "https://www.catedraldesevilla.es/tal-dia-como-hoy-hace-520-anos-se-coloco-la-ultima-piedra-de-la-catedral-de-sevilla/",
       "titulo": "Tal día como hoy, hace 520 años, se colocó la última piedra de la Catedral de Sevilla",
       "fecha": "2026-10-10T10:00:00.000Z",
       "fuente": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "COPE ESPEJO ALMERIA: Descubrimos la exposición REGINA MARIS, 500 años de devoción a la Patrona de Almería",
+      "url": "https://odisur.es/almeria/cope-espejo-almeria-descubrimos-la-exposicion-regina-maris-500-anos-de-devocion-a-la-patrona-de-almeria/",
+      "fecha": "2026-10-10T06:55:36.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "Monseñor Saiz insta a la Hermandad de San Roque, en su 125 aniversario, a ser “escuela de fe, casa de fraternidad y taller de caridad”",
@@ -293,48 +305,6 @@
       "titulo": "LA HERIDA QUE HEREDAMOS, por Jesús Martín Gómez",
       "url": "https://odisur.es/almeria/la-herida-que-heredamos-por-jesus-martin-gomez/",
       "fecha": "2026-10-08T11:04:31.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Arcos de la Frontera vivirá este sábado una jornada histórica con la Procesión Magna de once hermandades",
-      "url": "https://odisur.es/asidonia-jerez/arcos-de-la-frontera-vivira-este-sabado-una-jornada-historica-con-la-procesion-magna-de-once-hermandades/",
-      "fecha": "2026-10-08T10:11:59.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "D. Antonio Aguilar toma posesión como nuevo párroco de Olvera",
-      "url": "https://odisur.es/asidonia-jerez/d-antonio-aguilar-toma-posesion-como-nuevo-parroco-de-olvera/",
-      "fecha": "2026-10-08T10:09:15.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "url": "https://www.catedraldesevilla.es/la-catedral-adquiere-una-nueva-peana-de-plata-para-la-cruz-patriarcal-del-altar-mayor/",
-      "titulo": "La Catedral adquiere una nueva peana de plata para la Cruz Patriarcal del Altar Mayor",
-      "fecha": "2026-10-08T10:00:00.000Z",
-      "fuente": "Catedral de Sevilla"
-    },
-    {
-      "titulo": "El Comedor Santo Domingo hace un llamamiento a la solidaridad",
-      "url": "https://odisur.es/malaga/el-comedor-santo-domingo-hace-un-llamamiento-a-la-solidaridad/",
-      "fecha": "2026-10-08T09:45:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "FUENGIROLA. Oración ecuménica por la unidad y por los difuntos",
-      "url": "https://odisur.es/malaga/fuengirola-oracion-ecumenica-por-la-unidad-y-por-los-difuntos/",
-      "fecha": "2026-10-08T09:42:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Santomera celebra a su patrona",
-      "url": "https://odisur.es/cartagena/santomera-celebra-a-su-patrona/",
-      "fecha": "2026-10-08T09:32:30.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Catequesis de Confirmación Universitarios",
-      "url": "https://odisur.es/granada/catequesis-de-confirmacion-universitarios/",
-      "fecha": "2026-10-08T09:28:18.000Z",
       "fuente": "ODISUR"
     }
   ],
