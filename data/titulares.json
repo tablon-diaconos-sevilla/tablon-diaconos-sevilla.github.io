@@ -1,11 +1,29 @@
 {
-  "generadoEn": "2026-10-13T10:25:42.810Z",
+  "generadoEn": "2026-10-13T11:24:38.926Z",
   "titulares": [
+    {
+      "titulo": "Los jóvenes de Almería se preparan para la JMJ de Seúl 2027",
+      "url": "https://odisur.es/almeria/los-jovenes-de-almeria-se-preparan-para-la-jmj-de-seul-2027/",
+      "fecha": "2026-10-13T10:16:13.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Almería participa en la Escuela de Formación de Vida Ascendente de Andalucía",
+      "url": "https://odisur.es/almeria/almeria-participa-en-la-escuela-de-formacion-de-vida-ascendente-de-andalucia/",
+      "fecha": "2026-10-13T10:08:16.000Z",
+      "fuente": "ODISUR"
+    },
     {
       "titulo": "El Movimiento de Cursillos de Cristiandad de Sevilla celebra su Ultreya de inicio de curso",
       "url": "https://www.archisevilla.org/el-movimiento-de-cursillos-de-cristiandad-de-sevilla-celebra-su-ultreya-de-inicio-de-curso/",
       "fecha": "2026-10-13T10:00:41.000Z",
       "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "url": "https://www.catedraldesevilla.es/la-catedral-de-sevilla-nominada-a-los-premios-digitales-de-sevilla-2026-seda26-en-la-categoria-de-piedad-popular/",
+      "titulo": "La Catedral de Sevilla, nominada a los Premios Digitales de Sevilla 2026 (#SEDA26) en la categoría de Piedad Popular",
+      "fecha": "2026-10-13T10:00:00.000Z",
+      "fuente": "Catedral de Sevilla"
     },
     {
       "titulo": "ANTEQUERA. Formación para acompañantes",
@@ -180,18 +198,6 @@
       "url": "https://odisur.es/granada/el-obispo-de-san-sebastian-preside-la-eucaristia-dominical-en-la-catedral-de-granada/",
       "fecha": "2026-10-11T12:07:28.000Z",
       "fuente": "ODISUR"
-    },
-    {
-      "titulo": "“Ante los retos de la Inteligencia Artificial”",
-      "url": "https://odisur.es/granada/ante-los-retos-de-la-inteligencia-artificial/",
-      "fecha": "2026-10-11T11:21:13.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "El arzobispo de Sevilla anima a los hermanos de Valme a vivir una fe que se traduzca en caridad",
-      "url": "https://www.archisevilla.org/el-arzobispo-de-sevilla-anima-a-los-hermanos-de-valme-a-vivir-una-fe-que-se-traduzca-en-caridad/",
-      "fecha": "2026-10-11T11:05:33.000Z",
-      "fuente": "Archidiócesis de Sevilla"
     }
   ],
   "proximosActos": [
