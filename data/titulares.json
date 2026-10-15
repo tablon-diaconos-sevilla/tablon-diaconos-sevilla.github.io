@@ -1,11 +1,23 @@
 {
-  "generadoEn": "2026-10-15T07:42:30.596Z",
+  "generadoEn": "2026-10-15T08:36:12.978Z",
   "titulares": [
     {
       "url": "https://www.catedraldesevilla.es/santa-teresa-de-jesus-ejemplo-de-fe-y-patrimonio-de-la-catedral/",
       "titulo": "SANTA TERESA DE JESÚS: EJEMPLO DE FE Y PATRIMONIO DE LA CATEDRAL",
       "fecha": "2026-10-15T10:00:00.000Z",
       "fuente": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "Sevilla vivirá este fin de semana en clave misionera con la celebración del DOMUND",
+      "url": "https://www.archisevilla.org/sevilla-vivira-este-fin-de-semana-en-clave-misionera-con-la-celebracion-del-domund/",
+      "fecha": "2026-10-15T08:00:40.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "Evangelio del XXIX Domingo de Tiempo Ordinario (ciclo A) en Lengua de Signos Española",
+      "url": "https://www.archisevilla.org/evangelio-del-xxix-domingo-de-tiempo-ordinario-ciclo-a-lengua-de-signos-espanola/",
+      "fecha": "2026-10-15T08:00:05.000Z",
+      "fuente": "Archidiócesis de Sevilla"
     },
     {
       "titulo": "CUANDO REPARAR NO BASTA, por Jesús Martín Gómez",
@@ -18,6 +30,12 @@
       "url": "https://www.archisevilla.org/el-poder-de-saber-gobernarse-a-uno-mismo-tribuna-en-abc-sevilla-14-10-2026/",
       "fecha": "2026-10-15T07:16:04.000Z",
       "fuente": "Archidiócesis de Sevilla"
+    },
+    {
+      "titulo": "La Hermandad y la Parroquia de las Angustias abren nuevos canales de donación para la restauración de la Basílica",
+      "url": "https://odisur.es/granada/la-hermandad-y-la-parroquia-de-las-angustias-abren-nuevos-canales-de-donacion-para-la-restauracion-de-la-basilica/",
+      "fecha": "2026-10-15T07:06:41.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "Mons. Valdivia preside el encuentro de delegados de Patrimonio de las diócesis del Sur de España",
@@ -443,36 +461,6 @@
       "titulo": "La diócesis celebra el XXXIV Encuentro Diocesano de Oración bajo el lema «El arte de la oración»",
       "url": "https://odisur.es/cadiz-y-ceuta/la-diocesis-celebra-el-xxxiv-encuentro-diocesano-de-oracion-bajo-el-lema-el-arte-de-la-oracion/",
       "fecha": "2026-10-13T08:43:39.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Cáritas Diocesana de Cádiz reivindica que no hay salud mental sin dignidad, derechos y un hogar",
-      "url": "https://odisur.es/cadiz-y-ceuta/caritas-diocesana-de-cadiz-reivindica-que-no-hay-salud-mental-sin-dignidad-derechos-y-un-hogar/",
-      "fecha": "2026-10-13T08:32:08.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Diócesis de Asidonia-Jerez se une en oración por el Papa León XIV ante su próxima intervención quirúrgica",
-      "url": "https://odisur.es/asidonia-jerez/la-diocesis-de-asidonia-jerez-se-une-en-oracion-por-el-papa-leon-xiv-ante-su-proxima-intervencion-quirurgica/",
-      "fecha": "2026-10-13T08:20:43.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "El obispo de San Sebastián visita la Capilla Real con el Coro Mariaren Bihotza Abesbatza",
-      "url": "https://odisur.es/granada/el-obispo-de-san-sebastian-visita-la-capilla-real-con-el-coro-mariaren-bihotza-abesbatza/",
-      "fecha": "2026-10-13T08:16:52.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Nueva publicación sobre la Parroquia de Santa María la Blanca de los Palacios y Villafranca",
-      "url": "https://www.archisevilla.org/nueva-publicacion-sobre-la-parroquia-de-santa-maria-la-blanca-de-los-palacios-y-villafranca/",
-      "fecha": "2026-10-13T08:00:39.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "Lucena acoge la reunión de Zona de Andalucía Occidental de ANE",
-      "url": "https://odisur.es/cordoba/lucena-acoge-la-reunion-de-zona-de-andalucia-occidental-de-ane/",
-      "fecha": "2026-10-13T07:52:28.000Z",
       "fuente": "ODISUR"
     }
   ],
