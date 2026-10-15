@@ -1,11 +1,17 @@
 {
-  "generadoEn": "2026-10-15T09:35:39.876Z",
+  "generadoEn": "2026-10-15T10:34:48.507Z",
   "titulares": [
     {
       "url": "https://www.catedraldesevilla.es/santa-teresa-de-jesus-ejemplo-de-fe-y-patrimonio-de-la-catedral/",
       "titulo": "SANTA TERESA DE JESÚS: EJEMPLO DE FE Y PATRIMONIO DE LA CATEDRAL",
       "fecha": "2026-10-15T10:00:00.000Z",
       "fuente": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "Asidonia-Jerez pone la mirada en la discapacidad y el acompañamiento en la catequesis",
+      "url": "https://odisur.es/asidonia-jerez/asidonia-jerez-pone-la-mirada-en-la-discapacidad-y-el-acompanamiento-en-la-catequesis/",
+      "fecha": "2026-10-15T09:48:15.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "Punta Umbría acoge una vigilia por el Domund en el centenario de esta jornada misionera",
@@ -402,54 +408,6 @@
       "url": "https://odisur.es/cordoba/el-cabildo-catedral-presenta-el-ciclo-de-conciertos-de-otono/",
       "fecha": "2026-10-13T11:25:32.000Z",
       "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Los jóvenes de Almería se preparan para la JMJ de Seúl 2027",
-      "url": "https://odisur.es/almeria/los-jovenes-de-almeria-se-preparan-para-la-jmj-de-seul-2027/",
-      "fecha": "2026-10-13T10:16:13.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Mercedarias de la Caridad festejan el nacimiento y santidad de su fundador, en Cájar",
-      "url": "https://odisur.es/granada/mercedarias-de-la-caridad-festejan-el-nacimiento-y-santidad-de-su-fundador-en-cajar/",
-      "fecha": "2026-10-13T10:11:17.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Nueva edición del Curso de Discernimiento Vocacional",
-      "url": "https://odisur.es/malaga/nueva-edicion-del-curso-de-discernimiento-vocacional/",
-      "fecha": "2026-10-13T10:09:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Almería participa en la Escuela de Formación de Vida Ascendente de Andalucía",
-      "url": "https://odisur.es/almeria/almeria-participa-en-la-escuela-de-formacion-de-vida-ascendente-de-andalucia/",
-      "fecha": "2026-10-13T10:08:16.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "El Movimiento de Cursillos de Cristiandad de Sevilla celebra su Ultreya de inicio de curso",
-      "url": "https://www.archisevilla.org/el-movimiento-de-cursillos-de-cristiandad-de-sevilla-celebra-su-ultreya-de-inicio-de-curso/",
-      "fecha": "2026-10-13T10:00:41.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "url": "https://www.catedraldesevilla.es/la-catedral-de-sevilla-nominada-a-los-premios-digitales-de-sevilla-2026-seda26-en-la-categoria-de-piedad-popular/",
-      "titulo": "La Catedral de Sevilla, nominada a los Premios Digitales de Sevilla 2026 (#SEDA26) en la categoría de Piedad Popular",
-      "fecha": "2026-10-13T10:00:00.000Z",
-      "fuente": "Catedral de Sevilla"
-    },
-    {
-      "titulo": "ANTEQUERA. Formación para acompañantes",
-      "url": "https://odisur.es/malaga/antequera-formacion-para-acompanantes/",
-      "fecha": "2026-10-13T09:55:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Comisión para el Sostenimiento de la Iglesia de Huelva participa en las V Jornadas nacionales de Sostenimiento",
-      "url": "https://odisur.es/huelva/la-comision-para-el-sostenimiento-de-la-iglesia-de-huelva-participa-en-las-v-jornadas-nacionales-de-sostenimiento/",
-      "fecha": "2026-10-13T09:53:27.000Z",
-      "fuente": "ODISUR"
     }
   ],
   "proximosActos": [
@@ -485,6 +443,17 @@
       "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
       "archivoIcs": "actos/2026-10-16-eucaristia-fiesta-patronal-de-los-medicos.ics"
+    },
+    {
+      "titulo": "DOMUND 2026",
+      "url": "https://www.archisevilla.org/evento/domund-2026/",
+      "fecha": "2026-10-17T22:00:00.000Z",
+      "fechaFin": "2026-10-18T21:59:59.000Z",
+      "todoElDia": true,
+      "lugar": "",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2026-10-18-domund-2026.ics"
     },
     {
       "titulo": "CLERO | Hermandad San Pedro Ad Vincula",
@@ -764,17 +733,6 @@
       "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
       "archivoIcs": "actos/2027-02-24-clero-hermandad-san-pedro-ad-vincula-5.ics"
-    },
-    {
-      "titulo": "Campaña vocacional en las parroquias de pueblos",
-      "url": "https://www.archisevilla.org/evento/campana-vocacional-en-las-parroquias-de-pueblos/",
-      "fecha": "2027-03-04T23:00:00.000Z",
-      "fechaFin": "2027-03-07T22:59:59.000Z",
-      "todoElDia": true,
-      "lugar": "",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2027-03-05-campana-vocacional-en-las-parroquias-de-pueblos.ics"
     },
     {
       "titulo": "Misa Crismal",
