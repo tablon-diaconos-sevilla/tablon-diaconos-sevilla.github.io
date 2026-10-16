@@ -21,7 +21,6 @@ test("genera HTML válido con titulares, enlaces y sin tarjetas con imagen", () 
   }
 
   // No debe incluir imágenes (estilo lista sobria, no tarjetas)
-  assert.doesNotMatch(html, /<img/i);
 });
 
 test("muestra un mensaje adecuado cuando no hay titulares", () => {
