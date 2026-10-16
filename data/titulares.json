@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-15T23:27:25.178Z",
+  "generadoEn": "2026-10-16T00:41:38.728Z",
   "titulares": [
     {
       "titulo": "Los Centros de Estudios Diocesanos inauguran el curso 2026-2027 con 25 seminaristas y una amplia oferta formativa",
@@ -472,28 +472,6 @@
   ],
   "proximosActos": [
     {
-      "titulo": "CLERO | Retiro de inicio de curso",
-      "url": "https://www.archisevilla.org/evento/clero-retiro-de-inicio-de-curso/",
-      "fecha": "2026-10-15T08:30:00.000Z",
-      "fechaFin": "2026-10-15T11:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "Seminario Metropolitano de Sevilla, C/ Arzobispo Juan José Asenjo, 1, Sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-10-15-clero-retiro-de-inicio-de-curso.ics"
-    },
-    {
-      "titulo": "Vigilia universitaria de oración",
-      "url": "https://www.archisevilla.org/evento/vigilia-universitaria-de-oracion/",
-      "fecha": "2026-10-15T18:30:00.000Z",
-      "fechaFin": "2026-10-15T20:00:00.000Z",
-      "todoElDia": false,
-      "lugar": "Parroquia del Santísimo Redentor, sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-10-15-vigilia-universitaria-de-oracion.ics"
-    },
-    {
       "titulo": "Eucaristía fiesta patronal de los médicos",
       "url": "https://www.archisevilla.org/evento/eucaristia-fiesta-patronal-de-los-medicos/",
       "fecha": "2026-10-16T16:30:00.000Z",
@@ -793,6 +771,28 @@
       "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
       "archivoIcs": "actos/2027-02-24-clero-hermandad-san-pedro-ad-vincula-5.ics"
+    },
+    {
+      "titulo": "Campaña vocacional en las parroquias de pueblos",
+      "url": "https://www.archisevilla.org/evento/campana-vocacional-en-las-parroquias-de-pueblos/",
+      "fecha": "2027-03-04T23:00:00.000Z",
+      "fechaFin": "2027-03-07T22:59:59.000Z",
+      "todoElDia": true,
+      "lugar": "",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2027-03-05-campana-vocacional-en-las-parroquias-de-pueblos.ics"
+    },
+    {
+      "titulo": "Institución de ministerios de los seminaristas",
+      "url": "https://www.archisevilla.org/evento/institucion-de-ministerios-de-los-seminaristas/",
+      "fecha": "2027-03-07T18:00:00.000Z",
+      "fechaFin": "2027-03-07T19:30:00.000Z",
+      "todoElDia": false,
+      "lugar": "",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2027-03-07-institucion-de-ministerios-de-los-seminaristas.ics"
     },
     {
       "titulo": "Misa Crismal",
