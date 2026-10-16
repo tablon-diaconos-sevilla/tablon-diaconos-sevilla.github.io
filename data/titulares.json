@@ -1,11 +1,65 @@
 {
-  "generadoEn": "2026-10-16T09:33:47.285Z",
+  "generadoEn": "2026-10-16T10:34:14.678Z",
   "titulares": [
+    {
+      "titulo": "100 años después",
+      "url": "https://odisur.es/malaga/obispo-de-malaga/100-anos-despues-2/",
+      "fecha": "2026-10-16T10:07:48.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "El DOMUND en COPE Sevilla este fin de semana",
+      "url": "https://www.archisevilla.org/el-domund-en-cope-sevilla-este-fin-de-semana/",
+      "fecha": "2026-10-16T10:00:41.000Z",
+      "fuente": "Archidiócesis de Sevilla"
+    },
     {
       "url": "https://www.catedraldesevilla.es/la-comunicacion-digital-de-la-catedral-de-sevilla-reconocida-en-los-premios-digitales-de-sevilla-2026/",
       "titulo": "La comunicación digital de la Catedral de Sevilla, reconocida en los Premios Digitales de Sevilla 2026",
       "fecha": "2026-10-16T10:00:00.000Z",
       "fuente": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "La diócesis invita a compartir y fortalecer el camino del primer anuncio",
+      "url": "https://odisur.es/canarias/la-diocesis-invita-a-compartir-y-fortalecer-el-camino-del-primer-anuncio/",
+      "fecha": "2026-10-16T09:59:17.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Las visitas de acompañamiento continúan en Ciudad Alta/San Lorenzo y el noroeste de Gran Canaria",
+      "url": "https://odisur.es/canarias/las-visitas-de-acompanamiento-continuan-en-ciudad-alta-san-lorenzo-y-el-noroeste-de-gran-canaria/",
+      "fecha": "2026-10-16T09:58:31.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Los Talleres de Oración y Vida invitan a hacer una pausa y encontrarse con Dios",
+      "url": "https://odisur.es/canarias/los-talleres-de-oracion-y-vida-invitan-a-hacer-una-pausa-y-encontrarse-con-dios/",
+      "fecha": "2026-10-16T09:57:34.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Día Mundial de la Alimentación – 16 de octubre. Manos Unidas reclama que el derecho a la alimentación sea una prioridad para construir la paz",
+      "url": "https://odisur.es/tenerife/dia-mundial-de-la-alimentacion-16-de-octubre-manos-unidas-reclama-que-el-derecho-a-la-alimentacion-sea-una-prioridad-para-construir-la-paz/",
+      "fecha": "2026-10-16T09:55:17.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Camino de la JMJ Seúl 2027",
+      "url": "https://odisur.es/tenerife/camino-de-la-jmj-seul-2027/",
+      "fecha": "2026-10-16T09:54:32.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Carta pastoral con motivo del Domund 2026",
+      "url": "https://odisur.es/tenerife/obispo-de-tenerife/carta-pastoral-con-motivo-del-domund-2026-2/",
+      "fecha": "2026-10-16T09:53:51.000Z",
+      "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Adeje acogerá unas jornadas culturales con motivo del 400 aniversario del nacimiento del Santo Hermano Pedro",
+      "url": "https://odisur.es/tenerife/adeje-acogera-unas-jornadas-culturales-con-motivo-del-400-aniversario-del-nacimiento-del-santo-hermano-pedro/",
+      "fecha": "2026-10-16T09:51:17.000Z",
+      "fuente": "ODISUR"
     },
     {
       "titulo": "El Obispo de Jaén inicia la Visita Pastoral al Arciprestazgo de Mágina",
@@ -354,48 +408,6 @@
       "url": "https://odisur.es/cordoba/la-asamblea-sinodal-diocesana-plantea-oracion-acogida-y-formacion-para-anunciar-a-cristo/",
       "fecha": "2026-10-14T10:40:03.000Z",
       "fuente": "ODISUR"
-    },
-    {
-      "titulo": "San Fernando acogerá el 28 de octubre un encuentro con la Madre Olga María del Redentor",
-      "url": "https://odisur.es/cadiz-y-ceuta/san-fernando-acogera-el-28-de-octubre-un-encuentro-con-la-madre-olga-maria-del-redentor/",
-      "fecha": "2026-10-14T10:33:06.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Cursillos de Cristiandad de Asidonia-Jerez presenta su programación para el curso 2026-2027 bajo el lema «Cristo cuenta contigo»",
-      "url": "https://odisur.es/asidonia-jerez/cursillos-de-cristiandad-de-asidonia-jerez-presenta-su-programacion-para-el-curso-2026-2027-bajo-el-lema-cristo-cuenta-contigo/",
-      "fecha": "2026-10-14T10:31:48.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "La Iglesia se prepara para celebrar los 100 años del DOMUND bajo el lema «Uno en Cristo, unidos en la misión»",
-      "url": "https://odisur.es/asidonia-jerez/la-iglesia-se-prepara-para-celebrar-los-100-anos-del-domund-bajo-el-lema-uno-en-cristo-unidos-en-la-mision/",
-      "fecha": "2026-10-14T10:16:13.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Pulpí inicia este domingo una misión parroquial con motivo del DOMUND",
-      "url": "https://odisur.es/almeria/pulpi-inicia-este-domingo-una-mision-parroquial-con-motivo-del-domund/",
-      "fecha": "2026-10-14T10:04:26.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "«Vivir con las lámparas encendidas»: la llamada de Miguel Mañara a pasar de la verdad a la caridad",
-      "url": "https://www.archisevilla.org/vivir-con-las-lamparas-encendidas-la-llamada-de-miguel-manara-a-pasar-de-la-verdad-a-la-caridad/",
-      "fecha": "2026-10-14T10:00:07.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "url": "https://www.catedraldesevilla.es/la-catedral-de-sevilla-felicita-a-miguel-martinez-torres-tras-obtener-el-doctorado-con-la-maxima-distincion-cum-laude/",
-      "titulo": "La Catedral de Sevilla felicita a Miguel Martínez Torres tras obtener el doctorado con la máxima distinción «Cum Laude»",
-      "fecha": "2026-10-14T10:00:00.000Z",
-      "fuente": "Catedral de Sevilla"
-    },
-    {
-      "url": "https://www.catedraldesevilla.es/la-catedral-homenajeara-a-herminio-gonzalez-barrionuevo-con-la-presentacion-de-su-nuevo-libro-y-un-concierto-de-la-escolania-de-sevilla/",
-      "titulo": "La Catedral homenajeará a Herminio González Barrionuevo con la presentación de su nuevo libro y un concierto de la Escolanía de Sevilla",
-      "fecha": "2026-10-14T10:00:00.000Z",
-      "fuente": "Catedral de Sevilla"
     }
   ],
   "proximosActos": [
