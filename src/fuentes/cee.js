@@ -12,7 +12,10 @@ const FUENTE = "Conferencia Episcopal Española";
 // Un titular pasa el filtro si contiene TODAS las palabras de al menos
 // uno de estos grupos (comparación sin tildes y en minúsculas).
 const FILTROS_CEE = [
-  ["nombramiento", "obispo"],
+   ["nombra", "obispo"],
+  ["nuevo obispo"],
+  ["nuevos obispos"],
+  ["nuevo arzobispo"],
   ["ordenacion", "diacono permanente"],
   ["ordenacion", "diaconos permanentes"],
   ["encuentro", "diacono permanente"],
