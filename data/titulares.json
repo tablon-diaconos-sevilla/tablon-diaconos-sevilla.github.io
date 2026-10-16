@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-16T16:33:06.341Z",
+  "generadoEn": "2026-10-16T17:30:27.731Z",
   "titulares": [
     {
       "titulo": "Lecturas del XXIX Domingo del Tiempo Ordinario (ciclo A)",
@@ -408,12 +408,6 @@
       "url": "https://odisur.es/almeria/fallece-el-sacerdote-almeriense-angel-becerra-gomez/",
       "fecha": "2026-10-14T20:13:39.000Z",
       "fuente": "ODISUR"
-    },
-    {
-      "titulo": "RONDA. Un libro recoge los 50 años de la parroquia de San Cristóbal",
-      "url": "https://odisur.es/malaga/ronda-un-libro-recoge-los-50-anos-de-la-parroquia-de-san-cristobal/",
-      "fecha": "2026-10-14T17:21:00.000Z",
-      "fuente": "ODISUR"
     }
   ],
   "proximosActos": [
@@ -789,5 +783,10 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": []
+  "errores": [
+    {
+      "fuente": "fuente_3",
+      "error": "Status code 500"
+    }
+  ]
 }
