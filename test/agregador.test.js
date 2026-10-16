@@ -78,6 +78,6 @@ test("quita la noticia repetida por la misma fuente con URL terminada en -2", as
     fuentesNoticias: [fuenteFalsa("odisur", [original, copia]), fuenteFalsa("archisevilla", [otraFuente])],
     incluirAgenda: false,
   });
-  assert.equal(resultado.titulares.length, 2); // la copia -2 fuera; la de otra fuente se mantiene
+  assert.equal(resultado.titulares.length, 1); // la copia -2 fuera; el mismo titular en Archisevilla se queda solo
   assert.ok(!resultado.titulares.some((t) => t.url.endsWith("-2/")));
 });
