@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-16T17:30:27.731Z",
+  "generadoEn": "2026-10-16T19:31:01.540Z",
   "titulares": [
     {
       "titulo": "Lecturas del XXIX Domingo del Tiempo Ordinario (ciclo A)",
@@ -96,6 +96,12 @@
       "url": "https://odisur.es/canarias/la-diocesis-invita-a-compartir-y-fortalecer-el-camino-del-primer-anuncio/",
       "fecha": "2026-10-16T09:59:17.000Z",
       "fuente": "ODISUR"
+    },
+    {
+      "titulo": "Los sacerdotes Fernando Murga y Andrés Martínez, nuevos obispos auxiliares de Madrid",
+      "url": "https://www.conferenciaepiscopal.es/fernando-murga-y-andres-martinez-nuevos-obispos-auxiliares-madrid/",
+      "fecha": "2026-10-16T09:59:00.000Z",
+      "fuente": "Conferencia Episcopal Española"
     },
     {
       "titulo": "Las visitas de acompañamiento continúan en Ciudad Alta/San Lorenzo y el noroeste de Gran Canaria",
@@ -783,10 +789,5 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": [
-    {
-      "fuente": "fuente_3",
-      "error": "Status code 500"
-    }
-  ]
+  "errores": []
 }
