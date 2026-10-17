@@ -1,3 +1,12 @@
+# Tablón en Netlify (desde octubre de 2026), sin GitHub Actions:
+# - la web se publica solo cuando cambia el código o data/agenda-clero.json;
+# - la recogida de titulares la hace cada hora la función programada
+#   netlify/functions/actualizar.mjs y la página se sirve desde Netlify Blobs
+#   (netlify/functions/pagina.mjs). Ver README.
+
 [build]
-  command = "echo Publicando la pagina generada por GitHub"
+  command = "npm ci && npm test"
   publish = "public"
+
+[functions]
+  node_bundler = "esbuild"

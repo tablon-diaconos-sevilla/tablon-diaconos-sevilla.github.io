@@ -1,3 +1,23 @@
+# Tablón — Noticias de la Iglesia · Comunidad Diaconal · Sevilla
+
+**Dirección:** https://tablon-diaconos-sevilla.netlify.app (desde el 17 oct 2026).
+La antigua https://tablon-diaconos-sevilla.github.io solo redirige aquí
+(carpeta `docs/`, publicada por GitHub Pages desde la rama `main`, carpeta `/docs`).
+
+## Cómo funciona ahora (Netlify, sin GitHub Actions)
+
+- **Recogida de titulares:** la función programada `netlify/functions/actualizar.mjs`
+  se ejecuta cada hora (minuto 7) en Netlify. Guarda la página, `agenda.ics`, los
+  `.ics` de cada acto y el histórico de 2 días en Netlify Blobs (almacén `tablon`).
+- **Página:** `netlify/functions/pagina.mjs` la sirve desde ese almacén. El logo
+  está en `public/logo.png`.
+- **Publicar cambios:** al subir a `main` un cambio de código o de
+  `data/agenda-clero.json`, Netlify publica solo (un deploy por cambio, no cada hora).
+- **Forzar una recogida ya:** Netlify → proyecto → Functions → `actualizar` → *Run now*.
+- `npm test`: pruebas con datos de muestra. `npm run build`: genera el tablón en local.
+
+---
+
 # Noticias de la Iglesia en Sevilla
 
 Tablón de titulares de noticias de la Iglesia en Sevilla, ordenado

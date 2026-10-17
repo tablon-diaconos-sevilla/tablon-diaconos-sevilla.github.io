@@ -2,3 +2,7 @@ node_modules/
 .DS_Store
 *.log
 .env
+public/index.html
+public/agenda.ics
+public/actos/
+.netlify/
