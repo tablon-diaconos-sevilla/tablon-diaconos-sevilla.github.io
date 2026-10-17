@@ -11,12 +11,10 @@
 // da hora o lugar, se usan los de Archisevilla.
 
 import { readFile } from "node:fs/promises";
-import path from "node:path";
-import { fileURLToPath } from "node:url";
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const ARCHIVO = path.resolve(__dirname, "..", "..", "data", "agenda-clero.json");
-const URL_SITIO = "https://tablon-diaconos-sevilla.github.io";
+// Se importa como módulo (no se lee del disco) para que viaje dentro de la
+// función de Netlify que recoge los titulares cada hora.
+import AGENDA_CLERO from "../../data/agenda-clero.json" with { type: "json" };
+import { URL_SITIO } from "../calendario.js";
 export const FUENTE_CLERO = "Delegación para el Clero";
 const ZONA = "Europe/Madrid";
 
@@ -67,8 +65,9 @@ function slug(texto) {
 }
 
 // Lee data/agenda-clero.json. `ahora` permite fijar la fecha en los tests.
-export async function obtenerActosClero({ archivo = ARCHIVO, ahora = new Date() } = {}) {
-  const datos = JSON.parse(await readFile(archivo, "utf8"));
+// `archivo` solo se usa en los tests, para leer una agenda de prueba.
+export async function obtenerActosClero({ archivo = null, ahora = new Date() } = {}) {
+  const datos = archivo ? JSON.parse(await readFile(archivo, "utf8")) : AGENDA_CLERO;
   const hoy = new Date(ahora).toLocaleDateString("sv-SE", { timeZone: ZONA });
 
   return (datos.actos || [])

@@ -25,7 +25,7 @@ export async function obtenerProximosActos() {
   return eventos.map((evento) => ({
     titulo: (evento.title || "").trim(),
     url: evento.url,
-    fecha: evento.start_date || null,
+    fecha: fechaIso(evento.start_date),
     // Datos extra para el botón "Añadir a mi agenda" (ver src/calendario.js).
     fechaFin: fechaIso(evento.end_date),
     todoElDia: Boolean(evento.all_day),
@@ -35,12 +35,43 @@ export async function obtenerProximosActos() {
   }));
 }
 
-// La API da las fechas en hora de Madrid ("2026-10-01 10:00:00"); el build
-// se ejecuta con TZ=Europe/Madrid, así que new Date() las interpreta bien.
-function fechaIso(texto) {
+// La API da las fechas en hora de Madrid ("2026-10-01 10:00:00"), sin
+// indicar el desfase. Se interpretan siempre como hora de Madrid, sea cual
+// sea la zona horaria del servidor (las funciones de Netlify van en UTC).
+export function fechaIso(texto) {
   if (!texto) return null;
-  const d = new Date(texto);
-  return Number.isNaN(d.getTime()) ? null : d.toISOString();
+  const r = String(texto).match(/^(\d{4})-(\d{2})-(\d{2})[ T](\d{2}):(\d{2})(?::(\d{2}))?$/);
+  if (!r) {
+    const d = new Date(texto);
+    return Number.isNaN(d.getTime()) ? null : d.toISOString();
+  }
+  const [a, m, d, h, min, seg] = r.slice(1).map((x) => Number(x || 0));
+  const comoUtc = Date.UTC(a, m - 1, d, h, min, seg);
+  // Desfase de Madrid en ese momento (+1 h en invierno, +2 h en verano).
+  const desfase = desfaseMadridMs(comoUtc);
+  let ms = comoUtc - desfase;
+  // Corrección en los días de cambio de hora.
+  const desfase2 = desfaseMadridMs(ms);
+  if (desfase2 !== desfase) ms = comoUtc - desfase2;
+  return new Date(ms).toISOString();
+}
+
+function desfaseMadridMs(ms) {
+  const partes = Object.fromEntries(
+    new Intl.DateTimeFormat("en-US", {
+      timeZone: "Europe/Madrid",
+      hourCycle: "h23",
+      year: "numeric", month: "2-digit", day: "2-digit",
+      hour: "2-digit", minute: "2-digit", second: "2-digit",
+    })
+      .formatToParts(new Date(ms))
+      .map((p) => [p.type, p.value])
+  );
+  const local = Date.UTC(
+    +partes.year, +partes.month - 1, +partes.day,
+    +partes.hour, +partes.minute, +partes.second
+  );
+  return local - Math.floor(ms / 1000) * 1000;
 }
 
 // "venue" puede venir como objeto ({ venue, address, city }) o vacío ([]).
