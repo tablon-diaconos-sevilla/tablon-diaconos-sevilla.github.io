@@ -16,6 +16,22 @@ import { quitarDuplicados } from "./duplicados.js";
 
 const FUENTES_NOTICIAS = [archisevilla, odisur, catedral, cee];
 
+// Tiempo máximo de espera por fuente. La recogida automática en Netlify
+// tiene un límite de 30 segundos en total, así que una web caída o lenta no
+// debe bloquear a las demás: se anota como error y se sigue.
+const LIMITE_POR_FUENTE_MS = 15000;
+
+function conLimite(promesa, nombre, ms = LIMITE_POR_FUENTE_MS) {
+  let temporizador;
+  const limite = new Promise((_, rechazar) => {
+    temporizador = setTimeout(
+      () => rechazar(new Error(`${nombre}: sin respuesta en ${ms / 1000} s`)),
+      ms
+    );
+  });
+  return Promise.race([promesa, limite]).finally(() => clearTimeout(temporizador));
+}
+
 function normalizarFecha(fecha) {
   if (!fecha) return null;
   const d = new Date(fecha);
@@ -52,9 +68,20 @@ export async function agregarTitulares({
   fuenteClero = agendaClero,
   incluirAgenda = true,
 } = {}) {
-  const resultadosNoticias = await Promise.allSettled(
-    fuentesNoticias.map((f) => f.obtenerTitulares())
-  );
+  // Noticias y agenda se piden a la vez (no una detrás de otra).
+  const [resultadosNoticias, resultadoAgenda] = await Promise.all([
+    Promise.allSettled(
+      fuentesNoticias.map((f, i) =>
+        conLimite(Promise.resolve().then(() => f.obtenerTitulares()), f.name || `fuente_${i}`)
+      )
+    ),
+    incluirAgenda
+      ? conLimite(Promise.resolve().then(() => fuenteAgenda.obtenerProximosActos()), "agenda").then(
+          (valor) => ({ status: "fulfilled", value: valor }),
+          (motivo) => ({ status: "rejected", reason: motivo })
+        )
+      : null,
+  ]);
 
   const errores = [];
   let titulares = [];
@@ -72,10 +99,11 @@ export async function agregarTitulares({
 
   let proximosActos = [];
   if (incluirAgenda) {
-    try {
-      proximosActos = await fuenteAgenda.obtenerProximosActos();
-    } catch (error) {
-      errores.push({ fuente: "agenda", error: error.message || String(error) });
+    if (resultadoAgenda.status === "fulfilled") {
+      proximosActos = resultadoAgenda.value;
+    } else {
+      const e = resultadoAgenda.reason;
+      errores.push({ fuente: "agenda", error: e?.message || String(e) });
     }
 
     // Agenda anual de la Delegación para el Clero (data/agenda-clero.json),

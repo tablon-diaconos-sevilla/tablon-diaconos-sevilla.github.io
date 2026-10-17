@@ -18,6 +18,7 @@ function formatearFecha(isoString) {
   const d = new Date(isoString);
   if (Number.isNaN(d.getTime())) return "Sin fecha";
   return d.toLocaleDateString("es-ES", {
+    timeZone: "Europe/Madrid",
     day: "2-digit",
     month: "long",
     year: "numeric",
@@ -71,6 +72,7 @@ function renderizarSeccion(titulo, items, mensajeVacio, pie = "") {
 
 export function generarPaginaHtml({ generadoEn, titulares, proximosActos }) {
   const actualizado = new Date(generadoEn).toLocaleString("es-ES", {
+    timeZone: "Europe/Madrid",
     dateStyle: "long",
     timeStyle: "short",
   });

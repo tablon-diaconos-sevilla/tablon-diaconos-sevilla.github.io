@@ -10,7 +10,7 @@
 // Las horas se escriben en UTC (terminadas en "Z"): así cada móvil las
 // muestra en su hora local sin desfases de horario de verano.
 
-export const URL_SITIO = "https://tablon-diaconos-sevilla.github.io";
+export const URL_SITIO = "https://tablon-diaconos-sevilla.netlify.app";
 export const NOMBRE_CALENDARIO = "Tablón – Comunidad Diaconal de Sevilla";
 const ZONA = "Europe/Madrid";
 const DURACION_POR_DEFECTO_MS = 60 * 60 * 1000; // 1 hora
