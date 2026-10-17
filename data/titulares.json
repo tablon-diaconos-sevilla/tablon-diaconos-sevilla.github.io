@@ -1,11 +1,17 @@
 {
-  "generadoEn": "2026-10-17T08:30:25.195Z",
+  "generadoEn": "2026-10-17T09:29:13.977Z",
   "titulares": [
     {
       "url": "https://www.catedraldesevilla.es/la-catedral-homenajea-a-herminio-gonzalez-tras-39-anos-al-servicio-de-su-musica-y-su-liturgia/",
       "titulo": "La Catedral homenajea a Herminio González tras 39 años al servicio de su música y su liturgia",
       "fecha": "2026-10-17T10:00:00.000Z",
       "fuente": "Catedral de Sevilla"
+    },
+    {
+      "titulo": "El arzobispo de Sevilla agradece a los médicos su servicio a la vida",
+      "url": "https://www.archisevilla.org/el-arzobispo-de-sevilla-agradece-a-los-medicos-su-servicio-a-la-vida/",
+      "fecha": "2026-10-17T09:28:06.000Z",
+      "fuente": "Archidiócesis de Sevilla"
     },
     {
       "titulo": "‘Uno en cristo, unidos en la misión’, carta dominical del arzobispo de Sevilla (18-10-2026)",
@@ -359,24 +365,6 @@
       "titulo": "La Delegación Diocesana para el Patrimonio participa en Córdoba en una reunión de responsables de patrimonio de las diócesis andaluzas",
       "url": "https://odisur.es/huelva/la-delegacion-diocesana-para-el-patrimonio-participa-en-cordoba-en-una-reunion-de-responsables-de-patrimonio-de-las-diocesis-andaluzas/",
       "fecha": "2026-10-15T09:44:03.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "El profesorado de Religión Católica renueva su compromiso eclesial en Algeciras y su vocación educadora en Fátima",
-      "url": "https://odisur.es/cadiz-y-ceuta/el-profesorado-de-religion-catolica-renueva-su-compromiso-eclesial-en-algeciras-y-su-vocacion-educadora-en-fatima/",
-      "fecha": "2026-10-15T09:03:56.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Triduo a santa Ángela de la Cruz",
-      "url": "https://odisur.es/malaga/triduo-a-santa-angela-de-la-cruz/",
-      "fecha": "2026-10-15T08:48:00.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Mons. Valdivia preside en Córdoba el encuentro de delegados de Patrimonio de las diócesis del Sur de España",
-      "url": "https://odisur.es/cadiz-y-ceuta/mons-valdivia-preside-en-cordoba-el-encuentro-de-delegados-de-patrimonio-de-las-diocesis-del-sur-de-espana/",
-      "fecha": "2026-10-15T08:45:12.000Z",
       "fuente": "ODISUR"
     }
   ],
