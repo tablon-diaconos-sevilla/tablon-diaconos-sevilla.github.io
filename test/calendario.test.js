@@ -55,7 +55,7 @@ test("la página muestra los botones solo en los próximos actos", () => {
   assert.equal(html.match(/📅 iPhone/g).length, 1);
   assert.equal(html.match(/📅 Android \/ Google/g).length, 1);
   assert.match(html, /href="actos\/2026-10-17-encuentro-diaconos\.ics"/);
-  assert.match(html, /webcal:\/\/tablon-diaconos-sevilla\.github\.io\/agenda\.ics/);
+  assert.match(html, /webcal:\/\/tablon-diaconos-sevilla\.netlify\.app\/agenda\.ics/);
 });
 
 test("acto publicado a las 00:00 de Madrid se trata como de todo el día", () => {
