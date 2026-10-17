@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-17T11:28:20.760Z",
+  "generadoEn": "2026-10-17T12:34:24.048Z",
   "titulares": [
     {
       "url": "https://www.catedraldesevilla.es/la-catedral-homenajea-a-herminio-gonzalez-tras-39-anos-al-servicio-de-su-musica-y-su-liturgia/",
@@ -293,24 +293,6 @@
       "titulo": "La Asociación Andaluza de Barrios Ignorados reclama respuestas efectivas contra la pobreza en Córdoba",
       "url": "https://odisur.es/cordoba/la-asociacion-andaluza-de-barrios-ignorados-reclama-respuestas-efectivas-contra-la-pobreza-en-cordoba/",
       "fecha": "2026-10-15T12:34:33.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "Pastoral Juvenil de Asidonia-Jerez abre la preinscripción para la JMJ 2027 y organiza una Peregrinación Mariana a El Bosque",
-      "url": "https://odisur.es/asidonia-jerez/pastoral-juvenil-de-asidonia-jerez-abre-la-preinscripcion-para-la-jmj-2027-y-organiza-una-peregrinacion-mariana-a-el-bosque/",
-      "fecha": "2026-10-15T11:48:01.000Z",
-      "fuente": "ODISUR"
-    },
-    {
-      "titulo": "“Volver al primer amor”, una llamada a renovar la alegría del ministerio sacerdotal",
-      "url": "https://www.archisevilla.org/volver-al-primer-amor-una-llamada-a-renovar-la-alegria-del-ministerio-sacerdotal/",
-      "fecha": "2026-10-15T11:45:30.000Z",
-      "fuente": "Archidiócesis de Sevilla"
-    },
-    {
-      "titulo": "El P. Geoffrey Benjamin Kabombo toma posesión como nuevo párroco de San Pablo de Jerez",
-      "url": "https://odisur.es/asidonia-jerez/el-p-geoffrey-benjamin-kabombo-toma-posesion-como-nuevo-parroco-de-san-pablo-de-jerez/",
-      "fecha": "2026-10-15T11:39:52.000Z",
       "fuente": "ODISUR"
     }
   ],
@@ -687,5 +669,10 @@
       "archivoIcs": "actos/2027-05-27-solemnidad-del-corpus-christi.ics"
     }
   ],
-  "errores": []
+  "errores": [
+    {
+      "fuente": "fuente_3",
+      "error": "Request timed out after 60000ms"
+    }
+  ]
 }
