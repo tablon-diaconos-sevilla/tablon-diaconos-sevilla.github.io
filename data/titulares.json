@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-16T23:27:08.316Z",
+  "generadoEn": "2026-10-17T00:42:03.615Z",
   "titulares": [
     {
       "titulo": "Una imagen que alegra: el Papa León XIV celebra la Eucaristía en el Gemelli",
@@ -418,17 +418,6 @@
   ],
   "proximosActos": [
     {
-      "titulo": "Eucaristía fiesta patronal de los médicos",
-      "url": "https://www.archisevilla.org/evento/eucaristia-fiesta-patronal-de-los-medicos/",
-      "fecha": "2026-10-16T16:30:00.000Z",
-      "fechaFin": "2026-10-16T17:30:00.000Z",
-      "todoElDia": false,
-      "lugar": "Colegio de Médicos de Sevilla",
-      "fuente": "Agenda — Archidiócesis de Sevilla",
-      "esAgenda": true,
-      "archivoIcs": "actos/2026-10-16-eucaristia-fiesta-patronal-de-los-medicos.ics"
-    },
-    {
       "titulo": "DOMUND 2026",
       "url": "https://www.archisevilla.org/evento/domund-2026/",
       "fecha": "2026-10-17T22:00:00.000Z",
@@ -739,6 +728,17 @@
       "fuente": "Agenda — Archidiócesis de Sevilla",
       "esAgenda": true,
       "archivoIcs": "actos/2027-03-07-institucion-de-ministerios-de-los-seminaristas.ics"
+    },
+    {
+      "titulo": "Jornada de Puertas Abiertas del Seminario Metropolitano",
+      "url": "https://www.archisevilla.org/evento/jornada-de-puertas-abiertas-del-seminario-metropolitano-2/",
+      "fecha": "2027-03-12T16:00:00.000Z",
+      "fechaFin": "2027-03-12T19:00:00.000Z",
+      "todoElDia": false,
+      "lugar": "",
+      "fuente": "Agenda — Archidiócesis de Sevilla",
+      "esAgenda": true,
+      "archivoIcs": "actos/2027-03-12-jornada-de-puertas-abiertas-del-seminario-metropolitano-2.ics"
     },
     {
       "titulo": "Misa Crismal",
