@@ -233,6 +233,25 @@ export function generarPaginaHtml({ generadoEn, titulares, proximosActos }) {
     Actualizado automáticamente el ${escapeHtml(actualizado)}. Fuentes: Archidiócesis de Sevilla, ODISUR, Catedral de Sevilla, Conferencia Episcopal Española y Delegación para el Clero.
   </footer>
 </main>
+<script>
+  // Contador de visitas (sin cookies): avisa a /api/visita.
+  (function () {
+    function avisar(datos) {
+      try {
+        var cuerpo = JSON.stringify(datos);
+        if (navigator.sendBeacon) navigator.sendBeacon("/api/visita", cuerpo);
+        else fetch("/api/visita", { method: "POST", body: cuerpo, keepalive: true });
+      } catch (e) {}
+    }
+    avisar({ tipo: "pagina" });
+    document.addEventListener("click", function (ev) {
+      var a = ev.target.closest && ev.target.closest("a");
+      if (!a) return;
+      if (a.classList.contains("titular__enlace")) avisar({ tipo: "titular", url: a.href, titulo: a.textContent });
+      else if (a.classList.contains("agenda__boton") || a.closest(".suscripcion")) avisar({ tipo: "calendario" });
+    });
+  })();
+</script>
 </body>
 </html>
 `;
